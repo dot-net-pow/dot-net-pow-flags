@@ -1,2 +1,2 @@
-# dot-net-pow-flags
-C#, Javascript and CSS libraries for using flags in projects
+# .Net Pow! Flags
+CSS library for using flags in projects
