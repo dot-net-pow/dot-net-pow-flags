@@ -1,4 +1,4 @@
-<img src="dot-net-pow-alt.png" alt=".Net Pow! Flags">  &nbsp;&nbsp;&nbsp; <img src="dot-net-pow.png" alt=".Net Pow! Flags" style="display:inline-block;">
+<img src="dot-net-pow-alt.png" alt=".Net Pow! Flags"> 
 
 <br>
 
