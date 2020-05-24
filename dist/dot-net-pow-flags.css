@@ -1,0 +1,8549 @@
+.dot-net-pow-flags { 
+	background-position-x: center;
+	background-position-y: center;
+	background-repeat: no-repeat;
+	display: inline-block;
+}
+
+.dot-net-pow-flags.dnp-rocks,
+.dot-net-pow-flags.dot-net-pow
+{
+	background-image: url(images/h20/dot-net-pow.png);
+	background-size: 38px 20px;
+	width: 38px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.dnp-rocks.h24,
+.dot-net-pow-flags.dot-net-pow.h24
+{
+	background-image: url(images/h24/dot-net-pow.png);
+	background-size: 46px 24px;
+	width: 46px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.dnp-rocks.h48,
+.dot-net-pow-flags.dot-net-pow.h48
+{
+	background-image: url(images/h48/dot-net-pow.png);
+	background-size: 91px 48px;
+	width: 91px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.dnp-rocks-alt,
+.dot-net-pow-flags.dot-net-pow-alt
+{
+	background-image: url(images/h20/dot-net-pow-alt.png);
+	background-size: 38px 20px;
+	width: 38px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.dnp-rocks-alt.h24,
+.dot-net-pow-flags.dot-net-pow-alt.h24
+{
+	background-image: url(images/h24/dot-net-pow-alt.png);
+	background-size: 46px 24px;
+	width: 46px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.dnp-rocks-alt.h48,
+.dot-net-pow-flags.dot-net-pow-alt.h48
+{
+	background-image: url(images/h48/dot-net-pow-alt.png);
+	background-size: 91px 48px;
+	width: 91px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.af,
+.dot-net-pow-flags.afghanistan,
+.dot-net-pow-flags.fa-af,
+.dot-net-pow-flags.ps-af,
+.dot-net-pow-flags.uz-arab-af
+{
+	background-image: url(images/h20/af.png);
+	background-size: 30px 20px;
+	width: 30px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.af.h24,
+.dot-net-pow-flags.afghanistan.h24,
+.dot-net-pow-flags.fa-af.h24,
+.dot-net-pow-flags.ps-af.h24,
+.dot-net-pow-flags.uz-arab-af.h24
+{
+	background-image: url(images/h24/af.png);
+	background-size: 36px 24px;
+	width: 36px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.af.h48,
+.dot-net-pow-flags.afghanistan.h48,
+.dot-net-pow-flags.fa-af.h48,
+.dot-net-pow-flags.ps-af.h48,
+.dot-net-pow-flags.uz-arab-af.h48
+{
+	background-image: url(images/h48/af.png);
+	background-size: 72px 48px;
+	width: 72px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.ax,
+.dot-net-pow-flags.aland-islands,
+.dot-net-pow-flags.sv-ax
+{
+	background-image: url(images/h20/ax.png);
+	background-size: 31px 20px;
+	width: 31px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.ax.h24,
+.dot-net-pow-flags.aland-islands.h24,
+.dot-net-pow-flags.sv-ax.h24
+{
+	background-image: url(images/h24/ax.png);
+	background-size: 37px 24px;
+	width: 37px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.ax.h48,
+.dot-net-pow-flags.aland-islands.h48,
+.dot-net-pow-flags.sv-ax.h48
+{
+	background-image: url(images/h48/ax.png);
+	background-size: 73px 48px;
+	width: 73px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.al,
+.dot-net-pow-flags.albania,
+.dot-net-pow-flags.sq-al
+{
+	background-image: url(images/h20/al.png);
+	background-size: 28px 20px;
+	width: 28px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.al.h24,
+.dot-net-pow-flags.albania.h24,
+.dot-net-pow-flags.sq-al.h24
+{
+	background-image: url(images/h24/al.png);
+	background-size: 34px 24px;
+	width: 34px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.al.h48,
+.dot-net-pow-flags.albania.h48,
+.dot-net-pow-flags.sq-al.h48
+{
+	background-image: url(images/h48/al.png);
+	background-size: 67px 48px;
+	width: 67px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.dz,
+.dot-net-pow-flags.algeria,
+.dot-net-pow-flags.ar-dz,
+.dot-net-pow-flags.fr-dz,
+.dot-net-pow-flags.kab-dz
+{
+	background-image: url(images/h20/dz.png);
+	background-size: 30px 20px;
+	width: 30px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.dz.h24,
+.dot-net-pow-flags.algeria.h24,
+.dot-net-pow-flags.ar-dz.h24,
+.dot-net-pow-flags.fr-dz.h24,
+.dot-net-pow-flags.kab-dz.h24
+{
+	background-image: url(images/h24/dz.png);
+	background-size: 36px 24px;
+	width: 36px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.dz.h48,
+.dot-net-pow-flags.algeria.h48,
+.dot-net-pow-flags.ar-dz.h48,
+.dot-net-pow-flags.fr-dz.h48,
+.dot-net-pow-flags.kab-dz.h48
+{
+	background-image: url(images/h48/dz.png);
+	background-size: 72px 48px;
+	width: 72px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.as,
+.dot-net-pow-flags.american-samoa,
+.dot-net-pow-flags.en-as
+{
+	background-image: url(images/h20/as.png);
+	background-size: 40px 20px;
+	width: 40px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.as.h24,
+.dot-net-pow-flags.american-samoa.h24,
+.dot-net-pow-flags.en-as.h24
+{
+	background-image: url(images/h24/as.png);
+	background-size: 48px 24px;
+	width: 48px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.as.h48,
+.dot-net-pow-flags.american-samoa.h48,
+.dot-net-pow-flags.en-as.h48
+{
+	background-image: url(images/h48/as.png);
+	background-size: 96px 48px;
+	width: 96px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.ad,
+.dot-net-pow-flags.andorra,
+.dot-net-pow-flags.ca-ad
+{
+	background-image: url(images/h20/ad.png);
+	background-size: 29px 20px;
+	width: 29px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.ad.h24,
+.dot-net-pow-flags.andorra.h24,
+.dot-net-pow-flags.ca-ad.h24
+{
+	background-image: url(images/h24/ad.png);
+	background-size: 34px 24px;
+	width: 34px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.ad.h48,
+.dot-net-pow-flags.andorra.h48,
+.dot-net-pow-flags.ca-ad.h48
+{
+	background-image: url(images/h48/ad.png);
+	background-size: 69px 48px;
+	width: 69px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.ao,
+.dot-net-pow-flags.angola,
+.dot-net-pow-flags.ln-ao,
+.dot-net-pow-flags.pt-ao
+{
+	background-image: url(images/h20/ao.png);
+	background-size: 30px 20px;
+	width: 30px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.ao.h24,
+.dot-net-pow-flags.angola.h24,
+.dot-net-pow-flags.ln-ao.h24,
+.dot-net-pow-flags.pt-ao.h24
+{
+	background-image: url(images/h24/ao.png);
+	background-size: 36px 24px;
+	width: 36px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.ao.h48,
+.dot-net-pow-flags.angola.h48,
+.dot-net-pow-flags.ln-ao.h48,
+.dot-net-pow-flags.pt-ao.h48
+{
+	background-image: url(images/h48/ao.png);
+	background-size: 72px 48px;
+	width: 72px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.ai,
+.dot-net-pow-flags.anguilla,
+.dot-net-pow-flags.en-ai
+{
+	background-image: url(images/h20/ai.png);
+	background-size: 40px 20px;
+	width: 40px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.ai.h24,
+.dot-net-pow-flags.anguilla.h24,
+.dot-net-pow-flags.en-ai.h24
+{
+	background-image: url(images/h24/ai.png);
+	background-size: 48px 24px;
+	width: 48px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.ai.h48,
+.dot-net-pow-flags.anguilla.h48,
+.dot-net-pow-flags.en-ai.h48
+{
+	background-image: url(images/h48/ai.png);
+	background-size: 96px 48px;
+	width: 96px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.aq,
+.dot-net-pow-flags.antarctica
+{
+	background-image: url(images/h20/aq.png);
+	background-size: 30px 20px;
+	width: 30px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.aq.h24,
+.dot-net-pow-flags.antarctica.h24
+{
+	background-image: url(images/h24/aq.png);
+	background-size: 36px 24px;
+	width: 36px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.aq.h48,
+.dot-net-pow-flags.antarctica.h48
+{
+	background-image: url(images/h48/aq.png);
+	background-size: 72px 48px;
+	width: 72px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.ag,
+.dot-net-pow-flags.antigua-and-barbuda,
+.dot-net-pow-flags.en-ag
+{
+	background-image: url(images/h20/ag.png);
+	background-size: 30px 20px;
+	width: 30px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.ag.h24,
+.dot-net-pow-flags.antigua-and-barbuda.h24,
+.dot-net-pow-flags.en-ag.h24
+{
+	background-image: url(images/h24/ag.png);
+	background-size: 36px 24px;
+	width: 36px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.ag.h48,
+.dot-net-pow-flags.antigua-and-barbuda.h48,
+.dot-net-pow-flags.en-ag.h48
+{
+	background-image: url(images/h48/ag.png);
+	background-size: 72px 48px;
+	width: 72px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.ar,
+.dot-net-pow-flags.argentina,
+.dot-net-pow-flags.es-ar
+{
+	background-image: url(images/h20/ar.png);
+	background-size: 32px 20px;
+	width: 32px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.ar.h24,
+.dot-net-pow-flags.argentina.h24,
+.dot-net-pow-flags.es-ar.h24
+{
+	background-image: url(images/h24/ar.png);
+	background-size: 38px 24px;
+	width: 38px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.ar.h48,
+.dot-net-pow-flags.argentina.h48,
+.dot-net-pow-flags.es-ar.h48
+{
+	background-image: url(images/h48/ar.png);
+	background-size: 77px 48px;
+	width: 77px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.am,
+.dot-net-pow-flags.armenia,
+.dot-net-pow-flags.hy-am
+{
+	background-image: url(images/h20/am.png);
+	background-size: 40px 20px;
+	width: 40px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.am.h24,
+.dot-net-pow-flags.armenia.h24,
+.dot-net-pow-flags.hy-am.h24
+{
+	background-image: url(images/h24/am.png);
+	background-size: 48px 24px;
+	width: 48px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.am.h48,
+.dot-net-pow-flags.armenia.h48,
+.dot-net-pow-flags.hy-am.h48
+{
+	background-image: url(images/h48/am.png);
+	background-size: 96px 48px;
+	width: 96px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.aw,
+.dot-net-pow-flags.aruba,
+.dot-net-pow-flags.nl-aw
+{
+	background-image: url(images/h20/aw.png);
+	background-size: 30px 20px;
+	width: 30px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.aw.h24,
+.dot-net-pow-flags.aruba.h24,
+.dot-net-pow-flags.nl-aw.h24
+{
+	background-image: url(images/h24/aw.png);
+	background-size: 36px 24px;
+	width: 36px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.aw.h48,
+.dot-net-pow-flags.aruba.h48,
+.dot-net-pow-flags.nl-aw.h48
+{
+	background-image: url(images/h48/aw.png);
+	background-size: 72px 48px;
+	width: 72px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.au,
+.dot-net-pow-flags.australia,
+.dot-net-pow-flags.en-au
+{
+	background-image: url(images/h20/au.png);
+	background-size: 40px 20px;
+	width: 40px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.au.h24,
+.dot-net-pow-flags.australia.h24,
+.dot-net-pow-flags.en-au.h24
+{
+	background-image: url(images/h24/au.png);
+	background-size: 48px 24px;
+	width: 48px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.au.h48,
+.dot-net-pow-flags.australia.h48,
+.dot-net-pow-flags.en-au.h48
+{
+	background-image: url(images/h48/au.png);
+	background-size: 96px 48px;
+	width: 96px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.at,
+.dot-net-pow-flags.austria,
+.dot-net-pow-flags.de-at,
+.dot-net-pow-flags.en-at
+{
+	background-image: url(images/h20/at.png);
+	background-size: 30px 20px;
+	width: 30px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.at.h24,
+.dot-net-pow-flags.austria.h24,
+.dot-net-pow-flags.de-at.h24,
+.dot-net-pow-flags.en-at.h24
+{
+	background-image: url(images/h24/at.png);
+	background-size: 36px 24px;
+	width: 36px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.at.h48,
+.dot-net-pow-flags.austria.h48,
+.dot-net-pow-flags.de-at.h48,
+.dot-net-pow-flags.en-at.h48
+{
+	background-image: url(images/h48/at.png);
+	background-size: 72px 48px;
+	width: 72px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.az,
+.dot-net-pow-flags.azerbaijan,
+.dot-net-pow-flags.az-cyrl-az,
+.dot-net-pow-flags.az-latn-az
+{
+	background-image: url(images/h20/az.png);
+	background-size: 40px 20px;
+	width: 40px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.az.h24,
+.dot-net-pow-flags.azerbaijan.h24,
+.dot-net-pow-flags.az-cyrl-az.h24,
+.dot-net-pow-flags.az-latn-az.h24
+{
+	background-image: url(images/h24/az.png);
+	background-size: 48px 24px;
+	width: 48px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.az.h48,
+.dot-net-pow-flags.azerbaijan.h48,
+.dot-net-pow-flags.az-cyrl-az.h48,
+.dot-net-pow-flags.az-latn-az.h48
+{
+	background-image: url(images/h48/az.png);
+	background-size: 96px 48px;
+	width: 96px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.bs,
+.dot-net-pow-flags.bahamas,
+.dot-net-pow-flags.en-bs
+{
+	background-image: url(images/h20/bs.png);
+	background-size: 40px 20px;
+	width: 40px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.bs.h24,
+.dot-net-pow-flags.bahamas.h24,
+.dot-net-pow-flags.en-bs.h24
+{
+	background-image: url(images/h24/bs.png);
+	background-size: 48px 24px;
+	width: 48px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.bs.h48,
+.dot-net-pow-flags.bahamas.h48,
+.dot-net-pow-flags.en-bs.h48
+{
+	background-image: url(images/h48/bs.png);
+	background-size: 96px 48px;
+	width: 96px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.bh,
+.dot-net-pow-flags.bahrain,
+.dot-net-pow-flags.ar-bh
+{
+	background-image: url(images/h20/bh.png);
+	background-size: 33px 20px;
+	width: 33px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.bh.h24,
+.dot-net-pow-flags.bahrain.h24,
+.dot-net-pow-flags.ar-bh.h24
+{
+	background-image: url(images/h24/bh.png);
+	background-size: 40px 24px;
+	width: 40px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.bh.h48,
+.dot-net-pow-flags.bahrain.h48,
+.dot-net-pow-flags.ar-bh.h48
+{
+	background-image: url(images/h48/bh.png);
+	background-size: 80px 48px;
+	width: 80px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.bd,
+.dot-net-pow-flags.bangladesh,
+.dot-net-pow-flags.bn-bd
+{
+	background-image: url(images/h20/bd.png);
+	background-size: 33px 20px;
+	width: 33px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.bd.h24,
+.dot-net-pow-flags.bangladesh.h24,
+.dot-net-pow-flags.bn-bd.h24
+{
+	background-image: url(images/h24/bd.png);
+	background-size: 40px 24px;
+	width: 40px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.bd.h48,
+.dot-net-pow-flags.bangladesh.h48,
+.dot-net-pow-flags.bn-bd.h48
+{
+	background-image: url(images/h48/bd.png);
+	background-size: 80px 48px;
+	width: 80px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.bb,
+.dot-net-pow-flags.barbados,
+.dot-net-pow-flags.en-bb
+{
+	background-image: url(images/h20/bb.png);
+	background-size: 30px 20px;
+	width: 30px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.bb.h24,
+.dot-net-pow-flags.barbados.h24,
+.dot-net-pow-flags.en-bb.h24
+{
+	background-image: url(images/h24/bb.png);
+	background-size: 36px 24px;
+	width: 36px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.bb.h48,
+.dot-net-pow-flags.barbados.h48,
+.dot-net-pow-flags.en-bb.h48
+{
+	background-image: url(images/h48/bb.png);
+	background-size: 72px 48px;
+	width: 72px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.by,
+.dot-net-pow-flags.belarus,
+.dot-net-pow-flags.be-by,
+.dot-net-pow-flags.ru-by
+{
+	background-image: url(images/h20/by.png);
+	background-size: 40px 20px;
+	width: 40px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.by.h24,
+.dot-net-pow-flags.belarus.h24,
+.dot-net-pow-flags.be-by.h24,
+.dot-net-pow-flags.ru-by.h24
+{
+	background-image: url(images/h24/by.png);
+	background-size: 48px 24px;
+	width: 48px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.by.h48,
+.dot-net-pow-flags.belarus.h48,
+.dot-net-pow-flags.be-by.h48,
+.dot-net-pow-flags.ru-by.h48
+{
+	background-image: url(images/h48/by.png);
+	background-size: 96px 48px;
+	width: 96px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.be,
+.dot-net-pow-flags.belgium,
+.dot-net-pow-flags.de-be,
+.dot-net-pow-flags.en-be,
+.dot-net-pow-flags.fr-be,
+.dot-net-pow-flags.nl-be
+{
+	background-image: url(images/h20/be.png);
+	background-size: 23px 20px;
+	width: 23px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.be.h24,
+.dot-net-pow-flags.belgium.h24,
+.dot-net-pow-flags.de-be.h24,
+.dot-net-pow-flags.en-be.h24,
+.dot-net-pow-flags.fr-be.h24,
+.dot-net-pow-flags.nl-be.h24
+{
+	background-image: url(images/h24/be.png);
+	background-size: 28px 24px;
+	width: 28px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.be.h48,
+.dot-net-pow-flags.belgium.h48,
+.dot-net-pow-flags.de-be.h48,
+.dot-net-pow-flags.en-be.h48,
+.dot-net-pow-flags.fr-be.h48,
+.dot-net-pow-flags.nl-be.h48
+{
+	background-image: url(images/h48/be.png);
+	background-size: 55px 48px;
+	width: 55px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.bz,
+.dot-net-pow-flags.belize,
+.dot-net-pow-flags.en-bz,
+.dot-net-pow-flags.es-bz
+{
+	background-image: url(images/h20/bz.png);
+	background-size: 33px 20px;
+	width: 33px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.bz.h24,
+.dot-net-pow-flags.belize.h24,
+.dot-net-pow-flags.en-bz.h24,
+.dot-net-pow-flags.es-bz.h24
+{
+	background-image: url(images/h24/bz.png);
+	background-size: 40px 24px;
+	width: 40px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.bz.h48,
+.dot-net-pow-flags.belize.h48,
+.dot-net-pow-flags.en-bz.h48,
+.dot-net-pow-flags.es-bz.h48
+{
+	background-image: url(images/h48/bz.png);
+	background-size: 80px 48px;
+	width: 80px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.bj,
+.dot-net-pow-flags.benin,
+.dot-net-pow-flags.fr-bj,
+.dot-net-pow-flags.yo-bj
+{
+	background-image: url(images/h20/bj.png);
+	background-size: 30px 20px;
+	width: 30px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.bj.h24,
+.dot-net-pow-flags.benin.h24,
+.dot-net-pow-flags.fr-bj.h24,
+.dot-net-pow-flags.yo-bj.h24
+{
+	background-image: url(images/h24/bj.png);
+	background-size: 36px 24px;
+	width: 36px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.bj.h48,
+.dot-net-pow-flags.benin.h48,
+.dot-net-pow-flags.fr-bj.h48,
+.dot-net-pow-flags.yo-bj.h48
+{
+	background-image: url(images/h48/bj.png);
+	background-size: 72px 48px;
+	width: 72px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.bm,
+.dot-net-pow-flags.bermuda,
+.dot-net-pow-flags.en-bm
+{
+	background-image: url(images/h20/bm.png);
+	background-size: 40px 20px;
+	width: 40px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.bm.h24,
+.dot-net-pow-flags.bermuda.h24,
+.dot-net-pow-flags.en-bm.h24
+{
+	background-image: url(images/h24/bm.png);
+	background-size: 48px 24px;
+	width: 48px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.bm.h48,
+.dot-net-pow-flags.bermuda.h48,
+.dot-net-pow-flags.en-bm.h48
+{
+	background-image: url(images/h48/bm.png);
+	background-size: 96px 48px;
+	width: 96px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.bt,
+.dot-net-pow-flags.bhutan,
+.dot-net-pow-flags.dz-bt
+{
+	background-image: url(images/h20/bt.png);
+	background-size: 30px 20px;
+	width: 30px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.bt.h24,
+.dot-net-pow-flags.bhutan.h24,
+.dot-net-pow-flags.dz-bt.h24
+{
+	background-image: url(images/h24/bt.png);
+	background-size: 36px 24px;
+	width: 36px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.bt.h48,
+.dot-net-pow-flags.bhutan.h48,
+.dot-net-pow-flags.dz-bt.h48
+{
+	background-image: url(images/h48/bt.png);
+	background-size: 72px 48px;
+	width: 72px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.bo,
+.dot-net-pow-flags.bolivia,
+.dot-net-pow-flags.es-bo,
+.dot-net-pow-flags.qu-bo
+{
+	background-image: url(images/h20/bo.png);
+	background-size: 29px 20px;
+	width: 29px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.bo.h24,
+.dot-net-pow-flags.bolivia.h24,
+.dot-net-pow-flags.es-bo.h24,
+.dot-net-pow-flags.qu-bo.h24
+{
+	background-image: url(images/h24/bo.png);
+	background-size: 35px 24px;
+	width: 35px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.bo.h48,
+.dot-net-pow-flags.bolivia.h48,
+.dot-net-pow-flags.es-bo.h48,
+.dot-net-pow-flags.qu-bo.h48
+{
+	background-image: url(images/h48/bo.png);
+	background-size: 70px 48px;
+	width: 70px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.ba,
+.dot-net-pow-flags.bosnia-and-herzegovina,
+.dot-net-pow-flags.bs-cyrl-ba,
+.dot-net-pow-flags.bs-latn-ba,
+.dot-net-pow-flags.hr-ba,
+.dot-net-pow-flags.sr-cyrl-ba,
+.dot-net-pow-flags.sr-latn-ba
+{
+	background-image: url(images/h20/ba.png);
+	background-size: 40px 20px;
+	width: 40px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.ba.h24,
+.dot-net-pow-flags.bosnia-and-herzegovina.h24,
+.dot-net-pow-flags.bs-cyrl-ba.h24,
+.dot-net-pow-flags.bs-latn-ba.h24,
+.dot-net-pow-flags.hr-ba.h24,
+.dot-net-pow-flags.sr-cyrl-ba.h24,
+.dot-net-pow-flags.sr-latn-ba.h24
+{
+	background-image: url(images/h24/ba.png);
+	background-size: 48px 24px;
+	width: 48px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.ba.h48,
+.dot-net-pow-flags.bosnia-and-herzegovina.h48,
+.dot-net-pow-flags.bs-cyrl-ba.h48,
+.dot-net-pow-flags.bs-latn-ba.h48,
+.dot-net-pow-flags.hr-ba.h48,
+.dot-net-pow-flags.sr-cyrl-ba.h48,
+.dot-net-pow-flags.sr-latn-ba.h48
+{
+	background-image: url(images/h48/ba.png);
+	background-size: 96px 48px;
+	width: 96px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.bw,
+.dot-net-pow-flags.botswana,
+.dot-net-pow-flags.en-bw,
+.dot-net-pow-flags.tn-bw
+{
+	background-image: url(images/h20/bw.png);
+	background-size: 30px 20px;
+	width: 30px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.bw.h24,
+.dot-net-pow-flags.botswana.h24,
+.dot-net-pow-flags.en-bw.h24,
+.dot-net-pow-flags.tn-bw.h24
+{
+	background-image: url(images/h24/bw.png);
+	background-size: 36px 24px;
+	width: 36px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.bw.h48,
+.dot-net-pow-flags.botswana.h48,
+.dot-net-pow-flags.en-bw.h48,
+.dot-net-pow-flags.tn-bw.h48
+{
+	background-image: url(images/h48/bw.png);
+	background-size: 72px 48px;
+	width: 72px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.br,
+.dot-net-pow-flags.brazil,
+.dot-net-pow-flags.es-br,
+.dot-net-pow-flags.pt-br
+{
+	background-image: url(images/h20/br.png);
+	background-size: 29px 20px;
+	width: 29px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.br.h24,
+.dot-net-pow-flags.brazil.h24,
+.dot-net-pow-flags.es-br.h24,
+.dot-net-pow-flags.pt-br.h24
+{
+	background-image: url(images/h24/br.png);
+	background-size: 34px 24px;
+	width: 34px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.br.h48,
+.dot-net-pow-flags.brazil.h48,
+.dot-net-pow-flags.es-br.h48,
+.dot-net-pow-flags.pt-br.h48
+{
+	background-image: url(images/h48/br.png);
+	background-size: 69px 48px;
+	width: 69px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.io,
+.dot-net-pow-flags.british-indian-ocean-territory,
+.dot-net-pow-flags.en-io
+{
+	background-image: url(images/h20/io.png);
+	background-size: 40px 20px;
+	width: 40px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.io.h24,
+.dot-net-pow-flags.british-indian-ocean-territory.h24,
+.dot-net-pow-flags.en-io.h24
+{
+	background-image: url(images/h24/io.png);
+	background-size: 48px 24px;
+	width: 48px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.io.h48,
+.dot-net-pow-flags.british-indian-ocean-territory.h48,
+.dot-net-pow-flags.en-io.h48
+{
+	background-image: url(images/h48/io.png);
+	background-size: 96px 48px;
+	width: 96px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.vg,
+.dot-net-pow-flags.british-virgin-islands,
+.dot-net-pow-flags.en-vg
+{
+	background-image: url(images/h20/vg.png);
+	background-size: 40px 20px;
+	width: 40px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.vg.h24,
+.dot-net-pow-flags.british-virgin-islands.h24,
+.dot-net-pow-flags.en-vg.h24
+{
+	background-image: url(images/h24/vg.png);
+	background-size: 48px 24px;
+	width: 48px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.vg.h48,
+.dot-net-pow-flags.british-virgin-islands.h48,
+.dot-net-pow-flags.en-vg.h48
+{
+	background-image: url(images/h48/vg.png);
+	background-size: 96px 48px;
+	width: 96px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.bn,
+.dot-net-pow-flags.brunei,
+.dot-net-pow-flags.ms-bn
+{
+	background-image: url(images/h20/bn.png);
+	background-size: 40px 20px;
+	width: 40px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.bn.h24,
+.dot-net-pow-flags.brunei.h24,
+.dot-net-pow-flags.ms-bn.h24
+{
+	background-image: url(images/h24/bn.png);
+	background-size: 48px 24px;
+	width: 48px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.bn.h48,
+.dot-net-pow-flags.brunei.h48,
+.dot-net-pow-flags.ms-bn.h48
+{
+	background-image: url(images/h48/bn.png);
+	background-size: 96px 48px;
+	width: 96px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.bg,
+.dot-net-pow-flags.bulgaria,
+.dot-net-pow-flags.bg-bg
+{
+	background-image: url(images/h20/bg.png);
+	background-size: 33px 20px;
+	width: 33px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.bg.h24,
+.dot-net-pow-flags.bulgaria.h24,
+.dot-net-pow-flags.bg-bg.h24
+{
+	background-image: url(images/h24/bg.png);
+	background-size: 40px 24px;
+	width: 40px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.bg.h48,
+.dot-net-pow-flags.bulgaria.h48,
+.dot-net-pow-flags.bg-bg.h48
+{
+	background-image: url(images/h48/bg.png);
+	background-size: 80px 48px;
+	width: 80px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.bf,
+.dot-net-pow-flags.burkina-faso,
+.dot-net-pow-flags.fr-bf
+{
+	background-image: url(images/h20/bf.png);
+	background-size: 30px 20px;
+	width: 30px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.bf.h24,
+.dot-net-pow-flags.burkina-faso.h24,
+.dot-net-pow-flags.fr-bf.h24
+{
+	background-image: url(images/h24/bf.png);
+	background-size: 36px 24px;
+	width: 36px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.bf.h48,
+.dot-net-pow-flags.burkina-faso.h48,
+.dot-net-pow-flags.fr-bf.h48
+{
+	background-image: url(images/h48/bf.png);
+	background-size: 72px 48px;
+	width: 72px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.bi,
+.dot-net-pow-flags.burundi,
+.dot-net-pow-flags.en-bi,
+.dot-net-pow-flags.fr-bi,
+.dot-net-pow-flags.rn-bi
+{
+	background-image: url(images/h20/bi.png);
+	background-size: 33px 20px;
+	width: 33px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.bi.h24,
+.dot-net-pow-flags.burundi.h24,
+.dot-net-pow-flags.en-bi.h24,
+.dot-net-pow-flags.fr-bi.h24,
+.dot-net-pow-flags.rn-bi.h24
+{
+	background-image: url(images/h24/bi.png);
+	background-size: 40px 24px;
+	width: 40px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.bi.h48,
+.dot-net-pow-flags.burundi.h48,
+.dot-net-pow-flags.en-bi.h48,
+.dot-net-pow-flags.fr-bi.h48,
+.dot-net-pow-flags.rn-bi.h48
+{
+	background-image: url(images/h48/bi.png);
+	background-size: 80px 48px;
+	width: 80px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.kh,
+.dot-net-pow-flags.cambodia,
+.dot-net-pow-flags.km-kh
+{
+	background-image: url(images/h20/kh.png);
+	background-size: 31px 20px;
+	width: 31px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.kh.h24,
+.dot-net-pow-flags.cambodia.h24,
+.dot-net-pow-flags.km-kh.h24
+{
+	background-image: url(images/h24/kh.png);
+	background-size: 38px 24px;
+	width: 38px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.kh.h48,
+.dot-net-pow-flags.cambodia.h48,
+.dot-net-pow-flags.km-kh.h48
+{
+	background-image: url(images/h48/kh.png);
+	background-size: 75px 48px;
+	width: 75px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.cm,
+.dot-net-pow-flags.cameroon,
+.dot-net-pow-flags.agq-cm,
+.dot-net-pow-flags.bas-cm,
+.dot-net-pow-flags.dua-cm,
+.dot-net-pow-flags.en-cm,
+.dot-net-pow-flags.ewo-cm,
+.dot-net-pow-flags.ff-latn-cm,
+.dot-net-pow-flags.fr-cm,
+.dot-net-pow-flags.jgo-cm,
+.dot-net-pow-flags.kkj-cm,
+.dot-net-pow-flags.ksf-cm,
+.dot-net-pow-flags.mgo-cm,
+.dot-net-pow-flags.mua-cm,
+.dot-net-pow-flags.nmg-cm,
+.dot-net-pow-flags.nnh-cm,
+.dot-net-pow-flags.yav-cm
+{
+	background-image: url(images/h20/cm.png);
+	background-size: 30px 20px;
+	width: 30px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.cm.h24,
+.dot-net-pow-flags.cameroon.h24,
+.dot-net-pow-flags.agq-cm.h24,
+.dot-net-pow-flags.bas-cm.h24,
+.dot-net-pow-flags.dua-cm.h24,
+.dot-net-pow-flags.en-cm.h24,
+.dot-net-pow-flags.ewo-cm.h24,
+.dot-net-pow-flags.ff-latn-cm.h24,
+.dot-net-pow-flags.fr-cm.h24,
+.dot-net-pow-flags.jgo-cm.h24,
+.dot-net-pow-flags.kkj-cm.h24,
+.dot-net-pow-flags.ksf-cm.h24,
+.dot-net-pow-flags.mgo-cm.h24,
+.dot-net-pow-flags.mua-cm.h24,
+.dot-net-pow-flags.nmg-cm.h24,
+.dot-net-pow-flags.nnh-cm.h24,
+.dot-net-pow-flags.yav-cm.h24
+{
+	background-image: url(images/h24/cm.png);
+	background-size: 36px 24px;
+	width: 36px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.cm.h48,
+.dot-net-pow-flags.cameroon.h48,
+.dot-net-pow-flags.agq-cm.h48,
+.dot-net-pow-flags.bas-cm.h48,
+.dot-net-pow-flags.dua-cm.h48,
+.dot-net-pow-flags.en-cm.h48,
+.dot-net-pow-flags.ewo-cm.h48,
+.dot-net-pow-flags.ff-latn-cm.h48,
+.dot-net-pow-flags.fr-cm.h48,
+.dot-net-pow-flags.jgo-cm.h48,
+.dot-net-pow-flags.kkj-cm.h48,
+.dot-net-pow-flags.ksf-cm.h48,
+.dot-net-pow-flags.mgo-cm.h48,
+.dot-net-pow-flags.mua-cm.h48,
+.dot-net-pow-flags.nmg-cm.h48,
+.dot-net-pow-flags.nnh-cm.h48,
+.dot-net-pow-flags.yav-cm.h48
+{
+	background-image: url(images/h48/cm.png);
+	background-size: 72px 48px;
+	width: 72px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.ca,
+.dot-net-pow-flags.canada,
+.dot-net-pow-flags.en-ca,
+.dot-net-pow-flags.fr-ca,
+.dot-net-pow-flags.iu-ca,
+.dot-net-pow-flags.iu-latn-ca,
+.dot-net-pow-flags.moh-ca
+{
+	background-image: url(images/h20/ca.png);
+	background-size: 40px 20px;
+	width: 40px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.ca.h24,
+.dot-net-pow-flags.canada.h24,
+.dot-net-pow-flags.en-ca.h24,
+.dot-net-pow-flags.fr-ca.h24,
+.dot-net-pow-flags.iu-ca.h24,
+.dot-net-pow-flags.iu-latn-ca.h24,
+.dot-net-pow-flags.moh-ca.h24
+{
+	background-image: url(images/h24/ca.png);
+	background-size: 48px 24px;
+	width: 48px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.ca.h48,
+.dot-net-pow-flags.canada.h48,
+.dot-net-pow-flags.en-ca.h48,
+.dot-net-pow-flags.fr-ca.h48,
+.dot-net-pow-flags.iu-ca.h48,
+.dot-net-pow-flags.iu-latn-ca.h48,
+.dot-net-pow-flags.moh-ca.h48
+{
+	background-image: url(images/h48/ca.png);
+	background-size: 96px 48px;
+	width: 96px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.cv,
+.dot-net-pow-flags.cape-verde,
+.dot-net-pow-flags.kea-cv,
+.dot-net-pow-flags.pt-cv
+{
+	background-image: url(images/h20/cv.png);
+	background-size: 34px 20px;
+	width: 34px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.cv.h24,
+.dot-net-pow-flags.cape-verde.h24,
+.dot-net-pow-flags.kea-cv.h24,
+.dot-net-pow-flags.pt-cv.h24
+{
+	background-image: url(images/h24/cv.png);
+	background-size: 41px 24px;
+	width: 41px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.cv.h48,
+.dot-net-pow-flags.cape-verde.h48,
+.dot-net-pow-flags.kea-cv.h48,
+.dot-net-pow-flags.pt-cv.h48
+{
+	background-image: url(images/h48/cv.png);
+	background-size: 82px 48px;
+	width: 82px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.ky,
+.dot-net-pow-flags.cayman-islands,
+.dot-net-pow-flags.en-ky
+{
+	background-image: url(images/h20/ky.png);
+	background-size: 40px 20px;
+	width: 40px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.ky.h24,
+.dot-net-pow-flags.cayman-islands.h24,
+.dot-net-pow-flags.en-ky.h24
+{
+	background-image: url(images/h24/ky.png);
+	background-size: 48px 24px;
+	width: 48px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.ky.h48,
+.dot-net-pow-flags.cayman-islands.h48,
+.dot-net-pow-flags.en-ky.h48
+{
+	background-image: url(images/h48/ky.png);
+	background-size: 96px 48px;
+	width: 96px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.cf,
+.dot-net-pow-flags.central-african-republic,
+.dot-net-pow-flags.fr-cf,
+.dot-net-pow-flags.ln-cf,
+.dot-net-pow-flags.sg-cf
+{
+	background-image: url(images/h20/cf.png);
+	background-size: 30px 20px;
+	width: 30px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.cf.h24,
+.dot-net-pow-flags.central-african-republic.h24,
+.dot-net-pow-flags.fr-cf.h24,
+.dot-net-pow-flags.ln-cf.h24,
+.dot-net-pow-flags.sg-cf.h24
+{
+	background-image: url(images/h24/cf.png);
+	background-size: 36px 24px;
+	width: 36px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.cf.h48,
+.dot-net-pow-flags.central-african-republic.h48,
+.dot-net-pow-flags.fr-cf.h48,
+.dot-net-pow-flags.ln-cf.h48,
+.dot-net-pow-flags.sg-cf.h48
+{
+	background-image: url(images/h48/cf.png);
+	background-size: 72px 48px;
+	width: 72px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.td,
+.dot-net-pow-flags.chad,
+.dot-net-pow-flags.ar-td,
+.dot-net-pow-flags.fr-td
+{
+	background-image: url(images/h20/td.png);
+	background-size: 30px 20px;
+	width: 30px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.td.h24,
+.dot-net-pow-flags.chad.h24,
+.dot-net-pow-flags.ar-td.h24,
+.dot-net-pow-flags.fr-td.h24
+{
+	background-image: url(images/h24/td.png);
+	background-size: 36px 24px;
+	width: 36px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.td.h48,
+.dot-net-pow-flags.chad.h48,
+.dot-net-pow-flags.ar-td.h48,
+.dot-net-pow-flags.fr-td.h48
+{
+	background-image: url(images/h48/td.png);
+	background-size: 72px 48px;
+	width: 72px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.cl,
+.dot-net-pow-flags.chile,
+.dot-net-pow-flags.arn-cl,
+.dot-net-pow-flags.es-cl
+{
+	background-image: url(images/h20/cl.png);
+	background-size: 30px 20px;
+	width: 30px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.cl.h24,
+.dot-net-pow-flags.chile.h24,
+.dot-net-pow-flags.arn-cl.h24,
+.dot-net-pow-flags.es-cl.h24
+{
+	background-image: url(images/h24/cl.png);
+	background-size: 36px 24px;
+	width: 36px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.cl.h48,
+.dot-net-pow-flags.chile.h48,
+.dot-net-pow-flags.arn-cl.h48,
+.dot-net-pow-flags.es-cl.h48
+{
+	background-image: url(images/h48/cl.png);
+	background-size: 72px 48px;
+	width: 72px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.cn,
+.dot-net-pow-flags.china,
+.dot-net-pow-flags.bo-cn,
+.dot-net-pow-flags.ii-cn,
+.dot-net-pow-flags.mn-mong-cn,
+.dot-net-pow-flags.ug-cn,
+.dot-net-pow-flags.zh-hans-cn
+{
+	background-image: url(images/h20/cn.png);
+	background-size: 30px 20px;
+	width: 30px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.cn.h24,
+.dot-net-pow-flags.china.h24,
+.dot-net-pow-flags.bo-cn.h24,
+.dot-net-pow-flags.ii-cn.h24,
+.dot-net-pow-flags.mn-mong-cn.h24,
+.dot-net-pow-flags.ug-cn.h24,
+.dot-net-pow-flags.zh-hans-cn.h24
+{
+	background-image: url(images/h24/cn.png);
+	background-size: 36px 24px;
+	width: 36px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.cn.h48,
+.dot-net-pow-flags.china.h48,
+.dot-net-pow-flags.bo-cn.h48,
+.dot-net-pow-flags.ii-cn.h48,
+.dot-net-pow-flags.mn-mong-cn.h48,
+.dot-net-pow-flags.ug-cn.h48,
+.dot-net-pow-flags.zh-hans-cn.h48
+{
+	background-image: url(images/h48/cn.png);
+	background-size: 72px 48px;
+	width: 72px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.cx,
+.dot-net-pow-flags.christmas-island,
+.dot-net-pow-flags.en-cx
+{
+	background-image: url(images/h20/cx.png);
+	background-size: 40px 20px;
+	width: 40px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.cx.h24,
+.dot-net-pow-flags.christmas-island.h24,
+.dot-net-pow-flags.en-cx.h24
+{
+	background-image: url(images/h24/cx.png);
+	background-size: 48px 24px;
+	width: 48px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.cx.h48,
+.dot-net-pow-flags.christmas-island.h48,
+.dot-net-pow-flags.en-cx.h48
+{
+	background-image: url(images/h48/cx.png);
+	background-size: 96px 48px;
+	width: 96px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.cc,
+.dot-net-pow-flags.cocos-islands,
+.dot-net-pow-flags.en-cc
+{
+	background-image: url(images/h20/cc.png);
+	background-size: 40px 20px;
+	width: 40px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.cc.h24,
+.dot-net-pow-flags.cocos-islands.h24,
+.dot-net-pow-flags.en-cc.h24
+{
+	background-image: url(images/h24/cc.png);
+	background-size: 48px 24px;
+	width: 48px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.cc.h48,
+.dot-net-pow-flags.cocos-islands.h48,
+.dot-net-pow-flags.en-cc.h48
+{
+	background-image: url(images/h48/cc.png);
+	background-size: 96px 48px;
+	width: 96px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.co,
+.dot-net-pow-flags.colombia,
+.dot-net-pow-flags.es-co
+{
+	background-image: url(images/h20/co.png);
+	background-size: 30px 20px;
+	width: 30px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.co.h24,
+.dot-net-pow-flags.colombia.h24,
+.dot-net-pow-flags.es-co.h24
+{
+	background-image: url(images/h24/co.png);
+	background-size: 36px 24px;
+	width: 36px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.co.h48,
+.dot-net-pow-flags.colombia.h48,
+.dot-net-pow-flags.es-co.h48
+{
+	background-image: url(images/h48/co.png);
+	background-size: 72px 48px;
+	width: 72px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.km,
+.dot-net-pow-flags.comoros,
+.dot-net-pow-flags.ar-km,
+.dot-net-pow-flags.fr-km
+{
+	background-image: url(images/h20/km.png);
+	background-size: 33px 20px;
+	width: 33px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.km.h24,
+.dot-net-pow-flags.comoros.h24,
+.dot-net-pow-flags.ar-km.h24,
+.dot-net-pow-flags.fr-km.h24
+{
+	background-image: url(images/h24/km.png);
+	background-size: 40px 24px;
+	width: 40px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.km.h48,
+.dot-net-pow-flags.comoros.h48,
+.dot-net-pow-flags.ar-km.h48,
+.dot-net-pow-flags.fr-km.h48
+{
+	background-image: url(images/h48/km.png);
+	background-size: 80px 48px;
+	width: 80px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.ck,
+.dot-net-pow-flags.cook-islands,
+.dot-net-pow-flags.en-ck
+{
+	background-image: url(images/h20/ck.png);
+	background-size: 40px 20px;
+	width: 40px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.ck.h24,
+.dot-net-pow-flags.cook-islands.h24,
+.dot-net-pow-flags.en-ck.h24
+{
+	background-image: url(images/h24/ck.png);
+	background-size: 48px 24px;
+	width: 48px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.ck.h48,
+.dot-net-pow-flags.cook-islands.h48,
+.dot-net-pow-flags.en-ck.h48
+{
+	background-image: url(images/h48/ck.png);
+	background-size: 96px 48px;
+	width: 96px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.cr,
+.dot-net-pow-flags.costa-rica,
+.dot-net-pow-flags.es-cr
+{
+	background-image: url(images/h20/cr.png);
+	background-size: 33px 20px;
+	width: 33px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.cr.h24,
+.dot-net-pow-flags.costa-rica.h24,
+.dot-net-pow-flags.es-cr.h24
+{
+	background-image: url(images/h24/cr.png);
+	background-size: 40px 24px;
+	width: 40px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.cr.h48,
+.dot-net-pow-flags.costa-rica.h48,
+.dot-net-pow-flags.es-cr.h48
+{
+	background-image: url(images/h48/cr.png);
+	background-size: 80px 48px;
+	width: 80px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.hr,
+.dot-net-pow-flags.croatia,
+.dot-net-pow-flags.hr-hr
+{
+	background-image: url(images/h20/hr.png);
+	background-size: 40px 20px;
+	width: 40px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.hr.h24,
+.dot-net-pow-flags.croatia.h24,
+.dot-net-pow-flags.hr-hr.h24
+{
+	background-image: url(images/h24/hr.png);
+	background-size: 48px 24px;
+	width: 48px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.hr.h48,
+.dot-net-pow-flags.croatia.h48,
+.dot-net-pow-flags.hr-hr.h48
+{
+	background-image: url(images/h48/hr.png);
+	background-size: 96px 48px;
+	width: 96px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.cu,
+.dot-net-pow-flags.cuba,
+.dot-net-pow-flags.es-cu
+{
+	background-image: url(images/h20/cu.png);
+	background-size: 40px 20px;
+	width: 40px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.cu.h24,
+.dot-net-pow-flags.cuba.h24,
+.dot-net-pow-flags.es-cu.h24
+{
+	background-image: url(images/h24/cu.png);
+	background-size: 48px 24px;
+	width: 48px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.cu.h48,
+.dot-net-pow-flags.cuba.h48,
+.dot-net-pow-flags.es-cu.h48
+{
+	background-image: url(images/h48/cu.png);
+	background-size: 96px 48px;
+	width: 96px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.cw,
+.dot-net-pow-flags.curacao,
+.dot-net-pow-flags.nl-cw
+{
+	background-image: url(images/h20/cw.png);
+	background-size: 30px 20px;
+	width: 30px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.cw.h24,
+.dot-net-pow-flags.curacao.h24,
+.dot-net-pow-flags.nl-cw.h24
+{
+	background-image: url(images/h24/cw.png);
+	background-size: 36px 24px;
+	width: 36px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.cw.h48,
+.dot-net-pow-flags.curacao.h48,
+.dot-net-pow-flags.nl-cw.h48
+{
+	background-image: url(images/h48/cw.png);
+	background-size: 72px 48px;
+	width: 72px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.cy,
+.dot-net-pow-flags.cyprus,
+.dot-net-pow-flags.el-cy,
+.dot-net-pow-flags.en-cy,
+.dot-net-pow-flags.tr-cy
+{
+	background-image: url(images/h20/cy.png);
+	background-size: 30px 20px;
+	width: 30px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.cy.h24,
+.dot-net-pow-flags.cyprus.h24,
+.dot-net-pow-flags.el-cy.h24,
+.dot-net-pow-flags.en-cy.h24,
+.dot-net-pow-flags.tr-cy.h24
+{
+	background-image: url(images/h24/cy.png);
+	background-size: 36px 24px;
+	width: 36px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.cy.h48,
+.dot-net-pow-flags.cyprus.h48,
+.dot-net-pow-flags.el-cy.h48,
+.dot-net-pow-flags.en-cy.h48,
+.dot-net-pow-flags.tr-cy.h48
+{
+	background-image: url(images/h48/cy.png);
+	background-size: 72px 48px;
+	width: 72px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.cz,
+.dot-net-pow-flags.czech-republic,
+.dot-net-pow-flags.cs-cz
+{
+	background-image: url(images/h20/cz.png);
+	background-size: 30px 20px;
+	width: 30px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.cz.h24,
+.dot-net-pow-flags.czech-republic.h24,
+.dot-net-pow-flags.cs-cz.h24
+{
+	background-image: url(images/h24/cz.png);
+	background-size: 36px 24px;
+	width: 36px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.cz.h48,
+.dot-net-pow-flags.czech-republic.h48,
+.dot-net-pow-flags.cs-cz.h48
+{
+	background-image: url(images/h48/cz.png);
+	background-size: 72px 48px;
+	width: 72px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.cd,
+.dot-net-pow-flags.democratic-republic-of-the-congo,
+.dot-net-pow-flags.fr-cd,
+.dot-net-pow-flags.ln-cd,
+.dot-net-pow-flags.lu-cd,
+.dot-net-pow-flags.sw-cd
+{
+	background-image: url(images/h20/cd.png);
+	background-size: 27px 20px;
+	width: 27px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.cd.h24,
+.dot-net-pow-flags.democratic-republic-of-the-congo.h24,
+.dot-net-pow-flags.fr-cd.h24,
+.dot-net-pow-flags.ln-cd.h24,
+.dot-net-pow-flags.lu-cd.h24,
+.dot-net-pow-flags.sw-cd.h24
+{
+	background-image: url(images/h24/cd.png);
+	background-size: 32px 24px;
+	width: 32px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.cd.h48,
+.dot-net-pow-flags.democratic-republic-of-the-congo.h48,
+.dot-net-pow-flags.fr-cd.h48,
+.dot-net-pow-flags.ln-cd.h48,
+.dot-net-pow-flags.lu-cd.h48,
+.dot-net-pow-flags.sw-cd.h48
+{
+	background-image: url(images/h48/cd.png);
+	background-size: 64px 48px;
+	width: 64px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.dk,
+.dot-net-pow-flags.denmark,
+.dot-net-pow-flags.da-dk,
+.dot-net-pow-flags.en-dk,
+.dot-net-pow-flags.fo-dk
+{
+	background-image: url(images/h20/dk.png);
+	background-size: 26px 20px;
+	width: 26px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.dk.h24,
+.dot-net-pow-flags.denmark.h24,
+.dot-net-pow-flags.da-dk.h24,
+.dot-net-pow-flags.en-dk.h24,
+.dot-net-pow-flags.fo-dk.h24
+{
+	background-image: url(images/h24/dk.png);
+	background-size: 32px 24px;
+	width: 32px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.dk.h48,
+.dot-net-pow-flags.denmark.h48,
+.dot-net-pow-flags.da-dk.h48,
+.dot-net-pow-flags.en-dk.h48,
+.dot-net-pow-flags.fo-dk.h48
+{
+	background-image: url(images/h48/dk.png);
+	background-size: 63px 48px;
+	width: 63px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.dj,
+.dot-net-pow-flags.djibouti,
+.dot-net-pow-flags.aa-dj,
+.dot-net-pow-flags.ar-dj,
+.dot-net-pow-flags.fr-dj,
+.dot-net-pow-flags.so-dj
+{
+	background-image: url(images/h20/dj.png);
+	background-size: 30px 20px;
+	width: 30px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.dj.h24,
+.dot-net-pow-flags.djibouti.h24,
+.dot-net-pow-flags.aa-dj.h24,
+.dot-net-pow-flags.ar-dj.h24,
+.dot-net-pow-flags.fr-dj.h24,
+.dot-net-pow-flags.so-dj.h24
+{
+	background-image: url(images/h24/dj.png);
+	background-size: 36px 24px;
+	width: 36px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.dj.h48,
+.dot-net-pow-flags.djibouti.h48,
+.dot-net-pow-flags.aa-dj.h48,
+.dot-net-pow-flags.ar-dj.h48,
+.dot-net-pow-flags.fr-dj.h48,
+.dot-net-pow-flags.so-dj.h48
+{
+	background-image: url(images/h48/dj.png);
+	background-size: 72px 48px;
+	width: 72px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.dm,
+.dot-net-pow-flags.dominica,
+.dot-net-pow-flags.en-dm
+{
+	background-image: url(images/h20/dm.png);
+	background-size: 40px 20px;
+	width: 40px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.dm.h24,
+.dot-net-pow-flags.dominica.h24,
+.dot-net-pow-flags.en-dm.h24
+{
+	background-image: url(images/h24/dm.png);
+	background-size: 48px 24px;
+	width: 48px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.dm.h48,
+.dot-net-pow-flags.dominica.h48,
+.dot-net-pow-flags.en-dm.h48
+{
+	background-image: url(images/h48/dm.png);
+	background-size: 96px 48px;
+	width: 96px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.do,
+.dot-net-pow-flags.dominican-republic,
+.dot-net-pow-flags.es-do
+{
+	background-image: url(images/h20/do.png);
+	background-size: 30px 20px;
+	width: 30px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.do.h24,
+.dot-net-pow-flags.dominican-republic.h24,
+.dot-net-pow-flags.es-do.h24
+{
+	background-image: url(images/h24/do.png);
+	background-size: 36px 24px;
+	width: 36px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.do.h48,
+.dot-net-pow-flags.dominican-republic.h48,
+.dot-net-pow-flags.es-do.h48
+{
+	background-image: url(images/h48/do.png);
+	background-size: 72px 48px;
+	width: 72px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.tl,
+.dot-net-pow-flags.east-timor,
+.dot-net-pow-flags.pt-tl
+{
+	background-image: url(images/h20/tl.png);
+	background-size: 40px 20px;
+	width: 40px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.tl.h24,
+.dot-net-pow-flags.east-timor.h24,
+.dot-net-pow-flags.pt-tl.h24
+{
+	background-image: url(images/h24/tl.png);
+	background-size: 48px 24px;
+	width: 48px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.tl.h48,
+.dot-net-pow-flags.east-timor.h48,
+.dot-net-pow-flags.pt-tl.h48
+{
+	background-image: url(images/h48/tl.png);
+	background-size: 96px 48px;
+	width: 96px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.ec,
+.dot-net-pow-flags.ecuador,
+.dot-net-pow-flags.es-ec,
+.dot-net-pow-flags.qu-ec
+{
+	background-image: url(images/h20/ec.png);
+	background-size: 30px 20px;
+	width: 30px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.ec.h24,
+.dot-net-pow-flags.ecuador.h24,
+.dot-net-pow-flags.es-ec.h24,
+.dot-net-pow-flags.qu-ec.h24
+{
+	background-image: url(images/h24/ec.png);
+	background-size: 36px 24px;
+	width: 36px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.ec.h48,
+.dot-net-pow-flags.ecuador.h48,
+.dot-net-pow-flags.es-ec.h48,
+.dot-net-pow-flags.qu-ec.h48
+{
+	background-image: url(images/h48/ec.png);
+	background-size: 72px 48px;
+	width: 72px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.eg,
+.dot-net-pow-flags.egypt,
+.dot-net-pow-flags.ar-eg
+{
+	background-image: url(images/h20/eg.png);
+	background-size: 30px 20px;
+	width: 30px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.eg.h24,
+.dot-net-pow-flags.egypt.h24,
+.dot-net-pow-flags.ar-eg.h24
+{
+	background-image: url(images/h24/eg.png);
+	background-size: 36px 24px;
+	width: 36px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.eg.h48,
+.dot-net-pow-flags.egypt.h48,
+.dot-net-pow-flags.ar-eg.h48
+{
+	background-image: url(images/h48/eg.png);
+	background-size: 72px 48px;
+	width: 72px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.sv,
+.dot-net-pow-flags.el-salvador,
+.dot-net-pow-flags.es-sv
+{
+	background-image: url(images/h20/sv.png);
+	background-size: 35px 20px;
+	width: 35px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.sv.h24,
+.dot-net-pow-flags.el-salvador.h24,
+.dot-net-pow-flags.es-sv.h24
+{
+	background-image: url(images/h24/sv.png);
+	background-size: 43px 24px;
+	width: 43px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.sv.h48,
+.dot-net-pow-flags.el-salvador.h48,
+.dot-net-pow-flags.es-sv.h48
+{
+	background-image: url(images/h48/sv.png);
+	background-size: 85px 48px;
+	width: 85px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.gq,
+.dot-net-pow-flags.equatorial-guinea,
+.dot-net-pow-flags.es-gq,
+.dot-net-pow-flags.fr-gq,
+.dot-net-pow-flags.pt-gq
+{
+	background-image: url(images/h20/gq.png);
+	background-size: 30px 20px;
+	width: 30px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.gq.h24,
+.dot-net-pow-flags.equatorial-guinea.h24,
+.dot-net-pow-flags.es-gq.h24,
+.dot-net-pow-flags.fr-gq.h24,
+.dot-net-pow-flags.pt-gq.h24
+{
+	background-image: url(images/h24/gq.png);
+	background-size: 36px 24px;
+	width: 36px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.gq.h48,
+.dot-net-pow-flags.equatorial-guinea.h48,
+.dot-net-pow-flags.es-gq.h48,
+.dot-net-pow-flags.fr-gq.h48,
+.dot-net-pow-flags.pt-gq.h48
+{
+	background-image: url(images/h48/gq.png);
+	background-size: 72px 48px;
+	width: 72px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.er,
+.dot-net-pow-flags.eritrea,
+.dot-net-pow-flags.aa-er,
+.dot-net-pow-flags.ar-er,
+.dot-net-pow-flags.byn-er,
+.dot-net-pow-flags.en-er,
+.dot-net-pow-flags.ssy-er,
+.dot-net-pow-flags.ti-er,
+.dot-net-pow-flags.tig-er
+{
+	background-image: url(images/h20/er.png);
+	background-size: 40px 20px;
+	width: 40px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.er.h24,
+.dot-net-pow-flags.eritrea.h24,
+.dot-net-pow-flags.aa-er.h24,
+.dot-net-pow-flags.ar-er.h24,
+.dot-net-pow-flags.byn-er.h24,
+.dot-net-pow-flags.en-er.h24,
+.dot-net-pow-flags.ssy-er.h24,
+.dot-net-pow-flags.ti-er.h24,
+.dot-net-pow-flags.tig-er.h24
+{
+	background-image: url(images/h24/er.png);
+	background-size: 48px 24px;
+	width: 48px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.er.h48,
+.dot-net-pow-flags.eritrea.h48,
+.dot-net-pow-flags.aa-er.h48,
+.dot-net-pow-flags.ar-er.h48,
+.dot-net-pow-flags.byn-er.h48,
+.dot-net-pow-flags.en-er.h48,
+.dot-net-pow-flags.ssy-er.h48,
+.dot-net-pow-flags.ti-er.h48,
+.dot-net-pow-flags.tig-er.h48
+{
+	background-image: url(images/h48/er.png);
+	background-size: 96px 48px;
+	width: 96px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.ee,
+.dot-net-pow-flags.estonia,
+.dot-net-pow-flags.et-ee
+{
+	background-image: url(images/h20/ee.png);
+	background-size: 31px 20px;
+	width: 31px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.ee.h24,
+.dot-net-pow-flags.estonia.h24,
+.dot-net-pow-flags.et-ee.h24
+{
+	background-image: url(images/h24/ee.png);
+	background-size: 38px 24px;
+	width: 38px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.ee.h48,
+.dot-net-pow-flags.estonia.h48,
+.dot-net-pow-flags.et-ee.h48
+{
+	background-image: url(images/h48/ee.png);
+	background-size: 75px 48px;
+	width: 75px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.et,
+.dot-net-pow-flags.ethiopia,
+.dot-net-pow-flags.aa-et,
+.dot-net-pow-flags.am-et,
+.dot-net-pow-flags.om-et,
+.dot-net-pow-flags.so-et,
+.dot-net-pow-flags.ti-et,
+.dot-net-pow-flags.wal-et
+{
+	background-image: url(images/h20/et.png);
+	background-size: 40px 20px;
+	width: 40px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.et.h24,
+.dot-net-pow-flags.ethiopia.h24,
+.dot-net-pow-flags.aa-et.h24,
+.dot-net-pow-flags.am-et.h24,
+.dot-net-pow-flags.om-et.h24,
+.dot-net-pow-flags.so-et.h24,
+.dot-net-pow-flags.ti-et.h24,
+.dot-net-pow-flags.wal-et.h24
+{
+	background-image: url(images/h24/et.png);
+	background-size: 48px 24px;
+	width: 48px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.et.h48,
+.dot-net-pow-flags.ethiopia.h48,
+.dot-net-pow-flags.aa-et.h48,
+.dot-net-pow-flags.am-et.h48,
+.dot-net-pow-flags.om-et.h48,
+.dot-net-pow-flags.so-et.h48,
+.dot-net-pow-flags.ti-et.h48,
+.dot-net-pow-flags.wal-et.h48
+{
+	background-image: url(images/h48/et.png);
+	background-size: 96px 48px;
+	width: 96px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.fk,
+.dot-net-pow-flags.falkland-islands,
+.dot-net-pow-flags.en-fk
+{
+	background-image: url(images/h20/fk.png);
+	background-size: 40px 20px;
+	width: 40px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.fk.h24,
+.dot-net-pow-flags.falkland-islands.h24,
+.dot-net-pow-flags.en-fk.h24
+{
+	background-image: url(images/h24/fk.png);
+	background-size: 48px 24px;
+	width: 48px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.fk.h48,
+.dot-net-pow-flags.falkland-islands.h48,
+.dot-net-pow-flags.en-fk.h48
+{
+	background-image: url(images/h48/fk.png);
+	background-size: 96px 48px;
+	width: 96px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.fo,
+.dot-net-pow-flags.faroe-islands,
+.dot-net-pow-flags.fo-fo
+{
+	background-image: url(images/h20/fo.png);
+	background-size: 28px 20px;
+	width: 28px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.fo.h24,
+.dot-net-pow-flags.faroe-islands.h24,
+.dot-net-pow-flags.fo-fo.h24
+{
+	background-image: url(images/h24/fo.png);
+	background-size: 33px 24px;
+	width: 33px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.fo.h48,
+.dot-net-pow-flags.faroe-islands.h48,
+.dot-net-pow-flags.fo-fo.h48
+{
+	background-image: url(images/h48/fo.png);
+	background-size: 66px 48px;
+	width: 66px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.fj,
+.dot-net-pow-flags.fiji,
+.dot-net-pow-flags.en-fj
+{
+	background-image: url(images/h20/fj.png);
+	background-size: 40px 20px;
+	width: 40px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.fj.h24,
+.dot-net-pow-flags.fiji.h24,
+.dot-net-pow-flags.en-fj.h24
+{
+	background-image: url(images/h24/fj.png);
+	background-size: 48px 24px;
+	width: 48px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.fj.h48,
+.dot-net-pow-flags.fiji.h48,
+.dot-net-pow-flags.en-fj.h48
+{
+	background-image: url(images/h48/fj.png);
+	background-size: 96px 48px;
+	width: 96px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.fi,
+.dot-net-pow-flags.finland,
+.dot-net-pow-flags.en-fi,
+.dot-net-pow-flags.fi-fi,
+.dot-net-pow-flags.se-fi,
+.dot-net-pow-flags.smn-fi,
+.dot-net-pow-flags.sms-fi,
+.dot-net-pow-flags.sv-fi
+{
+	background-image: url(images/h20/fi.png);
+	background-size: 33px 20px;
+	width: 33px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.fi.h24,
+.dot-net-pow-flags.finland.h24,
+.dot-net-pow-flags.en-fi.h24,
+.dot-net-pow-flags.fi-fi.h24,
+.dot-net-pow-flags.se-fi.h24,
+.dot-net-pow-flags.smn-fi.h24,
+.dot-net-pow-flags.sms-fi.h24,
+.dot-net-pow-flags.sv-fi.h24
+{
+	background-image: url(images/h24/fi.png);
+	background-size: 39px 24px;
+	width: 39px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.fi.h48,
+.dot-net-pow-flags.finland.h48,
+.dot-net-pow-flags.en-fi.h48,
+.dot-net-pow-flags.fi-fi.h48,
+.dot-net-pow-flags.se-fi.h48,
+.dot-net-pow-flags.smn-fi.h48,
+.dot-net-pow-flags.sms-fi.h48,
+.dot-net-pow-flags.sv-fi.h48
+{
+	background-image: url(images/h48/fi.png);
+	background-size: 79px 48px;
+	width: 79px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.fr,
+.dot-net-pow-flags.france,
+.dot-net-pow-flags.br-fr,
+.dot-net-pow-flags.ca-fr,
+.dot-net-pow-flags.co-fr,
+.dot-net-pow-flags.fr-fr,
+.dot-net-pow-flags.gsw-fr,
+.dot-net-pow-flags.oc-fr
+{
+	background-image: url(images/h20/fr.png);
+	background-size: 30px 20px;
+	width: 30px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.fr.h24,
+.dot-net-pow-flags.france.h24,
+.dot-net-pow-flags.br-fr.h24,
+.dot-net-pow-flags.ca-fr.h24,
+.dot-net-pow-flags.co-fr.h24,
+.dot-net-pow-flags.fr-fr.h24,
+.dot-net-pow-flags.gsw-fr.h24,
+.dot-net-pow-flags.oc-fr.h24
+{
+	background-image: url(images/h24/fr.png);
+	background-size: 36px 24px;
+	width: 36px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.fr.h48,
+.dot-net-pow-flags.france.h48,
+.dot-net-pow-flags.br-fr.h48,
+.dot-net-pow-flags.ca-fr.h48,
+.dot-net-pow-flags.co-fr.h48,
+.dot-net-pow-flags.fr-fr.h48,
+.dot-net-pow-flags.gsw-fr.h48,
+.dot-net-pow-flags.oc-fr.h48
+{
+	background-image: url(images/h48/fr.png);
+	background-size: 72px 48px;
+	width: 72px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.gf,
+.dot-net-pow-flags.french-guiana,
+.dot-net-pow-flags.fr-gf
+{
+	background-image: url(images/h20/gf.png);
+	background-size: 30px 20px;
+	width: 30px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.gf.h24,
+.dot-net-pow-flags.french-guiana.h24,
+.dot-net-pow-flags.fr-gf.h24
+{
+	background-image: url(images/h24/gf.png);
+	background-size: 36px 24px;
+	width: 36px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.gf.h48,
+.dot-net-pow-flags.french-guiana.h48,
+.dot-net-pow-flags.fr-gf.h48
+{
+	background-image: url(images/h48/gf.png);
+	background-size: 72px 48px;
+	width: 72px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.pf,
+.dot-net-pow-flags.french-polynesia,
+.dot-net-pow-flags.fr-pf
+{
+	background-image: url(images/h20/pf.png);
+	background-size: 30px 20px;
+	width: 30px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.pf.h24,
+.dot-net-pow-flags.french-polynesia.h24,
+.dot-net-pow-flags.fr-pf.h24
+{
+	background-image: url(images/h24/pf.png);
+	background-size: 36px 24px;
+	width: 36px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.pf.h48,
+.dot-net-pow-flags.french-polynesia.h48,
+.dot-net-pow-flags.fr-pf.h48
+{
+	background-image: url(images/h48/pf.png);
+	background-size: 72px 48px;
+	width: 72px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.ga,
+.dot-net-pow-flags.gabon,
+.dot-net-pow-flags.fr-ga
+{
+	background-image: url(images/h20/ga.png);
+	background-size: 27px 20px;
+	width: 27px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.ga.h24,
+.dot-net-pow-flags.gabon.h24,
+.dot-net-pow-flags.fr-ga.h24
+{
+	background-image: url(images/h24/ga.png);
+	background-size: 32px 24px;
+	width: 32px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.ga.h48,
+.dot-net-pow-flags.gabon.h48,
+.dot-net-pow-flags.fr-ga.h48
+{
+	background-image: url(images/h48/ga.png);
+	background-size: 64px 48px;
+	width: 64px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.gm,
+.dot-net-pow-flags.gambia,
+.dot-net-pow-flags.en-gm
+{
+	background-image: url(images/h20/gm.png);
+	background-size: 30px 20px;
+	width: 30px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.gm.h24,
+.dot-net-pow-flags.gambia.h24,
+.dot-net-pow-flags.en-gm.h24
+{
+	background-image: url(images/h24/gm.png);
+	background-size: 36px 24px;
+	width: 36px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.gm.h48,
+.dot-net-pow-flags.gambia.h48,
+.dot-net-pow-flags.en-gm.h48
+{
+	background-image: url(images/h48/gm.png);
+	background-size: 72px 48px;
+	width: 72px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.ge,
+.dot-net-pow-flags.georgia,
+.dot-net-pow-flags.ka-ge,
+.dot-net-pow-flags.os-ge
+{
+	background-image: url(images/h20/ge.png);
+	background-size: 30px 20px;
+	width: 30px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.ge.h24,
+.dot-net-pow-flags.georgia.h24,
+.dot-net-pow-flags.ka-ge.h24,
+.dot-net-pow-flags.os-ge.h24
+{
+	background-image: url(images/h24/ge.png);
+	background-size: 36px 24px;
+	width: 36px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.ge.h48,
+.dot-net-pow-flags.georgia.h48,
+.dot-net-pow-flags.ka-ge.h48,
+.dot-net-pow-flags.os-ge.h48
+{
+	background-image: url(images/h48/ge.png);
+	background-size: 72px 48px;
+	width: 72px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.de,
+.dot-net-pow-flags.germany,
+.dot-net-pow-flags.de-de,
+.dot-net-pow-flags.dsb-de,
+.dot-net-pow-flags.en-de,
+.dot-net-pow-flags.hsb-de,
+.dot-net-pow-flags.ksh-de,
+.dot-net-pow-flags.nds-de
+{
+	background-image: url(images/h20/de.png);
+	background-size: 33px 20px;
+	width: 33px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.de.h24,
+.dot-net-pow-flags.germany.h24,
+.dot-net-pow-flags.de-de.h24,
+.dot-net-pow-flags.dsb-de.h24,
+.dot-net-pow-flags.en-de.h24,
+.dot-net-pow-flags.hsb-de.h24,
+.dot-net-pow-flags.ksh-de.h24,
+.dot-net-pow-flags.nds-de.h24
+{
+	background-image: url(images/h24/de.png);
+	background-size: 40px 24px;
+	width: 40px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.de.h48,
+.dot-net-pow-flags.germany.h48,
+.dot-net-pow-flags.de-de.h48,
+.dot-net-pow-flags.dsb-de.h48,
+.dot-net-pow-flags.en-de.h48,
+.dot-net-pow-flags.hsb-de.h48,
+.dot-net-pow-flags.ksh-de.h48,
+.dot-net-pow-flags.nds-de.h48
+{
+	background-image: url(images/h48/de.png);
+	background-size: 80px 48px;
+	width: 80px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.gh,
+.dot-net-pow-flags.ghana,
+.dot-net-pow-flags.ak-gh,
+.dot-net-pow-flags.ee-gh,
+.dot-net-pow-flags.en-gh,
+.dot-net-pow-flags.ha-gh
+{
+	background-image: url(images/h20/gh.png);
+	background-size: 30px 20px;
+	width: 30px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.gh.h24,
+.dot-net-pow-flags.ghana.h24,
+.dot-net-pow-flags.ak-gh.h24,
+.dot-net-pow-flags.ee-gh.h24,
+.dot-net-pow-flags.en-gh.h24,
+.dot-net-pow-flags.ha-gh.h24
+{
+	background-image: url(images/h24/gh.png);
+	background-size: 36px 24px;
+	width: 36px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.gh.h48,
+.dot-net-pow-flags.ghana.h48,
+.dot-net-pow-flags.ak-gh.h48,
+.dot-net-pow-flags.ee-gh.h48,
+.dot-net-pow-flags.en-gh.h48,
+.dot-net-pow-flags.ha-gh.h48
+{
+	background-image: url(images/h48/gh.png);
+	background-size: 72px 48px;
+	width: 72px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.gi,
+.dot-net-pow-flags.gibraltar,
+.dot-net-pow-flags.en-gi
+{
+	background-image: url(images/h20/gi.png);
+	background-size: 40px 20px;
+	width: 40px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.gi.h24,
+.dot-net-pow-flags.gibraltar.h24,
+.dot-net-pow-flags.en-gi.h24
+{
+	background-image: url(images/h24/gi.png);
+	background-size: 48px 24px;
+	width: 48px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.gi.h48,
+.dot-net-pow-flags.gibraltar.h48,
+.dot-net-pow-flags.en-gi.h48
+{
+	background-image: url(images/h48/gi.png);
+	background-size: 96px 48px;
+	width: 96px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.gr,
+.dot-net-pow-flags.greece,
+.dot-net-pow-flags.el-gr
+{
+	background-image: url(images/h20/gr.png);
+	background-size: 30px 20px;
+	width: 30px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.gr.h24,
+.dot-net-pow-flags.greece.h24,
+.dot-net-pow-flags.el-gr.h24
+{
+	background-image: url(images/h24/gr.png);
+	background-size: 36px 24px;
+	width: 36px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.gr.h48,
+.dot-net-pow-flags.greece.h48,
+.dot-net-pow-flags.el-gr.h48
+{
+	background-image: url(images/h48/gr.png);
+	background-size: 72px 48px;
+	width: 72px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.gl,
+.dot-net-pow-flags.greenland,
+.dot-net-pow-flags.da-gl,
+.dot-net-pow-flags.kl-gl
+{
+	background-image: url(images/h20/gl.png);
+	background-size: 30px 20px;
+	width: 30px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.gl.h24,
+.dot-net-pow-flags.greenland.h24,
+.dot-net-pow-flags.da-gl.h24,
+.dot-net-pow-flags.kl-gl.h24
+{
+	background-image: url(images/h24/gl.png);
+	background-size: 36px 24px;
+	width: 36px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.gl.h48,
+.dot-net-pow-flags.greenland.h48,
+.dot-net-pow-flags.da-gl.h48,
+.dot-net-pow-flags.kl-gl.h48
+{
+	background-image: url(images/h48/gl.png);
+	background-size: 72px 48px;
+	width: 72px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.gd,
+.dot-net-pow-flags.grenada,
+.dot-net-pow-flags.en-gd
+{
+	background-image: url(images/h20/gd.png);
+	background-size: 33px 20px;
+	width: 33px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.gd.h24,
+.dot-net-pow-flags.grenada.h24,
+.dot-net-pow-flags.en-gd.h24
+{
+	background-image: url(images/h24/gd.png);
+	background-size: 40px 24px;
+	width: 40px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.gd.h48,
+.dot-net-pow-flags.grenada.h48,
+.dot-net-pow-flags.en-gd.h48
+{
+	background-image: url(images/h48/gd.png);
+	background-size: 80px 48px;
+	width: 80px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.gp,
+.dot-net-pow-flags.guadeloupe,
+.dot-net-pow-flags.fr-gp
+{
+	background-image: url(images/h20/gp.png);
+	background-size: 30px 20px;
+	width: 30px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.gp.h24,
+.dot-net-pow-flags.guadeloupe.h24,
+.dot-net-pow-flags.fr-gp.h24
+{
+	background-image: url(images/h24/gp.png);
+	background-size: 36px 24px;
+	width: 36px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.gp.h48,
+.dot-net-pow-flags.guadeloupe.h48,
+.dot-net-pow-flags.fr-gp.h48
+{
+	background-image: url(images/h48/gp.png);
+	background-size: 72px 48px;
+	width: 72px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.gu,
+.dot-net-pow-flags.guam,
+.dot-net-pow-flags.en-gu
+{
+	background-image: url(images/h20/gu.png);
+	background-size: 37px 20px;
+	width: 37px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.gu.h24,
+.dot-net-pow-flags.guam.h24,
+.dot-net-pow-flags.en-gu.h24
+{
+	background-image: url(images/h24/gu.png);
+	background-size: 45px 24px;
+	width: 45px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.gu.h48,
+.dot-net-pow-flags.guam.h48,
+.dot-net-pow-flags.en-gu.h48
+{
+	background-image: url(images/h48/gu.png);
+	background-size: 89px 48px;
+	width: 89px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.gt,
+.dot-net-pow-flags.guatemala,
+.dot-net-pow-flags.es-gt,
+.dot-net-pow-flags.quc-gt
+{
+	background-image: url(images/h20/gt.png);
+	background-size: 32px 20px;
+	width: 32px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.gt.h24,
+.dot-net-pow-flags.guatemala.h24,
+.dot-net-pow-flags.es-gt.h24,
+.dot-net-pow-flags.quc-gt.h24
+{
+	background-image: url(images/h24/gt.png);
+	background-size: 38px 24px;
+	width: 38px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.gt.h48,
+.dot-net-pow-flags.guatemala.h48,
+.dot-net-pow-flags.es-gt.h48,
+.dot-net-pow-flags.quc-gt.h48
+{
+	background-image: url(images/h48/gt.png);
+	background-size: 77px 48px;
+	width: 77px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.gg,
+.dot-net-pow-flags.guernsey,
+.dot-net-pow-flags.en-gg
+{
+	background-image: url(images/h20/gg.png);
+	background-size: 30px 20px;
+	width: 30px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.gg.h24,
+.dot-net-pow-flags.guernsey.h24,
+.dot-net-pow-flags.en-gg.h24
+{
+	background-image: url(images/h24/gg.png);
+	background-size: 36px 24px;
+	width: 36px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.gg.h48,
+.dot-net-pow-flags.guernsey.h48,
+.dot-net-pow-flags.en-gg.h48
+{
+	background-image: url(images/h48/gg.png);
+	background-size: 72px 48px;
+	width: 72px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.gn,
+.dot-net-pow-flags.guinea,
+.dot-net-pow-flags.ff-latn-gn,
+.dot-net-pow-flags.fr-gn,
+.dot-net-pow-flags.nqo-gn
+{
+	background-image: url(images/h20/gn.png);
+	background-size: 30px 20px;
+	width: 30px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.gn.h24,
+.dot-net-pow-flags.guinea.h24,
+.dot-net-pow-flags.ff-latn-gn.h24,
+.dot-net-pow-flags.fr-gn.h24,
+.dot-net-pow-flags.nqo-gn.h24
+{
+	background-image: url(images/h24/gn.png);
+	background-size: 36px 24px;
+	width: 36px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.gn.h48,
+.dot-net-pow-flags.guinea.h48,
+.dot-net-pow-flags.ff-latn-gn.h48,
+.dot-net-pow-flags.fr-gn.h48,
+.dot-net-pow-flags.nqo-gn.h48
+{
+	background-image: url(images/h48/gn.png);
+	background-size: 72px 48px;
+	width: 72px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.gw,
+.dot-net-pow-flags.guinea-bissau,
+.dot-net-pow-flags.pt-gw
+{
+	background-image: url(images/h20/gw.png);
+	background-size: 40px 20px;
+	width: 40px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.gw.h24,
+.dot-net-pow-flags.guinea-bissau.h24,
+.dot-net-pow-flags.pt-gw.h24
+{
+	background-image: url(images/h24/gw.png);
+	background-size: 48px 24px;
+	width: 48px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.gw.h48,
+.dot-net-pow-flags.guinea-bissau.h48,
+.dot-net-pow-flags.pt-gw.h48
+{
+	background-image: url(images/h48/gw.png);
+	background-size: 96px 48px;
+	width: 96px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.gy,
+.dot-net-pow-flags.guyana,
+.dot-net-pow-flags.en-gy
+{
+	background-image: url(images/h20/gy.png);
+	background-size: 33px 20px;
+	width: 33px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.gy.h24,
+.dot-net-pow-flags.guyana.h24,
+.dot-net-pow-flags.en-gy.h24
+{
+	background-image: url(images/h24/gy.png);
+	background-size: 40px 24px;
+	width: 40px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.gy.h48,
+.dot-net-pow-flags.guyana.h48,
+.dot-net-pow-flags.en-gy.h48
+{
+	background-image: url(images/h48/gy.png);
+	background-size: 80px 48px;
+	width: 80px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.ht,
+.dot-net-pow-flags.haiti,
+.dot-net-pow-flags.fr-ht
+{
+	background-image: url(images/h20/ht.png);
+	background-size: 33px 20px;
+	width: 33px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.ht.h24,
+.dot-net-pow-flags.haiti.h24,
+.dot-net-pow-flags.fr-ht.h24
+{
+	background-image: url(images/h24/ht.png);
+	background-size: 40px 24px;
+	width: 40px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.ht.h48,
+.dot-net-pow-flags.haiti.h48,
+.dot-net-pow-flags.fr-ht.h48
+{
+	background-image: url(images/h48/ht.png);
+	background-size: 80px 48px;
+	width: 80px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.hn,
+.dot-net-pow-flags.honduras,
+.dot-net-pow-flags.es-hn
+{
+	background-image: url(images/h20/hn.png);
+	background-size: 40px 20px;
+	width: 40px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.hn.h24,
+.dot-net-pow-flags.honduras.h24,
+.dot-net-pow-flags.es-hn.h24
+{
+	background-image: url(images/h24/hn.png);
+	background-size: 48px 24px;
+	width: 48px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.hn.h48,
+.dot-net-pow-flags.honduras.h48,
+.dot-net-pow-flags.es-hn.h48
+{
+	background-image: url(images/h48/hn.png);
+	background-size: 96px 48px;
+	width: 96px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.hk,
+.dot-net-pow-flags.hong-kong,
+.dot-net-pow-flags.en-hk,
+.dot-net-pow-flags.zh-hans-hk,
+.dot-net-pow-flags.zh-hant-hk
+{
+	background-image: url(images/h20/hk.png);
+	background-size: 30px 20px;
+	width: 30px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.hk.h24,
+.dot-net-pow-flags.hong-kong.h24,
+.dot-net-pow-flags.en-hk.h24,
+.dot-net-pow-flags.zh-hans-hk.h24,
+.dot-net-pow-flags.zh-hant-hk.h24
+{
+	background-image: url(images/h24/hk.png);
+	background-size: 36px 24px;
+	width: 36px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.hk.h48,
+.dot-net-pow-flags.hong-kong.h48,
+.dot-net-pow-flags.en-hk.h48,
+.dot-net-pow-flags.zh-hans-hk.h48,
+.dot-net-pow-flags.zh-hant-hk.h48
+{
+	background-image: url(images/h48/hk.png);
+	background-size: 72px 48px;
+	width: 72px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.hu,
+.dot-net-pow-flags.hungary,
+.dot-net-pow-flags.hu-hu
+{
+	background-image: url(images/h20/hu.png);
+	background-size: 40px 20px;
+	width: 40px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.hu.h24,
+.dot-net-pow-flags.hungary.h24,
+.dot-net-pow-flags.hu-hu.h24
+{
+	background-image: url(images/h24/hu.png);
+	background-size: 48px 24px;
+	width: 48px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.hu.h48,
+.dot-net-pow-flags.hungary.h48,
+.dot-net-pow-flags.hu-hu.h48
+{
+	background-image: url(images/h48/hu.png);
+	background-size: 96px 48px;
+	width: 96px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.is,
+.dot-net-pow-flags.iceland,
+.dot-net-pow-flags.is-is
+{
+	background-image: url(images/h20/is.png);
+	background-size: 28px 20px;
+	width: 28px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.is.h24,
+.dot-net-pow-flags.iceland.h24,
+.dot-net-pow-flags.is-is.h24
+{
+	background-image: url(images/h24/is.png);
+	background-size: 33px 24px;
+	width: 33px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.is.h48,
+.dot-net-pow-flags.iceland.h48,
+.dot-net-pow-flags.is-is.h48
+{
+	background-image: url(images/h48/is.png);
+	background-size: 67px 48px;
+	width: 67px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.in,
+.dot-net-pow-flags.india,
+.dot-net-pow-flags.as-in,
+.dot-net-pow-flags.bn-in,
+.dot-net-pow-flags.bo-in,
+.dot-net-pow-flags.brx-in,
+.dot-net-pow-flags.en-in,
+.dot-net-pow-flags.gu-in,
+.dot-net-pow-flags.hi-in,
+.dot-net-pow-flags.kn-in,
+.dot-net-pow-flags.kok-in,
+.dot-net-pow-flags.ks-in,
+.dot-net-pow-flags.ml-in,
+.dot-net-pow-flags.mr-in,
+.dot-net-pow-flags.ne-in,
+.dot-net-pow-flags.or-in,
+.dot-net-pow-flags.pa-guru-in,
+.dot-net-pow-flags.sa-in,
+.dot-net-pow-flags.ta-in,
+.dot-net-pow-flags.te-in,
+.dot-net-pow-flags.ur-in
+{
+	background-image: url(images/h20/in.png);
+	background-size: 30px 20px;
+	width: 30px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.in.h24,
+.dot-net-pow-flags.india.h24,
+.dot-net-pow-flags.as-in.h24,
+.dot-net-pow-flags.bn-in.h24,
+.dot-net-pow-flags.bo-in.h24,
+.dot-net-pow-flags.brx-in.h24,
+.dot-net-pow-flags.en-in.h24,
+.dot-net-pow-flags.gu-in.h24,
+.dot-net-pow-flags.hi-in.h24,
+.dot-net-pow-flags.kn-in.h24,
+.dot-net-pow-flags.kok-in.h24,
+.dot-net-pow-flags.ks-in.h24,
+.dot-net-pow-flags.ml-in.h24,
+.dot-net-pow-flags.mr-in.h24,
+.dot-net-pow-flags.ne-in.h24,
+.dot-net-pow-flags.or-in.h24,
+.dot-net-pow-flags.pa-guru-in.h24,
+.dot-net-pow-flags.sa-in.h24,
+.dot-net-pow-flags.ta-in.h24,
+.dot-net-pow-flags.te-in.h24,
+.dot-net-pow-flags.ur-in.h24
+{
+	background-image: url(images/h24/in.png);
+	background-size: 36px 24px;
+	width: 36px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.in.h48,
+.dot-net-pow-flags.india.h48,
+.dot-net-pow-flags.as-in.h48,
+.dot-net-pow-flags.bn-in.h48,
+.dot-net-pow-flags.bo-in.h48,
+.dot-net-pow-flags.brx-in.h48,
+.dot-net-pow-flags.en-in.h48,
+.dot-net-pow-flags.gu-in.h48,
+.dot-net-pow-flags.hi-in.h48,
+.dot-net-pow-flags.kn-in.h48,
+.dot-net-pow-flags.kok-in.h48,
+.dot-net-pow-flags.ks-in.h48,
+.dot-net-pow-flags.ml-in.h48,
+.dot-net-pow-flags.mr-in.h48,
+.dot-net-pow-flags.ne-in.h48,
+.dot-net-pow-flags.or-in.h48,
+.dot-net-pow-flags.pa-guru-in.h48,
+.dot-net-pow-flags.sa-in.h48,
+.dot-net-pow-flags.ta-in.h48,
+.dot-net-pow-flags.te-in.h48,
+.dot-net-pow-flags.ur-in.h48
+{
+	background-image: url(images/h48/in.png);
+	background-size: 72px 48px;
+	width: 72px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.id,
+.dot-net-pow-flags.indonesia,
+.dot-net-pow-flags.id-id,
+.dot-net-pow-flags.jv-id
+{
+	background-image: url(images/h20/id.png);
+	background-size: 30px 20px;
+	width: 30px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.id.h24,
+.dot-net-pow-flags.indonesia.h24,
+.dot-net-pow-flags.id-id.h24,
+.dot-net-pow-flags.jv-id.h24
+{
+	background-image: url(images/h24/id.png);
+	background-size: 36px 24px;
+	width: 36px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.id.h48,
+.dot-net-pow-flags.indonesia.h48,
+.dot-net-pow-flags.id-id.h48,
+.dot-net-pow-flags.jv-id.h48
+{
+	background-image: url(images/h48/id.png);
+	background-size: 72px 48px;
+	width: 72px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.ir,
+.dot-net-pow-flags.iran,
+.dot-net-pow-flags.ckb-ir,
+.dot-net-pow-flags.fa-ir,
+.dot-net-pow-flags.lrc-ir,
+.dot-net-pow-flags.mzn-ir
+{
+	background-image: url(images/h20/ir.png);
+	background-size: 35px 20px;
+	width: 35px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.ir.h24,
+.dot-net-pow-flags.iran.h24,
+.dot-net-pow-flags.ckb-ir.h24,
+.dot-net-pow-flags.fa-ir.h24,
+.dot-net-pow-flags.lrc-ir.h24,
+.dot-net-pow-flags.mzn-ir.h24
+{
+	background-image: url(images/h24/ir.png);
+	background-size: 42px 24px;
+	width: 42px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.ir.h48,
+.dot-net-pow-flags.iran.h48,
+.dot-net-pow-flags.ckb-ir.h48,
+.dot-net-pow-flags.fa-ir.h48,
+.dot-net-pow-flags.lrc-ir.h48,
+.dot-net-pow-flags.mzn-ir.h48
+{
+	background-image: url(images/h48/ir.png);
+	background-size: 84px 48px;
+	width: 84px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.iq,
+.dot-net-pow-flags.iraq,
+.dot-net-pow-flags.ar-iq,
+.dot-net-pow-flags.ckb-iq,
+.dot-net-pow-flags.lrc-iq
+{
+	background-image: url(images/h20/iq.png);
+	background-size: 30px 20px;
+	width: 30px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.iq.h24,
+.dot-net-pow-flags.iraq.h24,
+.dot-net-pow-flags.ar-iq.h24,
+.dot-net-pow-flags.ckb-iq.h24,
+.dot-net-pow-flags.lrc-iq.h24
+{
+	background-image: url(images/h24/iq.png);
+	background-size: 36px 24px;
+	width: 36px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.iq.h48,
+.dot-net-pow-flags.iraq.h48,
+.dot-net-pow-flags.ar-iq.h48,
+.dot-net-pow-flags.ckb-iq.h48,
+.dot-net-pow-flags.lrc-iq.h48
+{
+	background-image: url(images/h48/iq.png);
+	background-size: 72px 48px;
+	width: 72px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.ie,
+.dot-net-pow-flags.ireland,
+.dot-net-pow-flags.en-ie,
+.dot-net-pow-flags.ga-ie
+{
+	background-image: url(images/h20/ie.png);
+	background-size: 40px 20px;
+	width: 40px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.ie.h24,
+.dot-net-pow-flags.ireland.h24,
+.dot-net-pow-flags.en-ie.h24,
+.dot-net-pow-flags.ga-ie.h24
+{
+	background-image: url(images/h24/ie.png);
+	background-size: 48px 24px;
+	width: 48px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.ie.h48,
+.dot-net-pow-flags.ireland.h48,
+.dot-net-pow-flags.en-ie.h48,
+.dot-net-pow-flags.ga-ie.h48
+{
+	background-image: url(images/h48/ie.png);
+	background-size: 96px 48px;
+	width: 96px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.im,
+.dot-net-pow-flags.isle-of-man,
+.dot-net-pow-flags.en-im,
+.dot-net-pow-flags.gv-im
+{
+	background-image: url(images/h20/im.png);
+	background-size: 40px 20px;
+	width: 40px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.im.h24,
+.dot-net-pow-flags.isle-of-man.h24,
+.dot-net-pow-flags.en-im.h24,
+.dot-net-pow-flags.gv-im.h24
+{
+	background-image: url(images/h24/im.png);
+	background-size: 48px 24px;
+	width: 48px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.im.h48,
+.dot-net-pow-flags.isle-of-man.h48,
+.dot-net-pow-flags.en-im.h48,
+.dot-net-pow-flags.gv-im.h48
+{
+	background-image: url(images/h48/im.png);
+	background-size: 96px 48px;
+	width: 96px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.il,
+.dot-net-pow-flags.israel,
+.dot-net-pow-flags.ar-il,
+.dot-net-pow-flags.en-il,
+.dot-net-pow-flags.he-il
+{
+	background-image: url(images/h20/il.png);
+	background-size: 28px 20px;
+	width: 28px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.il.h24,
+.dot-net-pow-flags.israel.h24,
+.dot-net-pow-flags.ar-il.h24,
+.dot-net-pow-flags.en-il.h24,
+.dot-net-pow-flags.he-il.h24
+{
+	background-image: url(images/h24/il.png);
+	background-size: 33px 24px;
+	width: 33px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.il.h48,
+.dot-net-pow-flags.israel.h48,
+.dot-net-pow-flags.ar-il.h48,
+.dot-net-pow-flags.en-il.h48,
+.dot-net-pow-flags.he-il.h48
+{
+	background-image: url(images/h48/il.png);
+	background-size: 66px 48px;
+	width: 66px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.it,
+.dot-net-pow-flags.italy,
+.dot-net-pow-flags.ca-it,
+.dot-net-pow-flags.de-it,
+.dot-net-pow-flags.fur-it,
+.dot-net-pow-flags.it-it
+{
+	background-image: url(images/h20/it.png);
+	background-size: 30px 20px;
+	width: 30px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.it.h24,
+.dot-net-pow-flags.italy.h24,
+.dot-net-pow-flags.ca-it.h24,
+.dot-net-pow-flags.de-it.h24,
+.dot-net-pow-flags.fur-it.h24,
+.dot-net-pow-flags.it-it.h24
+{
+	background-image: url(images/h24/it.png);
+	background-size: 36px 24px;
+	width: 36px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.it.h48,
+.dot-net-pow-flags.italy.h48,
+.dot-net-pow-flags.ca-it.h48,
+.dot-net-pow-flags.de-it.h48,
+.dot-net-pow-flags.fur-it.h48,
+.dot-net-pow-flags.it-it.h48
+{
+	background-image: url(images/h48/it.png);
+	background-size: 72px 48px;
+	width: 72px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.ci,
+.dot-net-pow-flags.ivory-coast,
+.dot-net-pow-flags.fr-ci
+{
+	background-image: url(images/h20/ci.png);
+	background-size: 30px 20px;
+	width: 30px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.ci.h24,
+.dot-net-pow-flags.ivory-coast.h24,
+.dot-net-pow-flags.fr-ci.h24
+{
+	background-image: url(images/h24/ci.png);
+	background-size: 36px 24px;
+	width: 36px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.ci.h48,
+.dot-net-pow-flags.ivory-coast.h48,
+.dot-net-pow-flags.fr-ci.h48
+{
+	background-image: url(images/h48/ci.png);
+	background-size: 72px 48px;
+	width: 72px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.jm,
+.dot-net-pow-flags.jamaica,
+.dot-net-pow-flags.en-jm
+{
+	background-image: url(images/h20/jm.png);
+	background-size: 40px 20px;
+	width: 40px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.jm.h24,
+.dot-net-pow-flags.jamaica.h24,
+.dot-net-pow-flags.en-jm.h24
+{
+	background-image: url(images/h24/jm.png);
+	background-size: 48px 24px;
+	width: 48px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.jm.h48,
+.dot-net-pow-flags.jamaica.h48,
+.dot-net-pow-flags.en-jm.h48
+{
+	background-image: url(images/h48/jm.png);
+	background-size: 96px 48px;
+	width: 96px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.jp,
+.dot-net-pow-flags.japan,
+.dot-net-pow-flags.ja-jp
+{
+	background-image: url(images/h20/jp.png);
+	background-size: 30px 20px;
+	width: 30px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.jp.h24,
+.dot-net-pow-flags.japan.h24,
+.dot-net-pow-flags.ja-jp.h24
+{
+	background-image: url(images/h24/jp.png);
+	background-size: 36px 24px;
+	width: 36px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.jp.h48,
+.dot-net-pow-flags.japan.h48,
+.dot-net-pow-flags.ja-jp.h48
+{
+	background-image: url(images/h48/jp.png);
+	background-size: 72px 48px;
+	width: 72px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.je,
+.dot-net-pow-flags.jersey,
+.dot-net-pow-flags.en-je
+{
+	background-image: url(images/h20/je.png);
+	background-size: 33px 20px;
+	width: 33px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.je.h24,
+.dot-net-pow-flags.jersey.h24,
+.dot-net-pow-flags.en-je.h24
+{
+	background-image: url(images/h24/je.png);
+	background-size: 40px 24px;
+	width: 40px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.je.h48,
+.dot-net-pow-flags.jersey.h48,
+.dot-net-pow-flags.en-je.h48
+{
+	background-image: url(images/h48/je.png);
+	background-size: 80px 48px;
+	width: 80px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.jo,
+.dot-net-pow-flags.jordan,
+.dot-net-pow-flags.ar-jo
+{
+	background-image: url(images/h20/jo.png);
+	background-size: 40px 20px;
+	width: 40px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.jo.h24,
+.dot-net-pow-flags.jordan.h24,
+.dot-net-pow-flags.ar-jo.h24
+{
+	background-image: url(images/h24/jo.png);
+	background-size: 48px 24px;
+	width: 48px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.jo.h48,
+.dot-net-pow-flags.jordan.h48,
+.dot-net-pow-flags.ar-jo.h48
+{
+	background-image: url(images/h48/jo.png);
+	background-size: 96px 48px;
+	width: 96px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.kz,
+.dot-net-pow-flags.kazakhstan,
+.dot-net-pow-flags.kk-kz,
+.dot-net-pow-flags.ru-kz
+{
+	background-image: url(images/h20/kz.png);
+	background-size: 40px 20px;
+	width: 40px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.kz.h24,
+.dot-net-pow-flags.kazakhstan.h24,
+.dot-net-pow-flags.kk-kz.h24,
+.dot-net-pow-flags.ru-kz.h24
+{
+	background-image: url(images/h24/kz.png);
+	background-size: 48px 24px;
+	width: 48px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.kz.h48,
+.dot-net-pow-flags.kazakhstan.h48,
+.dot-net-pow-flags.kk-kz.h48,
+.dot-net-pow-flags.ru-kz.h48
+{
+	background-image: url(images/h48/kz.png);
+	background-size: 96px 48px;
+	width: 96px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.ke,
+.dot-net-pow-flags.kenya,
+.dot-net-pow-flags.dav-ke,
+.dot-net-pow-flags.ebu-ke,
+.dot-net-pow-flags.en-ke,
+.dot-net-pow-flags.guz-ke,
+.dot-net-pow-flags.kam-ke,
+.dot-net-pow-flags.ki-ke,
+.dot-net-pow-flags.kln-ke,
+.dot-net-pow-flags.luo-ke,
+.dot-net-pow-flags.luy-ke,
+.dot-net-pow-flags.mas-ke,
+.dot-net-pow-flags.mer-ke,
+.dot-net-pow-flags.om-ke,
+.dot-net-pow-flags.saq-ke,
+.dot-net-pow-flags.so-ke,
+.dot-net-pow-flags.sw-ke,
+.dot-net-pow-flags.teo-ke
+{
+	background-image: url(images/h20/ke.png);
+	background-size: 30px 20px;
+	width: 30px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.ke.h24,
+.dot-net-pow-flags.kenya.h24,
+.dot-net-pow-flags.dav-ke.h24,
+.dot-net-pow-flags.ebu-ke.h24,
+.dot-net-pow-flags.en-ke.h24,
+.dot-net-pow-flags.guz-ke.h24,
+.dot-net-pow-flags.kam-ke.h24,
+.dot-net-pow-flags.ki-ke.h24,
+.dot-net-pow-flags.kln-ke.h24,
+.dot-net-pow-flags.luo-ke.h24,
+.dot-net-pow-flags.luy-ke.h24,
+.dot-net-pow-flags.mas-ke.h24,
+.dot-net-pow-flags.mer-ke.h24,
+.dot-net-pow-flags.om-ke.h24,
+.dot-net-pow-flags.saq-ke.h24,
+.dot-net-pow-flags.so-ke.h24,
+.dot-net-pow-flags.sw-ke.h24,
+.dot-net-pow-flags.teo-ke.h24
+{
+	background-image: url(images/h24/ke.png);
+	background-size: 36px 24px;
+	width: 36px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.ke.h48,
+.dot-net-pow-flags.kenya.h48,
+.dot-net-pow-flags.dav-ke.h48,
+.dot-net-pow-flags.ebu-ke.h48,
+.dot-net-pow-flags.en-ke.h48,
+.dot-net-pow-flags.guz-ke.h48,
+.dot-net-pow-flags.kam-ke.h48,
+.dot-net-pow-flags.ki-ke.h48,
+.dot-net-pow-flags.kln-ke.h48,
+.dot-net-pow-flags.luo-ke.h48,
+.dot-net-pow-flags.luy-ke.h48,
+.dot-net-pow-flags.mas-ke.h48,
+.dot-net-pow-flags.mer-ke.h48,
+.dot-net-pow-flags.om-ke.h48,
+.dot-net-pow-flags.saq-ke.h48,
+.dot-net-pow-flags.so-ke.h48,
+.dot-net-pow-flags.sw-ke.h48,
+.dot-net-pow-flags.teo-ke.h48
+{
+	background-image: url(images/h48/ke.png);
+	background-size: 72px 48px;
+	width: 72px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.ki,
+.dot-net-pow-flags.kiribati,
+.dot-net-pow-flags.en-ki
+{
+	background-image: url(images/h20/ki.png);
+	background-size: 40px 20px;
+	width: 40px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.ki.h24,
+.dot-net-pow-flags.kiribati.h24,
+.dot-net-pow-flags.en-ki.h24
+{
+	background-image: url(images/h24/ki.png);
+	background-size: 48px 24px;
+	width: 48px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.ki.h48,
+.dot-net-pow-flags.kiribati.h48,
+.dot-net-pow-flags.en-ki.h48
+{
+	background-image: url(images/h48/ki.png);
+	background-size: 96px 48px;
+	width: 96px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.xk,
+.dot-net-pow-flags.kosovo,
+.dot-net-pow-flags.sq-xk,
+.dot-net-pow-flags.sr-cyrl-xk,
+.dot-net-pow-flags.sr-latn-xk
+{
+	background-image: url(images/h20/xk.png);
+	background-size: 28px 20px;
+	width: 28px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.xk.h24,
+.dot-net-pow-flags.kosovo.h24,
+.dot-net-pow-flags.sq-xk.h24,
+.dot-net-pow-flags.sr-cyrl-xk.h24,
+.dot-net-pow-flags.sr-latn-xk.h24
+{
+	background-image: url(images/h24/xk.png);
+	background-size: 34px 24px;
+	width: 34px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.xk.h48,
+.dot-net-pow-flags.kosovo.h48,
+.dot-net-pow-flags.sq-xk.h48,
+.dot-net-pow-flags.sr-cyrl-xk.h48,
+.dot-net-pow-flags.sr-latn-xk.h48
+{
+	background-image: url(images/h48/xk.png);
+	background-size: 67px 48px;
+	width: 67px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.kw,
+.dot-net-pow-flags.kuwait,
+.dot-net-pow-flags.ar-kw
+{
+	background-image: url(images/h20/kw.png);
+	background-size: 40px 20px;
+	width: 40px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.kw.h24,
+.dot-net-pow-flags.kuwait.h24,
+.dot-net-pow-flags.ar-kw.h24
+{
+	background-image: url(images/h24/kw.png);
+	background-size: 48px 24px;
+	width: 48px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.kw.h48,
+.dot-net-pow-flags.kuwait.h48,
+.dot-net-pow-flags.ar-kw.h48
+{
+	background-image: url(images/h48/kw.png);
+	background-size: 96px 48px;
+	width: 96px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.kg,
+.dot-net-pow-flags.kyrgyzstan,
+.dot-net-pow-flags.ky-kg,
+.dot-net-pow-flags.ru-kg
+{
+	background-image: url(images/h20/kg.png);
+	background-size: 33px 20px;
+	width: 33px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.kg.h24,
+.dot-net-pow-flags.kyrgyzstan.h24,
+.dot-net-pow-flags.ky-kg.h24,
+.dot-net-pow-flags.ru-kg.h24
+{
+	background-image: url(images/h24/kg.png);
+	background-size: 40px 24px;
+	width: 40px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.kg.h48,
+.dot-net-pow-flags.kyrgyzstan.h48,
+.dot-net-pow-flags.ky-kg.h48,
+.dot-net-pow-flags.ru-kg.h48
+{
+	background-image: url(images/h48/kg.png);
+	background-size: 80px 48px;
+	width: 80px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.la,
+.dot-net-pow-flags.laos,
+.dot-net-pow-flags.lo-la
+{
+	background-image: url(images/h20/la.png);
+	background-size: 30px 20px;
+	width: 30px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.la.h24,
+.dot-net-pow-flags.laos.h24,
+.dot-net-pow-flags.lo-la.h24
+{
+	background-image: url(images/h24/la.png);
+	background-size: 36px 24px;
+	width: 36px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.la.h48,
+.dot-net-pow-flags.laos.h48,
+.dot-net-pow-flags.lo-la.h48
+{
+	background-image: url(images/h48/la.png);
+	background-size: 72px 48px;
+	width: 72px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.lv,
+.dot-net-pow-flags.latvia,
+.dot-net-pow-flags.lv-lv
+{
+	background-image: url(images/h20/lv.png);
+	background-size: 40px 20px;
+	width: 40px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.lv.h24,
+.dot-net-pow-flags.latvia.h24,
+.dot-net-pow-flags.lv-lv.h24
+{
+	background-image: url(images/h24/lv.png);
+	background-size: 48px 24px;
+	width: 48px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.lv.h48,
+.dot-net-pow-flags.latvia.h48,
+.dot-net-pow-flags.lv-lv.h48
+{
+	background-image: url(images/h48/lv.png);
+	background-size: 96px 48px;
+	width: 96px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.lb,
+.dot-net-pow-flags.lebanon,
+.dot-net-pow-flags.ar-lb
+{
+	background-image: url(images/h20/lb.png);
+	background-size: 30px 20px;
+	width: 30px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.lb.h24,
+.dot-net-pow-flags.lebanon.h24,
+.dot-net-pow-flags.ar-lb.h24
+{
+	background-image: url(images/h24/lb.png);
+	background-size: 36px 24px;
+	width: 36px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.lb.h48,
+.dot-net-pow-flags.lebanon.h48,
+.dot-net-pow-flags.ar-lb.h48
+{
+	background-image: url(images/h48/lb.png);
+	background-size: 72px 48px;
+	width: 72px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.ls,
+.dot-net-pow-flags.lesotho,
+.dot-net-pow-flags.en-ls,
+.dot-net-pow-flags.st-ls
+{
+	background-image: url(images/h20/ls.png);
+	background-size: 30px 20px;
+	width: 30px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.ls.h24,
+.dot-net-pow-flags.lesotho.h24,
+.dot-net-pow-flags.en-ls.h24,
+.dot-net-pow-flags.st-ls.h24
+{
+	background-image: url(images/h24/ls.png);
+	background-size: 36px 24px;
+	width: 36px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.ls.h48,
+.dot-net-pow-flags.lesotho.h48,
+.dot-net-pow-flags.en-ls.h48,
+.dot-net-pow-flags.st-ls.h48
+{
+	background-image: url(images/h48/ls.png);
+	background-size: 72px 48px;
+	width: 72px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.lr,
+.dot-net-pow-flags.liberia,
+.dot-net-pow-flags.en-lr,
+.dot-net-pow-flags.vai-latn-lr,
+.dot-net-pow-flags.vai-vaii-lr
+{
+	background-image: url(images/h20/lr.png);
+	background-size: 38px 20px;
+	width: 38px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.lr.h24,
+.dot-net-pow-flags.liberia.h24,
+.dot-net-pow-flags.en-lr.h24,
+.dot-net-pow-flags.vai-latn-lr.h24,
+.dot-net-pow-flags.vai-vaii-lr.h24
+{
+	background-image: url(images/h24/lr.png);
+	background-size: 46px 24px;
+	width: 46px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.lr.h48,
+.dot-net-pow-flags.liberia.h48,
+.dot-net-pow-flags.en-lr.h48,
+.dot-net-pow-flags.vai-latn-lr.h48,
+.dot-net-pow-flags.vai-vaii-lr.h48
+{
+	background-image: url(images/h48/lr.png);
+	background-size: 91px 48px;
+	width: 91px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.ly,
+.dot-net-pow-flags.libya,
+.dot-net-pow-flags.ar-ly
+{
+	background-image: url(images/h20/ly.png);
+	background-size: 40px 20px;
+	width: 40px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.ly.h24,
+.dot-net-pow-flags.libya.h24,
+.dot-net-pow-flags.ar-ly.h24
+{
+	background-image: url(images/h24/ly.png);
+	background-size: 48px 24px;
+	width: 48px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.ly.h48,
+.dot-net-pow-flags.libya.h48,
+.dot-net-pow-flags.ar-ly.h48
+{
+	background-image: url(images/h48/ly.png);
+	background-size: 96px 48px;
+	width: 96px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.li,
+.dot-net-pow-flags.liechtenstein,
+.dot-net-pow-flags.de-li,
+.dot-net-pow-flags.gsw-li
+{
+	background-image: url(images/h20/li.png);
+	background-size: 33px 20px;
+	width: 33px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.li.h24,
+.dot-net-pow-flags.liechtenstein.h24,
+.dot-net-pow-flags.de-li.h24,
+.dot-net-pow-flags.gsw-li.h24
+{
+	background-image: url(images/h24/li.png);
+	background-size: 40px 24px;
+	width: 40px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.li.h48,
+.dot-net-pow-flags.liechtenstein.h48,
+.dot-net-pow-flags.de-li.h48,
+.dot-net-pow-flags.gsw-li.h48
+{
+	background-image: url(images/h48/li.png);
+	background-size: 80px 48px;
+	width: 80px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.lt,
+.dot-net-pow-flags.lithuania,
+.dot-net-pow-flags.lt-lt
+{
+	background-image: url(images/h20/lt.png);
+	background-size: 33px 20px;
+	width: 33px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.lt.h24,
+.dot-net-pow-flags.lithuania.h24,
+.dot-net-pow-flags.lt-lt.h24
+{
+	background-image: url(images/h24/lt.png);
+	background-size: 40px 24px;
+	width: 40px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.lt.h48,
+.dot-net-pow-flags.lithuania.h48,
+.dot-net-pow-flags.lt-lt.h48
+{
+	background-image: url(images/h48/lt.png);
+	background-size: 80px 48px;
+	width: 80px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.lu,
+.dot-net-pow-flags.luxembourg,
+.dot-net-pow-flags.de-lu,
+.dot-net-pow-flags.fr-lu,
+.dot-net-pow-flags.lb-lu,
+.dot-net-pow-flags.pt-lu
+{
+	background-image: url(images/h20/lu.png);
+	background-size: 33px 20px;
+	width: 33px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.lu.h24,
+.dot-net-pow-flags.luxembourg.h24,
+.dot-net-pow-flags.de-lu.h24,
+.dot-net-pow-flags.fr-lu.h24,
+.dot-net-pow-flags.lb-lu.h24,
+.dot-net-pow-flags.pt-lu.h24
+{
+	background-image: url(images/h24/lu.png);
+	background-size: 40px 24px;
+	width: 40px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.lu.h48,
+.dot-net-pow-flags.luxembourg.h48,
+.dot-net-pow-flags.de-lu.h48,
+.dot-net-pow-flags.fr-lu.h48,
+.dot-net-pow-flags.lb-lu.h48,
+.dot-net-pow-flags.pt-lu.h48
+{
+	background-image: url(images/h48/lu.png);
+	background-size: 80px 48px;
+	width: 80px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.mo,
+.dot-net-pow-flags.macau,
+.dot-net-pow-flags.en-mo,
+.dot-net-pow-flags.pt-mo,
+.dot-net-pow-flags.zh-hans-mo,
+.dot-net-pow-flags.zh-hant-mo
+{
+	background-image: url(images/h20/mo.png);
+	background-size: 30px 20px;
+	width: 30px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.mo.h24,
+.dot-net-pow-flags.macau.h24,
+.dot-net-pow-flags.en-mo.h24,
+.dot-net-pow-flags.pt-mo.h24,
+.dot-net-pow-flags.zh-hans-mo.h24,
+.dot-net-pow-flags.zh-hant-mo.h24
+{
+	background-image: url(images/h24/mo.png);
+	background-size: 36px 24px;
+	width: 36px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.mo.h48,
+.dot-net-pow-flags.macau.h48,
+.dot-net-pow-flags.en-mo.h48,
+.dot-net-pow-flags.pt-mo.h48,
+.dot-net-pow-flags.zh-hans-mo.h48,
+.dot-net-pow-flags.zh-hant-mo.h48
+{
+	background-image: url(images/h48/mo.png);
+	background-size: 72px 48px;
+	width: 72px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.mk,
+.dot-net-pow-flags.macedonia,
+.dot-net-pow-flags.mk-mk,
+.dot-net-pow-flags.sq-mk
+{
+	background-image: url(images/h20/mk.png);
+	background-size: 40px 20px;
+	width: 40px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.mk.h24,
+.dot-net-pow-flags.macedonia.h24,
+.dot-net-pow-flags.mk-mk.h24,
+.dot-net-pow-flags.sq-mk.h24
+{
+	background-image: url(images/h24/mk.png);
+	background-size: 48px 24px;
+	width: 48px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.mk.h48,
+.dot-net-pow-flags.macedonia.h48,
+.dot-net-pow-flags.mk-mk.h48,
+.dot-net-pow-flags.sq-mk.h48
+{
+	background-image: url(images/h48/mk.png);
+	background-size: 96px 48px;
+	width: 96px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.mg,
+.dot-net-pow-flags.madagascar,
+.dot-net-pow-flags.en-mg,
+.dot-net-pow-flags.fr-mg,
+.dot-net-pow-flags.mg-mg
+{
+	background-image: url(images/h20/mg.png);
+	background-size: 30px 20px;
+	width: 30px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.mg.h24,
+.dot-net-pow-flags.madagascar.h24,
+.dot-net-pow-flags.en-mg.h24,
+.dot-net-pow-flags.fr-mg.h24,
+.dot-net-pow-flags.mg-mg.h24
+{
+	background-image: url(images/h24/mg.png);
+	background-size: 36px 24px;
+	width: 36px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.mg.h48,
+.dot-net-pow-flags.madagascar.h48,
+.dot-net-pow-flags.en-mg.h48,
+.dot-net-pow-flags.fr-mg.h48,
+.dot-net-pow-flags.mg-mg.h48
+{
+	background-image: url(images/h48/mg.png);
+	background-size: 72px 48px;
+	width: 72px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.mw,
+.dot-net-pow-flags.malawi,
+.dot-net-pow-flags.en-mw
+{
+	background-image: url(images/h20/mw.png);
+	background-size: 30px 20px;
+	width: 30px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.mw.h24,
+.dot-net-pow-flags.malawi.h24,
+.dot-net-pow-flags.en-mw.h24
+{
+	background-image: url(images/h24/mw.png);
+	background-size: 36px 24px;
+	width: 36px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.mw.h48,
+.dot-net-pow-flags.malawi.h48,
+.dot-net-pow-flags.en-mw.h48
+{
+	background-image: url(images/h48/mw.png);
+	background-size: 72px 48px;
+	width: 72px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.my,
+.dot-net-pow-flags.malaysia,
+.dot-net-pow-flags.en-my,
+.dot-net-pow-flags.ms-my,
+.dot-net-pow-flags.ta-my
+{
+	background-image: url(images/h20/my.png);
+	background-size: 40px 20px;
+	width: 40px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.my.h24,
+.dot-net-pow-flags.malaysia.h24,
+.dot-net-pow-flags.en-my.h24,
+.dot-net-pow-flags.ms-my.h24,
+.dot-net-pow-flags.ta-my.h24
+{
+	background-image: url(images/h24/my.png);
+	background-size: 48px 24px;
+	width: 48px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.my.h48,
+.dot-net-pow-flags.malaysia.h48,
+.dot-net-pow-flags.en-my.h48,
+.dot-net-pow-flags.ms-my.h48,
+.dot-net-pow-flags.ta-my.h48
+{
+	background-image: url(images/h48/my.png);
+	background-size: 96px 48px;
+	width: 96px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.mv,
+.dot-net-pow-flags.maldives,
+.dot-net-pow-flags.dv-mv
+{
+	background-image: url(images/h20/mv.png);
+	background-size: 30px 20px;
+	width: 30px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.mv.h24,
+.dot-net-pow-flags.maldives.h24,
+.dot-net-pow-flags.dv-mv.h24
+{
+	background-image: url(images/h24/mv.png);
+	background-size: 36px 24px;
+	width: 36px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.mv.h48,
+.dot-net-pow-flags.maldives.h48,
+.dot-net-pow-flags.dv-mv.h48
+{
+	background-image: url(images/h48/mv.png);
+	background-size: 72px 48px;
+	width: 72px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.ml,
+.dot-net-pow-flags.mali,
+.dot-net-pow-flags.bm-ml,
+.dot-net-pow-flags.fr-ml,
+.dot-net-pow-flags.khq-ml,
+.dot-net-pow-flags.ses-ml
+{
+	background-image: url(images/h20/ml.png);
+	background-size: 30px 20px;
+	width: 30px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.ml.h24,
+.dot-net-pow-flags.mali.h24,
+.dot-net-pow-flags.bm-ml.h24,
+.dot-net-pow-flags.fr-ml.h24,
+.dot-net-pow-flags.khq-ml.h24,
+.dot-net-pow-flags.ses-ml.h24
+{
+	background-image: url(images/h24/ml.png);
+	background-size: 36px 24px;
+	width: 36px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.ml.h48,
+.dot-net-pow-flags.mali.h48,
+.dot-net-pow-flags.bm-ml.h48,
+.dot-net-pow-flags.fr-ml.h48,
+.dot-net-pow-flags.khq-ml.h48,
+.dot-net-pow-flags.ses-ml.h48
+{
+	background-image: url(images/h48/ml.png);
+	background-size: 72px 48px;
+	width: 72px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.mt,
+.dot-net-pow-flags.malta,
+.dot-net-pow-flags.en-mt,
+.dot-net-pow-flags.mt-mt
+{
+	background-image: url(images/h20/mt.png);
+	background-size: 30px 20px;
+	width: 30px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.mt.h24,
+.dot-net-pow-flags.malta.h24,
+.dot-net-pow-flags.en-mt.h24,
+.dot-net-pow-flags.mt-mt.h24
+{
+	background-image: url(images/h24/mt.png);
+	background-size: 36px 24px;
+	width: 36px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.mt.h48,
+.dot-net-pow-flags.malta.h48,
+.dot-net-pow-flags.en-mt.h48,
+.dot-net-pow-flags.mt-mt.h48
+{
+	background-image: url(images/h48/mt.png);
+	background-size: 72px 48px;
+	width: 72px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.mh,
+.dot-net-pow-flags.marshall-islands,
+.dot-net-pow-flags.en-mh
+{
+	background-image: url(images/h20/mh.png);
+	background-size: 38px 20px;
+	width: 38px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.mh.h24,
+.dot-net-pow-flags.marshall-islands.h24,
+.dot-net-pow-flags.en-mh.h24
+{
+	background-image: url(images/h24/mh.png);
+	background-size: 46px 24px;
+	width: 46px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.mh.h48,
+.dot-net-pow-flags.marshall-islands.h48,
+.dot-net-pow-flags.en-mh.h48
+{
+	background-image: url(images/h48/mh.png);
+	background-size: 91px 48px;
+	width: 91px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.mq,
+.dot-net-pow-flags.martinique,
+.dot-net-pow-flags.fr-mq
+{
+	background-image: url(images/h20/mq.png);
+	background-size: 30px 20px;
+	width: 30px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.mq.h24,
+.dot-net-pow-flags.martinique.h24,
+.dot-net-pow-flags.fr-mq.h24
+{
+	background-image: url(images/h24/mq.png);
+	background-size: 36px 24px;
+	width: 36px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.mq.h48,
+.dot-net-pow-flags.martinique.h48,
+.dot-net-pow-flags.fr-mq.h48
+{
+	background-image: url(images/h48/mq.png);
+	background-size: 72px 48px;
+	width: 72px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.mr,
+.dot-net-pow-flags.mauritania,
+.dot-net-pow-flags.ar-mr,
+.dot-net-pow-flags.ff-latn-mr,
+.dot-net-pow-flags.fr-mr
+{
+	background-image: url(images/h20/mr.png);
+	background-size: 30px 20px;
+	width: 30px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.mr.h24,
+.dot-net-pow-flags.mauritania.h24,
+.dot-net-pow-flags.ar-mr.h24,
+.dot-net-pow-flags.ff-latn-mr.h24,
+.dot-net-pow-flags.fr-mr.h24
+{
+	background-image: url(images/h24/mr.png);
+	background-size: 36px 24px;
+	width: 36px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.mr.h48,
+.dot-net-pow-flags.mauritania.h48,
+.dot-net-pow-flags.ar-mr.h48,
+.dot-net-pow-flags.ff-latn-mr.h48,
+.dot-net-pow-flags.fr-mr.h48
+{
+	background-image: url(images/h48/mr.png);
+	background-size: 72px 48px;
+	width: 72px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.mu,
+.dot-net-pow-flags.mauritius,
+.dot-net-pow-flags.en-mu,
+.dot-net-pow-flags.fr-mu,
+.dot-net-pow-flags.mfe-mu
+{
+	background-image: url(images/h20/mu.png);
+	background-size: 30px 20px;
+	width: 30px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.mu.h24,
+.dot-net-pow-flags.mauritius.h24,
+.dot-net-pow-flags.en-mu.h24,
+.dot-net-pow-flags.fr-mu.h24,
+.dot-net-pow-flags.mfe-mu.h24
+{
+	background-image: url(images/h24/mu.png);
+	background-size: 36px 24px;
+	width: 36px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.mu.h48,
+.dot-net-pow-flags.mauritius.h48,
+.dot-net-pow-flags.en-mu.h48,
+.dot-net-pow-flags.fr-mu.h48,
+.dot-net-pow-flags.mfe-mu.h48
+{
+	background-image: url(images/h48/mu.png);
+	background-size: 72px 48px;
+	width: 72px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.yt,
+.dot-net-pow-flags.mayotte,
+.dot-net-pow-flags.fr-yt
+{
+	background-image: url(images/h20/yt.png);
+	background-size: 30px 20px;
+	width: 30px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.yt.h24,
+.dot-net-pow-flags.mayotte.h24,
+.dot-net-pow-flags.fr-yt.h24
+{
+	background-image: url(images/h24/yt.png);
+	background-size: 36px 24px;
+	width: 36px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.yt.h48,
+.dot-net-pow-flags.mayotte.h48,
+.dot-net-pow-flags.fr-yt.h48
+{
+	background-image: url(images/h48/yt.png);
+	background-size: 72px 48px;
+	width: 72px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.mx,
+.dot-net-pow-flags.mexico,
+.dot-net-pow-flags.es-mx
+{
+	background-image: url(images/h20/mx.png);
+	background-size: 35px 20px;
+	width: 35px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.mx.h24,
+.dot-net-pow-flags.mexico.h24,
+.dot-net-pow-flags.es-mx.h24
+{
+	background-image: url(images/h24/mx.png);
+	background-size: 42px 24px;
+	width: 42px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.mx.h48,
+.dot-net-pow-flags.mexico.h48,
+.dot-net-pow-flags.es-mx.h48
+{
+	background-image: url(images/h48/mx.png);
+	background-size: 84px 48px;
+	width: 84px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.fm,
+.dot-net-pow-flags.micronesia,
+.dot-net-pow-flags.en-fm
+{
+	background-image: url(images/h20/fm.png);
+	background-size: 38px 20px;
+	width: 38px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.fm.h24,
+.dot-net-pow-flags.micronesia.h24,
+.dot-net-pow-flags.en-fm.h24
+{
+	background-image: url(images/h24/fm.png);
+	background-size: 46px 24px;
+	width: 46px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.fm.h48,
+.dot-net-pow-flags.micronesia.h48,
+.dot-net-pow-flags.en-fm.h48
+{
+	background-image: url(images/h48/fm.png);
+	background-size: 91px 48px;
+	width: 91px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.md,
+.dot-net-pow-flags.moldova,
+.dot-net-pow-flags.ro-md,
+.dot-net-pow-flags.ru-md
+{
+	background-image: url(images/h20/md.png);
+	background-size: 40px 20px;
+	width: 40px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.md.h24,
+.dot-net-pow-flags.moldova.h24,
+.dot-net-pow-flags.ro-md.h24,
+.dot-net-pow-flags.ru-md.h24
+{
+	background-image: url(images/h24/md.png);
+	background-size: 48px 24px;
+	width: 48px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.md.h48,
+.dot-net-pow-flags.moldova.h48,
+.dot-net-pow-flags.ro-md.h48,
+.dot-net-pow-flags.ru-md.h48
+{
+	background-image: url(images/h48/md.png);
+	background-size: 96px 48px;
+	width: 96px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.mc,
+.dot-net-pow-flags.monaco,
+.dot-net-pow-flags.fr-mc
+{
+	background-image: url(images/h20/mc.png);
+	background-size: 25px 20px;
+	width: 25px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.mc.h24,
+.dot-net-pow-flags.monaco.h24,
+.dot-net-pow-flags.fr-mc.h24
+{
+	background-image: url(images/h24/mc.png);
+	background-size: 30px 24px;
+	width: 30px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.mc.h48,
+.dot-net-pow-flags.monaco.h48,
+.dot-net-pow-flags.fr-mc.h48
+{
+	background-image: url(images/h48/mc.png);
+	background-size: 60px 48px;
+	width: 60px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.mn,
+.dot-net-pow-flags.mongolia,
+.dot-net-pow-flags.mn-mn,
+.dot-net-pow-flags.mn-mong-mn
+{
+	background-image: url(images/h20/mn.png);
+	background-size: 40px 20px;
+	width: 40px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.mn.h24,
+.dot-net-pow-flags.mongolia.h24,
+.dot-net-pow-flags.mn-mn.h24,
+.dot-net-pow-flags.mn-mong-mn.h24
+{
+	background-image: url(images/h24/mn.png);
+	background-size: 48px 24px;
+	width: 48px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.mn.h48,
+.dot-net-pow-flags.mongolia.h48,
+.dot-net-pow-flags.mn-mn.h48,
+.dot-net-pow-flags.mn-mong-mn.h48
+{
+	background-image: url(images/h48/mn.png);
+	background-size: 96px 48px;
+	width: 96px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.me,
+.dot-net-pow-flags.montenegro,
+.dot-net-pow-flags.sr-cyrl-me,
+.dot-net-pow-flags.sr-latn-me
+{
+	background-image: url(images/h20/me.png);
+	background-size: 40px 20px;
+	width: 40px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.me.h24,
+.dot-net-pow-flags.montenegro.h24,
+.dot-net-pow-flags.sr-cyrl-me.h24,
+.dot-net-pow-flags.sr-latn-me.h24
+{
+	background-image: url(images/h24/me.png);
+	background-size: 48px 24px;
+	width: 48px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.me.h48,
+.dot-net-pow-flags.montenegro.h48,
+.dot-net-pow-flags.sr-cyrl-me.h48,
+.dot-net-pow-flags.sr-latn-me.h48
+{
+	background-image: url(images/h48/me.png);
+	background-size: 96px 48px;
+	width: 96px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.ms,
+.dot-net-pow-flags.montserrat,
+.dot-net-pow-flags.en-ms
+{
+	background-image: url(images/h20/ms.png);
+	background-size: 40px 20px;
+	width: 40px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.ms.h24,
+.dot-net-pow-flags.montserrat.h24,
+.dot-net-pow-flags.en-ms.h24
+{
+	background-image: url(images/h24/ms.png);
+	background-size: 48px 24px;
+	width: 48px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.ms.h48,
+.dot-net-pow-flags.montserrat.h48,
+.dot-net-pow-flags.en-ms.h48
+{
+	background-image: url(images/h48/ms.png);
+	background-size: 96px 48px;
+	width: 96px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.ma,
+.dot-net-pow-flags.morocco,
+.dot-net-pow-flags.ar-ma,
+.dot-net-pow-flags.fr-ma,
+.dot-net-pow-flags.shi-latn-ma,
+.dot-net-pow-flags.shi-tfng-ma,
+.dot-net-pow-flags.tzm-ma,
+.dot-net-pow-flags.zgh-ma
+{
+	background-image: url(images/h20/ma.png);
+	background-size: 30px 20px;
+	width: 30px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.ma.h24,
+.dot-net-pow-flags.morocco.h24,
+.dot-net-pow-flags.ar-ma.h24,
+.dot-net-pow-flags.fr-ma.h24,
+.dot-net-pow-flags.shi-latn-ma.h24,
+.dot-net-pow-flags.shi-tfng-ma.h24,
+.dot-net-pow-flags.tzm-ma.h24,
+.dot-net-pow-flags.zgh-ma.h24
+{
+	background-image: url(images/h24/ma.png);
+	background-size: 36px 24px;
+	width: 36px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.ma.h48,
+.dot-net-pow-flags.morocco.h48,
+.dot-net-pow-flags.ar-ma.h48,
+.dot-net-pow-flags.fr-ma.h48,
+.dot-net-pow-flags.shi-latn-ma.h48,
+.dot-net-pow-flags.shi-tfng-ma.h48,
+.dot-net-pow-flags.tzm-ma.h48,
+.dot-net-pow-flags.zgh-ma.h48
+{
+	background-image: url(images/h48/ma.png);
+	background-size: 72px 48px;
+	width: 72px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.mz,
+.dot-net-pow-flags.mozambique,
+.dot-net-pow-flags.mgh-mz,
+.dot-net-pow-flags.pt-mz,
+.dot-net-pow-flags.seh-mz
+{
+	background-image: url(images/h20/mz.png);
+	background-size: 30px 20px;
+	width: 30px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.mz.h24,
+.dot-net-pow-flags.mozambique.h24,
+.dot-net-pow-flags.mgh-mz.h24,
+.dot-net-pow-flags.pt-mz.h24,
+.dot-net-pow-flags.seh-mz.h24
+{
+	background-image: url(images/h24/mz.png);
+	background-size: 36px 24px;
+	width: 36px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.mz.h48,
+.dot-net-pow-flags.mozambique.h48,
+.dot-net-pow-flags.mgh-mz.h48,
+.dot-net-pow-flags.pt-mz.h48,
+.dot-net-pow-flags.seh-mz.h48
+{
+	background-image: url(images/h48/mz.png);
+	background-size: 72px 48px;
+	width: 72px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.mm,
+.dot-net-pow-flags.myanmar,
+.dot-net-pow-flags.my-mm
+{
+	background-image: url(images/h20/mm.png);
+	background-size: 30px 20px;
+	width: 30px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.mm.h24,
+.dot-net-pow-flags.myanmar.h24,
+.dot-net-pow-flags.my-mm.h24
+{
+	background-image: url(images/h24/mm.png);
+	background-size: 36px 24px;
+	width: 36px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.mm.h48,
+.dot-net-pow-flags.myanmar.h48,
+.dot-net-pow-flags.my-mm.h48
+{
+	background-image: url(images/h48/mm.png);
+	background-size: 72px 48px;
+	width: 72px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.na,
+.dot-net-pow-flags.namibia,
+.dot-net-pow-flags.af-na,
+.dot-net-pow-flags.en-na,
+.dot-net-pow-flags.naq-na
+{
+	background-image: url(images/h20/na.png);
+	background-size: 30px 20px;
+	width: 30px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.na.h24,
+.dot-net-pow-flags.namibia.h24,
+.dot-net-pow-flags.af-na.h24,
+.dot-net-pow-flags.en-na.h24,
+.dot-net-pow-flags.naq-na.h24
+{
+	background-image: url(images/h24/na.png);
+	background-size: 36px 24px;
+	width: 36px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.na.h48,
+.dot-net-pow-flags.namibia.h48,
+.dot-net-pow-flags.af-na.h48,
+.dot-net-pow-flags.en-na.h48,
+.dot-net-pow-flags.naq-na.h48
+{
+	background-image: url(images/h48/na.png);
+	background-size: 72px 48px;
+	width: 72px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.nr,
+.dot-net-pow-flags.nauru,
+.dot-net-pow-flags.en-nr
+{
+	background-image: url(images/h20/nr.png);
+	background-size: 40px 20px;
+	width: 40px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.nr.h24,
+.dot-net-pow-flags.nauru.h24,
+.dot-net-pow-flags.en-nr.h24
+{
+	background-image: url(images/h24/nr.png);
+	background-size: 48px 24px;
+	width: 48px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.nr.h48,
+.dot-net-pow-flags.nauru.h48,
+.dot-net-pow-flags.en-nr.h48
+{
+	background-image: url(images/h48/nr.png);
+	background-size: 96px 48px;
+	width: 96px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.np,
+.dot-net-pow-flags.nepal,
+.dot-net-pow-flags.ne-np
+{
+	background-image: url(images/h20/np.png);
+	background-size: 16px 20px;
+	width: 16px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.np.h24,
+.dot-net-pow-flags.nepal.h24,
+.dot-net-pow-flags.ne-np.h24
+{
+	background-image: url(images/h24/np.png);
+	background-size: 20px 24px;
+	width: 20px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.np.h48,
+.dot-net-pow-flags.nepal.h48,
+.dot-net-pow-flags.ne-np.h48
+{
+	background-image: url(images/h48/np.png);
+	background-size: 39px 48px;
+	width: 39px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.nl,
+.dot-net-pow-flags.netherlands,
+.dot-net-pow-flags.en-nl,
+.dot-net-pow-flags.fy-nl,
+.dot-net-pow-flags.nds-nl,
+.dot-net-pow-flags.nl-nl
+{
+	background-image: url(images/h20/nl.png);
+	background-size: 30px 20px;
+	width: 30px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.nl.h24,
+.dot-net-pow-flags.netherlands.h24,
+.dot-net-pow-flags.en-nl.h24,
+.dot-net-pow-flags.fy-nl.h24,
+.dot-net-pow-flags.nds-nl.h24,
+.dot-net-pow-flags.nl-nl.h24
+{
+	background-image: url(images/h24/nl.png);
+	background-size: 36px 24px;
+	width: 36px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.nl.h48,
+.dot-net-pow-flags.netherlands.h48,
+.dot-net-pow-flags.en-nl.h48,
+.dot-net-pow-flags.fy-nl.h48,
+.dot-net-pow-flags.nds-nl.h48,
+.dot-net-pow-flags.nl-nl.h48
+{
+	background-image: url(images/h48/nl.png);
+	background-size: 72px 48px;
+	width: 72px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.an,
+.dot-net-pow-flags.netherlands-antilles
+{
+	background-image: url(images/h20/nl.png);
+	background-size: 30px 20px;
+	width: 30px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.an.h24,
+.dot-net-pow-flags.netherlands-antilles.h24
+{
+	background-image: url(images/h24/nl.png);
+	background-size: 36px 24px;
+	width: 36px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.an.h48,
+.dot-net-pow-flags.netherlands-antilles.h48
+{
+	background-image: url(images/h48/nl.png);
+	background-size: 72px 48px;
+	width: 72px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.nc,
+.dot-net-pow-flags.new-caledonia,
+.dot-net-pow-flags.fr-nc
+{
+	background-image: url(images/h20/nc.png);
+	background-size: 40px 20px;
+	width: 40px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.nc.h24,
+.dot-net-pow-flags.new-caledonia.h24,
+.dot-net-pow-flags.fr-nc.h24
+{
+	background-image: url(images/h24/nc.png);
+	background-size: 48px 24px;
+	width: 48px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.nc.h48,
+.dot-net-pow-flags.new-caledonia.h48,
+.dot-net-pow-flags.fr-nc.h48
+{
+	background-image: url(images/h48/nc.png);
+	background-size: 96px 48px;
+	width: 96px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.nz,
+.dot-net-pow-flags.new-zealand,
+.dot-net-pow-flags.en-nz,
+.dot-net-pow-flags.mi-nz
+{
+	background-image: url(images/h20/nz.png);
+	background-size: 40px 20px;
+	width: 40px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.nz.h24,
+.dot-net-pow-flags.new-zealand.h24,
+.dot-net-pow-flags.en-nz.h24,
+.dot-net-pow-flags.mi-nz.h24
+{
+	background-image: url(images/h24/nz.png);
+	background-size: 48px 24px;
+	width: 48px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.nz.h48,
+.dot-net-pow-flags.new-zealand.h48,
+.dot-net-pow-flags.en-nz.h48,
+.dot-net-pow-flags.mi-nz.h48
+{
+	background-image: url(images/h48/nz.png);
+	background-size: 96px 48px;
+	width: 96px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.ni,
+.dot-net-pow-flags.nicaragua,
+.dot-net-pow-flags.es-ni
+{
+	background-image: url(images/h20/ni.png);
+	background-size: 33px 20px;
+	width: 33px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.ni.h24,
+.dot-net-pow-flags.nicaragua.h24,
+.dot-net-pow-flags.es-ni.h24
+{
+	background-image: url(images/h24/ni.png);
+	background-size: 40px 24px;
+	width: 40px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.ni.h48,
+.dot-net-pow-flags.nicaragua.h48,
+.dot-net-pow-flags.es-ni.h48
+{
+	background-image: url(images/h48/ni.png);
+	background-size: 80px 48px;
+	width: 80px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.ne,
+.dot-net-pow-flags.niger,
+.dot-net-pow-flags.dje-ne,
+.dot-net-pow-flags.fr-ne,
+.dot-net-pow-flags.ha-ne,
+.dot-net-pow-flags.twq-ne
+{
+	background-image: url(images/h20/ne.png);
+	background-size: 23px 20px;
+	width: 23px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.ne.h24,
+.dot-net-pow-flags.niger.h24,
+.dot-net-pow-flags.dje-ne.h24,
+.dot-net-pow-flags.fr-ne.h24,
+.dot-net-pow-flags.ha-ne.h24,
+.dot-net-pow-flags.twq-ne.h24
+{
+	background-image: url(images/h24/ne.png);
+	background-size: 28px 24px;
+	width: 28px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.ne.h48,
+.dot-net-pow-flags.niger.h48,
+.dot-net-pow-flags.dje-ne.h48,
+.dot-net-pow-flags.fr-ne.h48,
+.dot-net-pow-flags.ha-ne.h48,
+.dot-net-pow-flags.twq-ne.h48
+{
+	background-image: url(images/h48/ne.png);
+	background-size: 56px 48px;
+	width: 56px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.ng,
+.dot-net-pow-flags.nigeria,
+.dot-net-pow-flags.en-ng,
+.dot-net-pow-flags.ha-ng,
+.dot-net-pow-flags.ig-ng,
+.dot-net-pow-flags.yo-ng
+{
+	background-image: url(images/h20/ng.png);
+	background-size: 40px 20px;
+	width: 40px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.ng.h24,
+.dot-net-pow-flags.nigeria.h24,
+.dot-net-pow-flags.en-ng.h24,
+.dot-net-pow-flags.ha-ng.h24,
+.dot-net-pow-flags.ig-ng.h24,
+.dot-net-pow-flags.yo-ng.h24
+{
+	background-image: url(images/h24/ng.png);
+	background-size: 48px 24px;
+	width: 48px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.ng.h48,
+.dot-net-pow-flags.nigeria.h48,
+.dot-net-pow-flags.en-ng.h48,
+.dot-net-pow-flags.ha-ng.h48,
+.dot-net-pow-flags.ig-ng.h48,
+.dot-net-pow-flags.yo-ng.h48
+{
+	background-image: url(images/h48/ng.png);
+	background-size: 96px 48px;
+	width: 96px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.nu,
+.dot-net-pow-flags.niue,
+.dot-net-pow-flags.en-nu
+{
+	background-image: url(images/h20/nu.png);
+	background-size: 40px 20px;
+	width: 40px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.nu.h24,
+.dot-net-pow-flags.niue.h24,
+.dot-net-pow-flags.en-nu.h24
+{
+	background-image: url(images/h24/nu.png);
+	background-size: 48px 24px;
+	width: 48px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.nu.h48,
+.dot-net-pow-flags.niue.h48,
+.dot-net-pow-flags.en-nu.h48
+{
+	background-image: url(images/h48/nu.png);
+	background-size: 96px 48px;
+	width: 96px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.kp,
+.dot-net-pow-flags.north-korea,
+.dot-net-pow-flags.ko-kp
+{
+	background-image: url(images/h20/kp.png);
+	background-size: 40px 20px;
+	width: 40px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.kp.h24,
+.dot-net-pow-flags.north-korea.h24,
+.dot-net-pow-flags.ko-kp.h24
+{
+	background-image: url(images/h24/kp.png);
+	background-size: 48px 24px;
+	width: 48px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.kp.h48,
+.dot-net-pow-flags.north-korea.h48,
+.dot-net-pow-flags.ko-kp.h48
+{
+	background-image: url(images/h48/kp.png);
+	background-size: 96px 48px;
+	width: 96px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.mp,
+.dot-net-pow-flags.northern-mariana-islands,
+.dot-net-pow-flags.en-mp
+{
+	background-image: url(images/h20/mp.png);
+	background-size: 40px 20px;
+	width: 40px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.mp.h24,
+.dot-net-pow-flags.northern-mariana-islands.h24,
+.dot-net-pow-flags.en-mp.h24
+{
+	background-image: url(images/h24/mp.png);
+	background-size: 48px 24px;
+	width: 48px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.mp.h48,
+.dot-net-pow-flags.northern-mariana-islands.h48,
+.dot-net-pow-flags.en-mp.h48
+{
+	background-image: url(images/h48/mp.png);
+	background-size: 96px 48px;
+	width: 96px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.no,
+.dot-net-pow-flags.norway,
+.dot-net-pow-flags.nb-no,
+.dot-net-pow-flags.nn-no,
+.dot-net-pow-flags.se-no,
+.dot-net-pow-flags.sma-no,
+.dot-net-pow-flags.smj-no
+{
+	background-image: url(images/h20/no.png);
+	background-size: 28px 20px;
+	width: 28px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.no.h24,
+.dot-net-pow-flags.norway.h24,
+.dot-net-pow-flags.nb-no.h24,
+.dot-net-pow-flags.nn-no.h24,
+.dot-net-pow-flags.se-no.h24,
+.dot-net-pow-flags.sma-no.h24,
+.dot-net-pow-flags.smj-no.h24
+{
+	background-image: url(images/h24/no.png);
+	background-size: 33px 24px;
+	width: 33px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.no.h48,
+.dot-net-pow-flags.norway.h48,
+.dot-net-pow-flags.nb-no.h48,
+.dot-net-pow-flags.nn-no.h48,
+.dot-net-pow-flags.se-no.h48,
+.dot-net-pow-flags.sma-no.h48,
+.dot-net-pow-flags.smj-no.h48
+{
+	background-image: url(images/h48/no.png);
+	background-size: 66px 48px;
+	width: 66px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.om,
+.dot-net-pow-flags.oman,
+.dot-net-pow-flags.ar-om
+{
+	background-image: url(images/h20/om.png);
+	background-size: 40px 20px;
+	width: 40px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.om.h24,
+.dot-net-pow-flags.oman.h24,
+.dot-net-pow-flags.ar-om.h24
+{
+	background-image: url(images/h24/om.png);
+	background-size: 48px 24px;
+	width: 48px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.om.h48,
+.dot-net-pow-flags.oman.h48,
+.dot-net-pow-flags.ar-om.h48
+{
+	background-image: url(images/h48/om.png);
+	background-size: 96px 48px;
+	width: 96px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.pk,
+.dot-net-pow-flags.pakistan,
+.dot-net-pow-flags.en-pk,
+.dot-net-pow-flags.pa-arab-pk,
+.dot-net-pow-flags.sd-pk,
+.dot-net-pow-flags.ur-pk
+{
+	background-image: url(images/h20/pk.png);
+	background-size: 30px 20px;
+	width: 30px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.pk.h24,
+.dot-net-pow-flags.pakistan.h24,
+.dot-net-pow-flags.en-pk.h24,
+.dot-net-pow-flags.pa-arab-pk.h24,
+.dot-net-pow-flags.sd-pk.h24,
+.dot-net-pow-flags.ur-pk.h24
+{
+	background-image: url(images/h24/pk.png);
+	background-size: 36px 24px;
+	width: 36px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.pk.h48,
+.dot-net-pow-flags.pakistan.h48,
+.dot-net-pow-flags.en-pk.h48,
+.dot-net-pow-flags.pa-arab-pk.h48,
+.dot-net-pow-flags.sd-pk.h48,
+.dot-net-pow-flags.ur-pk.h48
+{
+	background-image: url(images/h48/pk.png);
+	background-size: 72px 48px;
+	width: 72px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.pw,
+.dot-net-pow-flags.palau,
+.dot-net-pow-flags.en-pw
+{
+	background-image: url(images/h20/pw.png);
+	background-size: 32px 20px;
+	width: 32px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.pw.h24,
+.dot-net-pow-flags.palau.h24,
+.dot-net-pow-flags.en-pw.h24
+{
+	background-image: url(images/h24/pw.png);
+	background-size: 38px 24px;
+	width: 38px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.pw.h48,
+.dot-net-pow-flags.palau.h48,
+.dot-net-pow-flags.en-pw.h48
+{
+	background-image: url(images/h48/pw.png);
+	background-size: 77px 48px;
+	width: 77px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.ps,
+.dot-net-pow-flags.palestine,
+.dot-net-pow-flags.ar-ps
+{
+	background-image: url(images/h20/ps.png);
+	background-size: 40px 20px;
+	width: 40px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.ps.h24,
+.dot-net-pow-flags.palestine.h24,
+.dot-net-pow-flags.ar-ps.h24
+{
+	background-image: url(images/h24/ps.png);
+	background-size: 48px 24px;
+	width: 48px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.ps.h48,
+.dot-net-pow-flags.palestine.h48,
+.dot-net-pow-flags.ar-ps.h48
+{
+	background-image: url(images/h48/ps.png);
+	background-size: 96px 48px;
+	width: 96px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.pa,
+.dot-net-pow-flags.panama,
+.dot-net-pow-flags.es-pa
+{
+	background-image: url(images/h20/pa.png);
+	background-size: 30px 20px;
+	width: 30px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.pa.h24,
+.dot-net-pow-flags.panama.h24,
+.dot-net-pow-flags.es-pa.h24
+{
+	background-image: url(images/h24/pa.png);
+	background-size: 36px 24px;
+	width: 36px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.pa.h48,
+.dot-net-pow-flags.panama.h48,
+.dot-net-pow-flags.es-pa.h48
+{
+	background-image: url(images/h48/pa.png);
+	background-size: 72px 48px;
+	width: 72px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.pg,
+.dot-net-pow-flags.papua-new-guinea,
+.dot-net-pow-flags.en-pg
+{
+	background-image: url(images/h20/pg.png);
+	background-size: 27px 20px;
+	width: 27px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.pg.h24,
+.dot-net-pow-flags.papua-new-guinea.h24,
+.dot-net-pow-flags.en-pg.h24
+{
+	background-image: url(images/h24/pg.png);
+	background-size: 32px 24px;
+	width: 32px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.pg.h48,
+.dot-net-pow-flags.papua-new-guinea.h48,
+.dot-net-pow-flags.en-pg.h48
+{
+	background-image: url(images/h48/pg.png);
+	background-size: 64px 48px;
+	width: 64px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.py,
+.dot-net-pow-flags.paraguay,
+.dot-net-pow-flags.es-py,
+.dot-net-pow-flags.gn-py
+{
+	background-image: url(images/h20/py.png);
+	background-size: 36px 20px;
+	width: 36px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.py.h24,
+.dot-net-pow-flags.paraguay.h24,
+.dot-net-pow-flags.es-py.h24,
+.dot-net-pow-flags.gn-py.h24
+{
+	background-image: url(images/h24/py.png);
+	background-size: 44px 24px;
+	width: 44px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.py.h48,
+.dot-net-pow-flags.paraguay.h48,
+.dot-net-pow-flags.es-py.h48,
+.dot-net-pow-flags.gn-py.h48
+{
+	background-image: url(images/h48/py.png);
+	background-size: 87px 48px;
+	width: 87px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.pe,
+.dot-net-pow-flags.peru,
+.dot-net-pow-flags.es-pe,
+.dot-net-pow-flags.qu-pe
+{
+	background-image: url(images/h20/pe.png);
+	background-size: 30px 20px;
+	width: 30px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.pe.h24,
+.dot-net-pow-flags.peru.h24,
+.dot-net-pow-flags.es-pe.h24,
+.dot-net-pow-flags.qu-pe.h24
+{
+	background-image: url(images/h24/pe.png);
+	background-size: 36px 24px;
+	width: 36px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.pe.h48,
+.dot-net-pow-flags.peru.h48,
+.dot-net-pow-flags.es-pe.h48,
+.dot-net-pow-flags.qu-pe.h48
+{
+	background-image: url(images/h48/pe.png);
+	background-size: 72px 48px;
+	width: 72px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.ph,
+.dot-net-pow-flags.philippines,
+.dot-net-pow-flags.en-ph,
+.dot-net-pow-flags.es-ph,
+.dot-net-pow-flags.fil-ph
+{
+	background-image: url(images/h20/ph.png);
+	background-size: 40px 20px;
+	width: 40px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.ph.h24,
+.dot-net-pow-flags.philippines.h24,
+.dot-net-pow-flags.en-ph.h24,
+.dot-net-pow-flags.es-ph.h24,
+.dot-net-pow-flags.fil-ph.h24
+{
+	background-image: url(images/h24/ph.png);
+	background-size: 48px 24px;
+	width: 48px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.ph.h48,
+.dot-net-pow-flags.philippines.h48,
+.dot-net-pow-flags.en-ph.h48,
+.dot-net-pow-flags.es-ph.h48,
+.dot-net-pow-flags.fil-ph.h48
+{
+	background-image: url(images/h48/ph.png);
+	background-size: 96px 48px;
+	width: 96px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.pn,
+.dot-net-pow-flags.pitcairn,
+.dot-net-pow-flags.en-pn
+{
+	background-image: url(images/h20/pn.png);
+	background-size: 40px 20px;
+	width: 40px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.pn.h24,
+.dot-net-pow-flags.pitcairn.h24,
+.dot-net-pow-flags.en-pn.h24
+{
+	background-image: url(images/h24/pn.png);
+	background-size: 48px 24px;
+	width: 48px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.pn.h48,
+.dot-net-pow-flags.pitcairn.h48,
+.dot-net-pow-flags.en-pn.h48
+{
+	background-image: url(images/h48/pn.png);
+	background-size: 96px 48px;
+	width: 96px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.pl,
+.dot-net-pow-flags.poland,
+.dot-net-pow-flags.pl-pl
+{
+	background-image: url(images/h20/pl.png);
+	background-size: 32px 20px;
+	width: 32px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.pl.h24,
+.dot-net-pow-flags.poland.h24,
+.dot-net-pow-flags.pl-pl.h24
+{
+	background-image: url(images/h24/pl.png);
+	background-size: 38px 24px;
+	width: 38px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.pl.h48,
+.dot-net-pow-flags.poland.h48,
+.dot-net-pow-flags.pl-pl.h48
+{
+	background-image: url(images/h48/pl.png);
+	background-size: 77px 48px;
+	width: 77px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.pt,
+.dot-net-pow-flags.portugal,
+.dot-net-pow-flags.pt-pt
+{
+	background-image: url(images/h20/pt.png);
+	background-size: 30px 20px;
+	width: 30px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.pt.h24,
+.dot-net-pow-flags.portugal.h24,
+.dot-net-pow-flags.pt-pt.h24
+{
+	background-image: url(images/h24/pt.png);
+	background-size: 36px 24px;
+	width: 36px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.pt.h48,
+.dot-net-pow-flags.portugal.h48,
+.dot-net-pow-flags.pt-pt.h48
+{
+	background-image: url(images/h48/pt.png);
+	background-size: 72px 48px;
+	width: 72px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.pr,
+.dot-net-pow-flags.puerto-rico,
+.dot-net-pow-flags.en-pr,
+.dot-net-pow-flags.es-pr
+{
+	background-image: url(images/h20/pr.png);
+	background-size: 30px 20px;
+	width: 30px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.pr.h24,
+.dot-net-pow-flags.puerto-rico.h24,
+.dot-net-pow-flags.en-pr.h24,
+.dot-net-pow-flags.es-pr.h24
+{
+	background-image: url(images/h24/pr.png);
+	background-size: 36px 24px;
+	width: 36px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.pr.h48,
+.dot-net-pow-flags.puerto-rico.h48,
+.dot-net-pow-flags.en-pr.h48,
+.dot-net-pow-flags.es-pr.h48
+{
+	background-image: url(images/h48/pr.png);
+	background-size: 72px 48px;
+	width: 72px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.qa,
+.dot-net-pow-flags.qatar,
+.dot-net-pow-flags.ar-qa
+{
+	background-image: url(images/h20/qa.png);
+	background-size: 51px 20px;
+	width: 51px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.qa.h24,
+.dot-net-pow-flags.qatar.h24,
+.dot-net-pow-flags.ar-qa.h24
+{
+	background-image: url(images/h24/qa.png);
+	background-size: 61px 24px;
+	width: 61px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.qa.h48,
+.dot-net-pow-flags.qatar.h48,
+.dot-net-pow-flags.ar-qa.h48
+{
+	background-image: url(images/h48/qa.png);
+	background-size: 122px 48px;
+	width: 122px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.cg,
+.dot-net-pow-flags.republic-of-the-congo,
+.dot-net-pow-flags.fr-cg,
+.dot-net-pow-flags.ln-cg
+{
+	background-image: url(images/h20/cg.png);
+	background-size: 30px 20px;
+	width: 30px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.cg.h24,
+.dot-net-pow-flags.republic-of-the-congo.h24,
+.dot-net-pow-flags.fr-cg.h24,
+.dot-net-pow-flags.ln-cg.h24
+{
+	background-image: url(images/h24/cg.png);
+	background-size: 36px 24px;
+	width: 36px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.cg.h48,
+.dot-net-pow-flags.republic-of-the-congo.h48,
+.dot-net-pow-flags.fr-cg.h48,
+.dot-net-pow-flags.ln-cg.h48
+{
+	background-image: url(images/h48/cg.png);
+	background-size: 72px 48px;
+	width: 72px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.re,
+.dot-net-pow-flags.reunion,
+.dot-net-pow-flags.fr-re
+{
+	background-image: url(images/h20/re.png);
+	background-size: 30px 20px;
+	width: 30px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.re.h24,
+.dot-net-pow-flags.reunion.h24,
+.dot-net-pow-flags.fr-re.h24
+{
+	background-image: url(images/h24/re.png);
+	background-size: 36px 24px;
+	width: 36px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.re.h48,
+.dot-net-pow-flags.reunion.h48,
+.dot-net-pow-flags.fr-re.h48
+{
+	background-image: url(images/h48/re.png);
+	background-size: 72px 48px;
+	width: 72px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.ro,
+.dot-net-pow-flags.romania,
+.dot-net-pow-flags.ro-ro
+{
+	background-image: url(images/h20/ro.png);
+	background-size: 30px 20px;
+	width: 30px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.ro.h24,
+.dot-net-pow-flags.romania.h24,
+.dot-net-pow-flags.ro-ro.h24
+{
+	background-image: url(images/h24/ro.png);
+	background-size: 36px 24px;
+	width: 36px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.ro.h48,
+.dot-net-pow-flags.romania.h48,
+.dot-net-pow-flags.ro-ro.h48
+{
+	background-image: url(images/h48/ro.png);
+	background-size: 72px 48px;
+	width: 72px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.ru,
+.dot-net-pow-flags.russia,
+.dot-net-pow-flags.ba-ru,
+.dot-net-pow-flags.ce-ru,
+.dot-net-pow-flags.cu-ru,
+.dot-net-pow-flags.os-ru,
+.dot-net-pow-flags.ru-ru,
+.dot-net-pow-flags.sah-ru,
+.dot-net-pow-flags.tt-ru
+{
+	background-image: url(images/h20/ru.png);
+	background-size: 30px 20px;
+	width: 30px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.ru.h24,
+.dot-net-pow-flags.russia.h24,
+.dot-net-pow-flags.ba-ru.h24,
+.dot-net-pow-flags.ce-ru.h24,
+.dot-net-pow-flags.cu-ru.h24,
+.dot-net-pow-flags.os-ru.h24,
+.dot-net-pow-flags.ru-ru.h24,
+.dot-net-pow-flags.sah-ru.h24,
+.dot-net-pow-flags.tt-ru.h24
+{
+	background-image: url(images/h24/ru.png);
+	background-size: 36px 24px;
+	width: 36px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.ru.h48,
+.dot-net-pow-flags.russia.h48,
+.dot-net-pow-flags.ba-ru.h48,
+.dot-net-pow-flags.ce-ru.h48,
+.dot-net-pow-flags.cu-ru.h48,
+.dot-net-pow-flags.os-ru.h48,
+.dot-net-pow-flags.ru-ru.h48,
+.dot-net-pow-flags.sah-ru.h48,
+.dot-net-pow-flags.tt-ru.h48
+{
+	background-image: url(images/h48/ru.png);
+	background-size: 72px 48px;
+	width: 72px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.rw,
+.dot-net-pow-flags.rwanda,
+.dot-net-pow-flags.en-rw,
+.dot-net-pow-flags.fr-rw,
+.dot-net-pow-flags.rw-rw
+{
+	background-image: url(images/h20/rw.png);
+	background-size: 30px 20px;
+	width: 30px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.rw.h24,
+.dot-net-pow-flags.rwanda.h24,
+.dot-net-pow-flags.en-rw.h24,
+.dot-net-pow-flags.fr-rw.h24,
+.dot-net-pow-flags.rw-rw.h24
+{
+	background-image: url(images/h24/rw.png);
+	background-size: 36px 24px;
+	width: 36px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.rw.h48,
+.dot-net-pow-flags.rwanda.h48,
+.dot-net-pow-flags.en-rw.h48,
+.dot-net-pow-flags.fr-rw.h48,
+.dot-net-pow-flags.rw-rw.h48
+{
+	background-image: url(images/h48/rw.png);
+	background-size: 72px 48px;
+	width: 72px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.bl,
+.dot-net-pow-flags.saint-barthelemy,
+.dot-net-pow-flags.fr-bl
+{
+	background-image: url(images/h20/bl.png);
+	background-size: 30px 20px;
+	width: 30px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.bl.h24,
+.dot-net-pow-flags.saint-barthelemy.h24,
+.dot-net-pow-flags.fr-bl.h24
+{
+	background-image: url(images/h24/bl.png);
+	background-size: 36px 24px;
+	width: 36px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.bl.h48,
+.dot-net-pow-flags.saint-barthelemy.h48,
+.dot-net-pow-flags.fr-bl.h48
+{
+	background-image: url(images/h48/bl.png);
+	background-size: 72px 48px;
+	width: 72px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.sh,
+.dot-net-pow-flags.saint-helena,
+.dot-net-pow-flags.en-sh
+{
+	background-image: url(images/h20/sh.png);
+	background-size: 40px 20px;
+	width: 40px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.sh.h24,
+.dot-net-pow-flags.saint-helena.h24,
+.dot-net-pow-flags.en-sh.h24
+{
+	background-image: url(images/h24/sh.png);
+	background-size: 48px 24px;
+	width: 48px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.sh.h48,
+.dot-net-pow-flags.saint-helena.h48,
+.dot-net-pow-flags.en-sh.h48
+{
+	background-image: url(images/h48/sh.png);
+	background-size: 96px 48px;
+	width: 96px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.kn,
+.dot-net-pow-flags.saint-kitts-and-nevis,
+.dot-net-pow-flags.en-kn
+{
+	background-image: url(images/h20/kn.png);
+	background-size: 30px 20px;
+	width: 30px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.kn.h24,
+.dot-net-pow-flags.saint-kitts-and-nevis.h24,
+.dot-net-pow-flags.en-kn.h24
+{
+	background-image: url(images/h24/kn.png);
+	background-size: 36px 24px;
+	width: 36px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.kn.h48,
+.dot-net-pow-flags.saint-kitts-and-nevis.h48,
+.dot-net-pow-flags.en-kn.h48
+{
+	background-image: url(images/h48/kn.png);
+	background-size: 72px 48px;
+	width: 72px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.lc,
+.dot-net-pow-flags.saint-lucia,
+.dot-net-pow-flags.en-lc
+{
+	background-image: url(images/h20/lc.png);
+	background-size: 40px 20px;
+	width: 40px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.lc.h24,
+.dot-net-pow-flags.saint-lucia.h24,
+.dot-net-pow-flags.en-lc.h24
+{
+	background-image: url(images/h24/lc.png);
+	background-size: 48px 24px;
+	width: 48px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.lc.h48,
+.dot-net-pow-flags.saint-lucia.h48,
+.dot-net-pow-flags.en-lc.h48
+{
+	background-image: url(images/h48/lc.png);
+	background-size: 96px 48px;
+	width: 96px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.mf,
+.dot-net-pow-flags.saint-martin,
+.dot-net-pow-flags.fr-mf
+{
+	background-image: url(images/h20/mf.png);
+	background-size: 30px 20px;
+	width: 30px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.mf.h24,
+.dot-net-pow-flags.saint-martin.h24,
+.dot-net-pow-flags.fr-mf.h24
+{
+	background-image: url(images/h24/mf.png);
+	background-size: 36px 24px;
+	width: 36px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.mf.h48,
+.dot-net-pow-flags.saint-martin.h48,
+.dot-net-pow-flags.fr-mf.h48
+{
+	background-image: url(images/h48/mf.png);
+	background-size: 72px 48px;
+	width: 72px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.pm,
+.dot-net-pow-flags.saint-pierre-and-miquelon,
+.dot-net-pow-flags.fr-pm
+{
+	background-image: url(images/h20/pm.png);
+	background-size: 30px 20px;
+	width: 30px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.pm.h24,
+.dot-net-pow-flags.saint-pierre-and-miquelon.h24,
+.dot-net-pow-flags.fr-pm.h24
+{
+	background-image: url(images/h24/pm.png);
+	background-size: 36px 24px;
+	width: 36px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.pm.h48,
+.dot-net-pow-flags.saint-pierre-and-miquelon.h48,
+.dot-net-pow-flags.fr-pm.h48
+{
+	background-image: url(images/h48/pm.png);
+	background-size: 72px 48px;
+	width: 72px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.vc,
+.dot-net-pow-flags.saint-vincent-and-the-grenadines,
+.dot-net-pow-flags.en-vc
+{
+	background-image: url(images/h20/vc.png);
+	background-size: 30px 20px;
+	width: 30px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.vc.h24,
+.dot-net-pow-flags.saint-vincent-and-the-grenadines.h24,
+.dot-net-pow-flags.en-vc.h24
+{
+	background-image: url(images/h24/vc.png);
+	background-size: 36px 24px;
+	width: 36px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.vc.h48,
+.dot-net-pow-flags.saint-vincent-and-the-grenadines.h48,
+.dot-net-pow-flags.en-vc.h48
+{
+	background-image: url(images/h48/vc.png);
+	background-size: 72px 48px;
+	width: 72px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.ws,
+.dot-net-pow-flags.samoa,
+.dot-net-pow-flags.en-ws
+{
+	background-image: url(images/h20/ws.png);
+	background-size: 40px 20px;
+	width: 40px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.ws.h24,
+.dot-net-pow-flags.samoa.h24,
+.dot-net-pow-flags.en-ws.h24
+{
+	background-image: url(images/h24/ws.png);
+	background-size: 48px 24px;
+	width: 48px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.ws.h48,
+.dot-net-pow-flags.samoa.h48,
+.dot-net-pow-flags.en-ws.h48
+{
+	background-image: url(images/h48/ws.png);
+	background-size: 96px 48px;
+	width: 96px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.sm,
+.dot-net-pow-flags.san-marino,
+.dot-net-pow-flags.it-sm
+{
+	background-image: url(images/h20/sm.png);
+	background-size: 27px 20px;
+	width: 27px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.sm.h24,
+.dot-net-pow-flags.san-marino.h24,
+.dot-net-pow-flags.it-sm.h24
+{
+	background-image: url(images/h24/sm.png);
+	background-size: 32px 24px;
+	width: 32px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.sm.h48,
+.dot-net-pow-flags.san-marino.h48,
+.dot-net-pow-flags.it-sm.h48
+{
+	background-image: url(images/h48/sm.png);
+	background-size: 64px 48px;
+	width: 64px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.st,
+.dot-net-pow-flags.sao-tome-and-principe,
+.dot-net-pow-flags.pt-st
+{
+	background-image: url(images/h20/st.png);
+	background-size: 40px 20px;
+	width: 40px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.st.h24,
+.dot-net-pow-flags.sao-tome-and-principe.h24,
+.dot-net-pow-flags.pt-st.h24
+{
+	background-image: url(images/h24/st.png);
+	background-size: 48px 24px;
+	width: 48px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.st.h48,
+.dot-net-pow-flags.sao-tome-and-principe.h48,
+.dot-net-pow-flags.pt-st.h48
+{
+	background-image: url(images/h48/st.png);
+	background-size: 96px 48px;
+	width: 96px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.sa,
+.dot-net-pow-flags.saudi-arabia,
+.dot-net-pow-flags.ar-sa
+{
+	background-image: url(images/h20/sa.png);
+	background-size: 30px 20px;
+	width: 30px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.sa.h24,
+.dot-net-pow-flags.saudi-arabia.h24,
+.dot-net-pow-flags.ar-sa.h24
+{
+	background-image: url(images/h24/sa.png);
+	background-size: 36px 24px;
+	width: 36px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.sa.h48,
+.dot-net-pow-flags.saudi-arabia.h48,
+.dot-net-pow-flags.ar-sa.h48
+{
+	background-image: url(images/h48/sa.png);
+	background-size: 72px 48px;
+	width: 72px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.sn,
+.dot-net-pow-flags.senegal,
+.dot-net-pow-flags.dyo-sn,
+.dot-net-pow-flags.ff-latn-sn,
+.dot-net-pow-flags.fr-sn,
+.dot-net-pow-flags.wo-sn
+{
+	background-image: url(images/h20/sn.png);
+	background-size: 30px 20px;
+	width: 30px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.sn.h24,
+.dot-net-pow-flags.senegal.h24,
+.dot-net-pow-flags.dyo-sn.h24,
+.dot-net-pow-flags.ff-latn-sn.h24,
+.dot-net-pow-flags.fr-sn.h24,
+.dot-net-pow-flags.wo-sn.h24
+{
+	background-image: url(images/h24/sn.png);
+	background-size: 36px 24px;
+	width: 36px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.sn.h48,
+.dot-net-pow-flags.senegal.h48,
+.dot-net-pow-flags.dyo-sn.h48,
+.dot-net-pow-flags.ff-latn-sn.h48,
+.dot-net-pow-flags.fr-sn.h48,
+.dot-net-pow-flags.wo-sn.h48
+{
+	background-image: url(images/h48/sn.png);
+	background-size: 72px 48px;
+	width: 72px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.rs,
+.dot-net-pow-flags.serbia,
+.dot-net-pow-flags.sr-cyrl-rs,
+.dot-net-pow-flags.sr-latn-rs
+{
+	background-image: url(images/h20/rs.png);
+	background-size: 30px 20px;
+	width: 30px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.rs.h24,
+.dot-net-pow-flags.serbia.h24,
+.dot-net-pow-flags.sr-cyrl-rs.h24,
+.dot-net-pow-flags.sr-latn-rs.h24
+{
+	background-image: url(images/h24/rs.png);
+	background-size: 36px 24px;
+	width: 36px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.rs.h48,
+.dot-net-pow-flags.serbia.h48,
+.dot-net-pow-flags.sr-cyrl-rs.h48,
+.dot-net-pow-flags.sr-latn-rs.h48
+{
+	background-image: url(images/h48/rs.png);
+	background-size: 72px 48px;
+	width: 72px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.sc,
+.dot-net-pow-flags.seychelles,
+.dot-net-pow-flags.en-sc,
+.dot-net-pow-flags.fr-sc
+{
+	background-image: url(images/h20/sc.png);
+	background-size: 40px 20px;
+	width: 40px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.sc.h24,
+.dot-net-pow-flags.seychelles.h24,
+.dot-net-pow-flags.en-sc.h24,
+.dot-net-pow-flags.fr-sc.h24
+{
+	background-image: url(images/h24/sc.png);
+	background-size: 48px 24px;
+	width: 48px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.sc.h48,
+.dot-net-pow-flags.seychelles.h48,
+.dot-net-pow-flags.en-sc.h48,
+.dot-net-pow-flags.fr-sc.h48
+{
+	background-image: url(images/h48/sc.png);
+	background-size: 96px 48px;
+	width: 96px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.sl,
+.dot-net-pow-flags.sierra-leone,
+.dot-net-pow-flags.en-sl
+{
+	background-image: url(images/h20/sl.png);
+	background-size: 30px 20px;
+	width: 30px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.sl.h24,
+.dot-net-pow-flags.sierra-leone.h24,
+.dot-net-pow-flags.en-sl.h24
+{
+	background-image: url(images/h24/sl.png);
+	background-size: 36px 24px;
+	width: 36px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.sl.h48,
+.dot-net-pow-flags.sierra-leone.h48,
+.dot-net-pow-flags.en-sl.h48
+{
+	background-image: url(images/h48/sl.png);
+	background-size: 72px 48px;
+	width: 72px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.sg,
+.dot-net-pow-flags.singapore,
+.dot-net-pow-flags.en-sg,
+.dot-net-pow-flags.ms-sg,
+.dot-net-pow-flags.ta-sg,
+.dot-net-pow-flags.zh-hans-sg
+{
+	background-image: url(images/h20/sg.png);
+	background-size: 30px 20px;
+	width: 30px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.sg.h24,
+.dot-net-pow-flags.singapore.h24,
+.dot-net-pow-flags.en-sg.h24,
+.dot-net-pow-flags.ms-sg.h24,
+.dot-net-pow-flags.ta-sg.h24,
+.dot-net-pow-flags.zh-hans-sg.h24
+{
+	background-image: url(images/h24/sg.png);
+	background-size: 36px 24px;
+	width: 36px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.sg.h48,
+.dot-net-pow-flags.singapore.h48,
+.dot-net-pow-flags.en-sg.h48,
+.dot-net-pow-flags.ms-sg.h48,
+.dot-net-pow-flags.ta-sg.h48,
+.dot-net-pow-flags.zh-hans-sg.h48
+{
+	background-image: url(images/h48/sg.png);
+	background-size: 72px 48px;
+	width: 72px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.sx,
+.dot-net-pow-flags.sint-maarten,
+.dot-net-pow-flags.en-sx,
+.dot-net-pow-flags.nl-sx
+{
+	background-image: url(images/h20/sx.png);
+	background-size: 30px 20px;
+	width: 30px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.sx.h24,
+.dot-net-pow-flags.sint-maarten.h24,
+.dot-net-pow-flags.en-sx.h24,
+.dot-net-pow-flags.nl-sx.h24
+{
+	background-image: url(images/h24/sx.png);
+	background-size: 36px 24px;
+	width: 36px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.sx.h48,
+.dot-net-pow-flags.sint-maarten.h48,
+.dot-net-pow-flags.en-sx.h48,
+.dot-net-pow-flags.nl-sx.h48
+{
+	background-image: url(images/h48/sx.png);
+	background-size: 72px 48px;
+	width: 72px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.sk,
+.dot-net-pow-flags.slovakia,
+.dot-net-pow-flags.sk-sk
+{
+	background-image: url(images/h20/sk.png);
+	background-size: 30px 20px;
+	width: 30px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.sk.h24,
+.dot-net-pow-flags.slovakia.h24,
+.dot-net-pow-flags.sk-sk.h24
+{
+	background-image: url(images/h24/sk.png);
+	background-size: 36px 24px;
+	width: 36px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.sk.h48,
+.dot-net-pow-flags.slovakia.h48,
+.dot-net-pow-flags.sk-sk.h48
+{
+	background-image: url(images/h48/sk.png);
+	background-size: 72px 48px;
+	width: 72px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.si,
+.dot-net-pow-flags.slovenia,
+.dot-net-pow-flags.en-si,
+.dot-net-pow-flags.sl-si
+{
+	background-image: url(images/h20/si.png);
+	background-size: 40px 20px;
+	width: 40px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.si.h24,
+.dot-net-pow-flags.slovenia.h24,
+.dot-net-pow-flags.en-si.h24,
+.dot-net-pow-flags.sl-si.h24
+{
+	background-image: url(images/h24/si.png);
+	background-size: 48px 24px;
+	width: 48px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.si.h48,
+.dot-net-pow-flags.slovenia.h48,
+.dot-net-pow-flags.en-si.h48,
+.dot-net-pow-flags.sl-si.h48
+{
+	background-image: url(images/h48/si.png);
+	background-size: 96px 48px;
+	width: 96px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.sb,
+.dot-net-pow-flags.solomon-islands,
+.dot-net-pow-flags.en-sb
+{
+	background-image: url(images/h20/sb.png);
+	background-size: 40px 20px;
+	width: 40px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.sb.h24,
+.dot-net-pow-flags.solomon-islands.h24,
+.dot-net-pow-flags.en-sb.h24
+{
+	background-image: url(images/h24/sb.png);
+	background-size: 48px 24px;
+	width: 48px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.sb.h48,
+.dot-net-pow-flags.solomon-islands.h48,
+.dot-net-pow-flags.en-sb.h48
+{
+	background-image: url(images/h48/sb.png);
+	background-size: 96px 48px;
+	width: 96px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.so,
+.dot-net-pow-flags.somalia,
+.dot-net-pow-flags.ar-so,
+.dot-net-pow-flags.so-so
+{
+	background-image: url(images/h20/so.png);
+	background-size: 30px 20px;
+	width: 30px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.so.h24,
+.dot-net-pow-flags.somalia.h24,
+.dot-net-pow-flags.ar-so.h24,
+.dot-net-pow-flags.so-so.h24
+{
+	background-image: url(images/h24/so.png);
+	background-size: 36px 24px;
+	width: 36px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.so.h48,
+.dot-net-pow-flags.somalia.h48,
+.dot-net-pow-flags.ar-so.h48,
+.dot-net-pow-flags.so-so.h48
+{
+	background-image: url(images/h48/so.png);
+	background-size: 72px 48px;
+	width: 72px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.za,
+.dot-net-pow-flags.south-africa,
+.dot-net-pow-flags.af-za,
+.dot-net-pow-flags.en-za,
+.dot-net-pow-flags.nr-za,
+.dot-net-pow-flags.nso-za,
+.dot-net-pow-flags.ss-za,
+.dot-net-pow-flags.st-za,
+.dot-net-pow-flags.tn-za,
+.dot-net-pow-flags.ts-za,
+.dot-net-pow-flags.ve-za,
+.dot-net-pow-flags.xh-za,
+.dot-net-pow-flags.zu-za
+{
+	background-image: url(images/h20/za.png);
+	background-size: 30px 20px;
+	width: 30px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.za.h24,
+.dot-net-pow-flags.south-africa.h24,
+.dot-net-pow-flags.af-za.h24,
+.dot-net-pow-flags.en-za.h24,
+.dot-net-pow-flags.nr-za.h24,
+.dot-net-pow-flags.nso-za.h24,
+.dot-net-pow-flags.ss-za.h24,
+.dot-net-pow-flags.st-za.h24,
+.dot-net-pow-flags.tn-za.h24,
+.dot-net-pow-flags.ts-za.h24,
+.dot-net-pow-flags.ve-za.h24,
+.dot-net-pow-flags.xh-za.h24,
+.dot-net-pow-flags.zu-za.h24
+{
+	background-image: url(images/h24/za.png);
+	background-size: 36px 24px;
+	width: 36px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.za.h48,
+.dot-net-pow-flags.south-africa.h48,
+.dot-net-pow-flags.af-za.h48,
+.dot-net-pow-flags.en-za.h48,
+.dot-net-pow-flags.nr-za.h48,
+.dot-net-pow-flags.nso-za.h48,
+.dot-net-pow-flags.ss-za.h48,
+.dot-net-pow-flags.st-za.h48,
+.dot-net-pow-flags.tn-za.h48,
+.dot-net-pow-flags.ts-za.h48,
+.dot-net-pow-flags.ve-za.h48,
+.dot-net-pow-flags.xh-za.h48,
+.dot-net-pow-flags.zu-za.h48
+{
+	background-image: url(images/h48/za.png);
+	background-size: 72px 48px;
+	width: 72px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.kr,
+.dot-net-pow-flags.south-korea,
+.dot-net-pow-flags.ko-kr
+{
+	background-image: url(images/h20/kr.png);
+	background-size: 30px 20px;
+	width: 30px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.kr.h24,
+.dot-net-pow-flags.south-korea.h24,
+.dot-net-pow-flags.ko-kr.h24
+{
+	background-image: url(images/h24/kr.png);
+	background-size: 36px 24px;
+	width: 36px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.kr.h48,
+.dot-net-pow-flags.south-korea.h48,
+.dot-net-pow-flags.ko-kr.h48
+{
+	background-image: url(images/h48/kr.png);
+	background-size: 72px 48px;
+	width: 72px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.ss,
+.dot-net-pow-flags.south-sudan,
+.dot-net-pow-flags.ar-ss,
+.dot-net-pow-flags.en-ss,
+.dot-net-pow-flags.nus-ss
+{
+	background-image: url(images/h20/ss.png);
+	background-size: 40px 20px;
+	width: 40px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.ss.h24,
+.dot-net-pow-flags.south-sudan.h24,
+.dot-net-pow-flags.ar-ss.h24,
+.dot-net-pow-flags.en-ss.h24,
+.dot-net-pow-flags.nus-ss.h24
+{
+	background-image: url(images/h24/ss.png);
+	background-size: 48px 24px;
+	width: 48px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.ss.h48,
+.dot-net-pow-flags.south-sudan.h48,
+.dot-net-pow-flags.ar-ss.h48,
+.dot-net-pow-flags.en-ss.h48,
+.dot-net-pow-flags.nus-ss.h48
+{
+	background-image: url(images/h48/ss.png);
+	background-size: 96px 48px;
+	width: 96px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.es,
+.dot-net-pow-flags.spain,
+.dot-net-pow-flags.ast-es,
+.dot-net-pow-flags.ca-es,
+.dot-net-pow-flags.es-es,
+.dot-net-pow-flags.eu-es,
+.dot-net-pow-flags.gl-es
+{
+	background-image: url(images/h20/es.png);
+	background-size: 30px 20px;
+	width: 30px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.es.h24,
+.dot-net-pow-flags.spain.h24,
+.dot-net-pow-flags.ast-es.h24,
+.dot-net-pow-flags.ca-es.h24,
+.dot-net-pow-flags.es-es.h24,
+.dot-net-pow-flags.eu-es.h24,
+.dot-net-pow-flags.gl-es.h24
+{
+	background-image: url(images/h24/es.png);
+	background-size: 36px 24px;
+	width: 36px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.es.h48,
+.dot-net-pow-flags.spain.h48,
+.dot-net-pow-flags.ast-es.h48,
+.dot-net-pow-flags.ca-es.h48,
+.dot-net-pow-flags.es-es.h48,
+.dot-net-pow-flags.eu-es.h48,
+.dot-net-pow-flags.gl-es.h48
+{
+	background-image: url(images/h48/es.png);
+	background-size: 72px 48px;
+	width: 72px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.lk,
+.dot-net-pow-flags.sri-lanka,
+.dot-net-pow-flags.si-lk,
+.dot-net-pow-flags.ta-lk
+{
+	background-image: url(images/h20/lk.png);
+	background-size: 40px 20px;
+	width: 40px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.lk.h24,
+.dot-net-pow-flags.sri-lanka.h24,
+.dot-net-pow-flags.si-lk.h24,
+.dot-net-pow-flags.ta-lk.h24
+{
+	background-image: url(images/h24/lk.png);
+	background-size: 48px 24px;
+	width: 48px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.lk.h48,
+.dot-net-pow-flags.sri-lanka.h48,
+.dot-net-pow-flags.si-lk.h48,
+.dot-net-pow-flags.ta-lk.h48
+{
+	background-image: url(images/h48/lk.png);
+	background-size: 96px 48px;
+	width: 96px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.sd,
+.dot-net-pow-flags.sudan,
+.dot-net-pow-flags.ar-sd,
+.dot-net-pow-flags.en-sd
+{
+	background-image: url(images/h20/sd.png);
+	background-size: 40px 20px;
+	width: 40px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.sd.h24,
+.dot-net-pow-flags.sudan.h24,
+.dot-net-pow-flags.ar-sd.h24,
+.dot-net-pow-flags.en-sd.h24
+{
+	background-image: url(images/h24/sd.png);
+	background-size: 48px 24px;
+	width: 48px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.sd.h48,
+.dot-net-pow-flags.sudan.h48,
+.dot-net-pow-flags.ar-sd.h48,
+.dot-net-pow-flags.en-sd.h48
+{
+	background-image: url(images/h48/sd.png);
+	background-size: 96px 48px;
+	width: 96px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.sr,
+.dot-net-pow-flags.suriname,
+.dot-net-pow-flags.nl-sr
+{
+	background-image: url(images/h20/sr.png);
+	background-size: 30px 20px;
+	width: 30px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.sr.h24,
+.dot-net-pow-flags.suriname.h24,
+.dot-net-pow-flags.nl-sr.h24
+{
+	background-image: url(images/h24/sr.png);
+	background-size: 36px 24px;
+	width: 36px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.sr.h48,
+.dot-net-pow-flags.suriname.h48,
+.dot-net-pow-flags.nl-sr.h48
+{
+	background-image: url(images/h48/sr.png);
+	background-size: 72px 48px;
+	width: 72px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.sj,
+.dot-net-pow-flags.svalbard-and-jan-mayen,
+.dot-net-pow-flags.nb-sj
+{
+	background-image: url(images/h20/sj.png);
+	background-size: 28px 20px;
+	width: 28px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.sj.h24,
+.dot-net-pow-flags.svalbard-and-jan-mayen.h24,
+.dot-net-pow-flags.nb-sj.h24
+{
+	background-image: url(images/h24/sj.png);
+	background-size: 33px 24px;
+	width: 33px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.sj.h48,
+.dot-net-pow-flags.svalbard-and-jan-mayen.h48,
+.dot-net-pow-flags.nb-sj.h48
+{
+	background-image: url(images/h48/sj.png);
+	background-size: 66px 48px;
+	width: 66px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.sz,
+.dot-net-pow-flags.swaziland,
+.dot-net-pow-flags.en-sz,
+.dot-net-pow-flags.ss-sz
+{
+	background-image: url(images/h20/sz.png);
+	background-size: 30px 20px;
+	width: 30px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.sz.h24,
+.dot-net-pow-flags.swaziland.h24,
+.dot-net-pow-flags.en-sz.h24,
+.dot-net-pow-flags.ss-sz.h24
+{
+	background-image: url(images/h24/sz.png);
+	background-size: 36px 24px;
+	width: 36px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.sz.h48,
+.dot-net-pow-flags.swaziland.h48,
+.dot-net-pow-flags.en-sz.h48,
+.dot-net-pow-flags.ss-sz.h48
+{
+	background-image: url(images/h48/sz.png);
+	background-size: 72px 48px;
+	width: 72px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.se,
+.dot-net-pow-flags.sweden,
+.dot-net-pow-flags.en-se,
+.dot-net-pow-flags.se-se,
+.dot-net-pow-flags.sma-se,
+.dot-net-pow-flags.smj-se,
+.dot-net-pow-flags.sv-se
+{
+	background-image: url(images/h20/se.png);
+	background-size: 32px 20px;
+	width: 32px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.se.h24,
+.dot-net-pow-flags.sweden.h24,
+.dot-net-pow-flags.en-se.h24,
+.dot-net-pow-flags.se-se.h24,
+.dot-net-pow-flags.sma-se.h24,
+.dot-net-pow-flags.smj-se.h24,
+.dot-net-pow-flags.sv-se.h24
+{
+	background-image: url(images/h24/se.png);
+	background-size: 38px 24px;
+	width: 38px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.se.h48,
+.dot-net-pow-flags.sweden.h48,
+.dot-net-pow-flags.en-se.h48,
+.dot-net-pow-flags.se-se.h48,
+.dot-net-pow-flags.sma-se.h48,
+.dot-net-pow-flags.smj-se.h48,
+.dot-net-pow-flags.sv-se.h48
+{
+	background-image: url(images/h48/se.png);
+	background-size: 77px 48px;
+	width: 77px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.ch,
+.dot-net-pow-flags.switzerland,
+.dot-net-pow-flags.de-ch,
+.dot-net-pow-flags.en-ch,
+.dot-net-pow-flags.fr-ch,
+.dot-net-pow-flags.gsw-ch,
+.dot-net-pow-flags.it-ch,
+.dot-net-pow-flags.pt-ch,
+.dot-net-pow-flags.rm-ch,
+.dot-net-pow-flags.wae-ch
+{
+	background-image: url(images/h20/ch.png);
+	background-size: 20px 20px;
+	width: 20px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.ch.h24,
+.dot-net-pow-flags.switzerland.h24,
+.dot-net-pow-flags.de-ch.h24,
+.dot-net-pow-flags.en-ch.h24,
+.dot-net-pow-flags.fr-ch.h24,
+.dot-net-pow-flags.gsw-ch.h24,
+.dot-net-pow-flags.it-ch.h24,
+.dot-net-pow-flags.pt-ch.h24,
+.dot-net-pow-flags.rm-ch.h24,
+.dot-net-pow-flags.wae-ch.h24
+{
+	background-image: url(images/h24/ch.png);
+	background-size: 24px 24px;
+	width: 24px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.ch.h48,
+.dot-net-pow-flags.switzerland.h48,
+.dot-net-pow-flags.de-ch.h48,
+.dot-net-pow-flags.en-ch.h48,
+.dot-net-pow-flags.fr-ch.h48,
+.dot-net-pow-flags.gsw-ch.h48,
+.dot-net-pow-flags.it-ch.h48,
+.dot-net-pow-flags.pt-ch.h48,
+.dot-net-pow-flags.rm-ch.h48,
+.dot-net-pow-flags.wae-ch.h48
+{
+	background-image: url(images/h48/ch.png);
+	background-size: 48px 48px;
+	width: 48px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.sy,
+.dot-net-pow-flags.syria,
+.dot-net-pow-flags.ar-sy,
+.dot-net-pow-flags.fr-sy,
+.dot-net-pow-flags.syr-sy
+{
+	background-image: url(images/h20/sy.png);
+	background-size: 30px 20px;
+	width: 30px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.sy.h24,
+.dot-net-pow-flags.syria.h24,
+.dot-net-pow-flags.ar-sy.h24,
+.dot-net-pow-flags.fr-sy.h24,
+.dot-net-pow-flags.syr-sy.h24
+{
+	background-image: url(images/h24/sy.png);
+	background-size: 36px 24px;
+	width: 36px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.sy.h48,
+.dot-net-pow-flags.syria.h48,
+.dot-net-pow-flags.ar-sy.h48,
+.dot-net-pow-flags.fr-sy.h48,
+.dot-net-pow-flags.syr-sy.h48
+{
+	background-image: url(images/h48/sy.png);
+	background-size: 72px 48px;
+	width: 72px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.tw,
+.dot-net-pow-flags.taiwan,
+.dot-net-pow-flags.zh-hant-tw
+{
+	background-image: url(images/h20/tw.png);
+	background-size: 30px 20px;
+	width: 30px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.tw.h24,
+.dot-net-pow-flags.taiwan.h24,
+.dot-net-pow-flags.zh-hant-tw.h24
+{
+	background-image: url(images/h24/tw.png);
+	background-size: 36px 24px;
+	width: 36px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.tw.h48,
+.dot-net-pow-flags.taiwan.h48,
+.dot-net-pow-flags.zh-hant-tw.h48
+{
+	background-image: url(images/h48/tw.png);
+	background-size: 72px 48px;
+	width: 72px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.tj,
+.dot-net-pow-flags.tajikistan,
+.dot-net-pow-flags.tg-tj
+{
+	background-image: url(images/h20/tj.png);
+	background-size: 40px 20px;
+	width: 40px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.tj.h24,
+.dot-net-pow-flags.tajikistan.h24,
+.dot-net-pow-flags.tg-tj.h24
+{
+	background-image: url(images/h24/tj.png);
+	background-size: 48px 24px;
+	width: 48px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.tj.h48,
+.dot-net-pow-flags.tajikistan.h48,
+.dot-net-pow-flags.tg-tj.h48
+{
+	background-image: url(images/h48/tj.png);
+	background-size: 96px 48px;
+	width: 96px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.tz,
+.dot-net-pow-flags.tanzania,
+.dot-net-pow-flags.asa-tz,
+.dot-net-pow-flags.bez-tz,
+.dot-net-pow-flags.en-tz,
+.dot-net-pow-flags.jmc-tz,
+.dot-net-pow-flags.kde-tz,
+.dot-net-pow-flags.ksb-tz,
+.dot-net-pow-flags.lag-tz,
+.dot-net-pow-flags.mas-tz,
+.dot-net-pow-flags.rof-tz,
+.dot-net-pow-flags.rwk-tz,
+.dot-net-pow-flags.sbp-tz,
+.dot-net-pow-flags.sw-tz,
+.dot-net-pow-flags.vun-tz
+{
+	background-image: url(images/h20/tz.png);
+	background-size: 30px 20px;
+	width: 30px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.tz.h24,
+.dot-net-pow-flags.tanzania.h24,
+.dot-net-pow-flags.asa-tz.h24,
+.dot-net-pow-flags.bez-tz.h24,
+.dot-net-pow-flags.en-tz.h24,
+.dot-net-pow-flags.jmc-tz.h24,
+.dot-net-pow-flags.kde-tz.h24,
+.dot-net-pow-flags.ksb-tz.h24,
+.dot-net-pow-flags.lag-tz.h24,
+.dot-net-pow-flags.mas-tz.h24,
+.dot-net-pow-flags.rof-tz.h24,
+.dot-net-pow-flags.rwk-tz.h24,
+.dot-net-pow-flags.sbp-tz.h24,
+.dot-net-pow-flags.sw-tz.h24,
+.dot-net-pow-flags.vun-tz.h24
+{
+	background-image: url(images/h24/tz.png);
+	background-size: 36px 24px;
+	width: 36px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.tz.h48,
+.dot-net-pow-flags.tanzania.h48,
+.dot-net-pow-flags.asa-tz.h48,
+.dot-net-pow-flags.bez-tz.h48,
+.dot-net-pow-flags.en-tz.h48,
+.dot-net-pow-flags.jmc-tz.h48,
+.dot-net-pow-flags.kde-tz.h48,
+.dot-net-pow-flags.ksb-tz.h48,
+.dot-net-pow-flags.lag-tz.h48,
+.dot-net-pow-flags.mas-tz.h48,
+.dot-net-pow-flags.rof-tz.h48,
+.dot-net-pow-flags.rwk-tz.h48,
+.dot-net-pow-flags.sbp-tz.h48,
+.dot-net-pow-flags.sw-tz.h48,
+.dot-net-pow-flags.vun-tz.h48
+{
+	background-image: url(images/h48/tz.png);
+	background-size: 72px 48px;
+	width: 72px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.th,
+.dot-net-pow-flags.thailand,
+.dot-net-pow-flags.th-th
+{
+	background-image: url(images/h20/th.png);
+	background-size: 30px 20px;
+	width: 30px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.th.h24,
+.dot-net-pow-flags.thailand.h24,
+.dot-net-pow-flags.th-th.h24
+{
+	background-image: url(images/h24/th.png);
+	background-size: 36px 24px;
+	width: 36px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.th.h48,
+.dot-net-pow-flags.thailand.h48,
+.dot-net-pow-flags.th-th.h48
+{
+	background-image: url(images/h48/th.png);
+	background-size: 72px 48px;
+	width: 72px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.tg,
+.dot-net-pow-flags.togo,
+.dot-net-pow-flags.ee-tg,
+.dot-net-pow-flags.fr-tg
+{
+	background-image: url(images/h20/tg.png);
+	background-size: 32px 20px;
+	width: 32px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.tg.h24,
+.dot-net-pow-flags.togo.h24,
+.dot-net-pow-flags.ee-tg.h24,
+.dot-net-pow-flags.fr-tg.h24
+{
+	background-image: url(images/h24/tg.png);
+	background-size: 39px 24px;
+	width: 39px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.tg.h48,
+.dot-net-pow-flags.togo.h48,
+.dot-net-pow-flags.ee-tg.h48,
+.dot-net-pow-flags.fr-tg.h48
+{
+	background-image: url(images/h48/tg.png);
+	background-size: 78px 48px;
+	width: 78px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.tk,
+.dot-net-pow-flags.tokelau,
+.dot-net-pow-flags.en-tk
+{
+	background-image: url(images/h20/tk.png);
+	background-size: 40px 20px;
+	width: 40px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.tk.h24,
+.dot-net-pow-flags.tokelau.h24,
+.dot-net-pow-flags.en-tk.h24
+{
+	background-image: url(images/h24/tk.png);
+	background-size: 48px 24px;
+	width: 48px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.tk.h48,
+.dot-net-pow-flags.tokelau.h48,
+.dot-net-pow-flags.en-tk.h48
+{
+	background-image: url(images/h48/tk.png);
+	background-size: 96px 48px;
+	width: 96px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.to,
+.dot-net-pow-flags.tonga,
+.dot-net-pow-flags.en-to,
+.dot-net-pow-flags.to-to
+{
+	background-image: url(images/h20/to.png);
+	background-size: 40px 20px;
+	width: 40px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.to.h24,
+.dot-net-pow-flags.tonga.h24,
+.dot-net-pow-flags.en-to.h24,
+.dot-net-pow-flags.to-to.h24
+{
+	background-image: url(images/h24/to.png);
+	background-size: 48px 24px;
+	width: 48px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.to.h48,
+.dot-net-pow-flags.tonga.h48,
+.dot-net-pow-flags.en-to.h48,
+.dot-net-pow-flags.to-to.h48
+{
+	background-image: url(images/h48/to.png);
+	background-size: 96px 48px;
+	width: 96px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.tt,
+.dot-net-pow-flags.trinidad-and-tobago,
+.dot-net-pow-flags.en-tt
+{
+	background-image: url(images/h20/tt.png);
+	background-size: 33px 20px;
+	width: 33px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.tt.h24,
+.dot-net-pow-flags.trinidad-and-tobago.h24,
+.dot-net-pow-flags.en-tt.h24
+{
+	background-image: url(images/h24/tt.png);
+	background-size: 40px 24px;
+	width: 40px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.tt.h48,
+.dot-net-pow-flags.trinidad-and-tobago.h48,
+.dot-net-pow-flags.en-tt.h48
+{
+	background-image: url(images/h48/tt.png);
+	background-size: 80px 48px;
+	width: 80px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.tn,
+.dot-net-pow-flags.tunisia,
+.dot-net-pow-flags.ar-tn,
+.dot-net-pow-flags.fr-tn
+{
+	background-image: url(images/h20/tn.png);
+	background-size: 30px 20px;
+	width: 30px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.tn.h24,
+.dot-net-pow-flags.tunisia.h24,
+.dot-net-pow-flags.ar-tn.h24,
+.dot-net-pow-flags.fr-tn.h24
+{
+	background-image: url(images/h24/tn.png);
+	background-size: 36px 24px;
+	width: 36px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.tn.h48,
+.dot-net-pow-flags.tunisia.h48,
+.dot-net-pow-flags.ar-tn.h48,
+.dot-net-pow-flags.fr-tn.h48
+{
+	background-image: url(images/h48/tn.png);
+	background-size: 72px 48px;
+	width: 72px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.tr,
+.dot-net-pow-flags.turkey,
+.dot-net-pow-flags.tr-tr
+{
+	background-image: url(images/h20/tr.png);
+	background-size: 30px 20px;
+	width: 30px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.tr.h24,
+.dot-net-pow-flags.turkey.h24,
+.dot-net-pow-flags.tr-tr.h24
+{
+	background-image: url(images/h24/tr.png);
+	background-size: 36px 24px;
+	width: 36px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.tr.h48,
+.dot-net-pow-flags.turkey.h48,
+.dot-net-pow-flags.tr-tr.h48
+{
+	background-image: url(images/h48/tr.png);
+	background-size: 72px 48px;
+	width: 72px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.tm,
+.dot-net-pow-flags.turkmenistan,
+.dot-net-pow-flags.tk-tm
+{
+	background-image: url(images/h20/tm.png);
+	background-size: 30px 20px;
+	width: 30px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.tm.h24,
+.dot-net-pow-flags.turkmenistan.h24,
+.dot-net-pow-flags.tk-tm.h24
+{
+	background-image: url(images/h24/tm.png);
+	background-size: 36px 24px;
+	width: 36px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.tm.h48,
+.dot-net-pow-flags.turkmenistan.h48,
+.dot-net-pow-flags.tk-tm.h48
+{
+	background-image: url(images/h48/tm.png);
+	background-size: 72px 48px;
+	width: 72px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.tc,
+.dot-net-pow-flags.turks-and-caicos-islands,
+.dot-net-pow-flags.en-tc
+{
+	background-image: url(images/h20/tc.png);
+	background-size: 40px 20px;
+	width: 40px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.tc.h24,
+.dot-net-pow-flags.turks-and-caicos-islands.h24,
+.dot-net-pow-flags.en-tc.h24
+{
+	background-image: url(images/h24/tc.png);
+	background-size: 48px 24px;
+	width: 48px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.tc.h48,
+.dot-net-pow-flags.turks-and-caicos-islands.h48,
+.dot-net-pow-flags.en-tc.h48
+{
+	background-image: url(images/h48/tc.png);
+	background-size: 96px 48px;
+	width: 96px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.tv,
+.dot-net-pow-flags.tuvalu,
+.dot-net-pow-flags.en-tv
+{
+	background-image: url(images/h20/tv.png);
+	background-size: 40px 20px;
+	width: 40px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.tv.h24,
+.dot-net-pow-flags.tuvalu.h24,
+.dot-net-pow-flags.en-tv.h24
+{
+	background-image: url(images/h24/tv.png);
+	background-size: 48px 24px;
+	width: 48px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.tv.h48,
+.dot-net-pow-flags.tuvalu.h48,
+.dot-net-pow-flags.en-tv.h48
+{
+	background-image: url(images/h48/tv.png);
+	background-size: 96px 48px;
+	width: 96px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.vi,
+.dot-net-pow-flags.us-virgin-islands,
+.dot-net-pow-flags.en-vi
+{
+	background-image: url(images/h20/vi.png);
+	background-size: 30px 20px;
+	width: 30px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.vi.h24,
+.dot-net-pow-flags.us-virgin-islands.h24,
+.dot-net-pow-flags.en-vi.h24
+{
+	background-image: url(images/h24/vi.png);
+	background-size: 36px 24px;
+	width: 36px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.vi.h48,
+.dot-net-pow-flags.us-virgin-islands.h48,
+.dot-net-pow-flags.en-vi.h48
+{
+	background-image: url(images/h48/vi.png);
+	background-size: 72px 48px;
+	width: 72px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.ug,
+.dot-net-pow-flags.uganda,
+.dot-net-pow-flags.cgg-ug,
+.dot-net-pow-flags.en-ug,
+.dot-net-pow-flags.lg-ug,
+.dot-net-pow-flags.nyn-ug,
+.dot-net-pow-flags.sw-ug,
+.dot-net-pow-flags.teo-ug,
+.dot-net-pow-flags.xog-ug
+{
+	background-image: url(images/h20/ug.png);
+	background-size: 30px 20px;
+	width: 30px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.ug.h24,
+.dot-net-pow-flags.uganda.h24,
+.dot-net-pow-flags.cgg-ug.h24,
+.dot-net-pow-flags.en-ug.h24,
+.dot-net-pow-flags.lg-ug.h24,
+.dot-net-pow-flags.nyn-ug.h24,
+.dot-net-pow-flags.sw-ug.h24,
+.dot-net-pow-flags.teo-ug.h24,
+.dot-net-pow-flags.xog-ug.h24
+{
+	background-image: url(images/h24/ug.png);
+	background-size: 36px 24px;
+	width: 36px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.ug.h48,
+.dot-net-pow-flags.uganda.h48,
+.dot-net-pow-flags.cgg-ug.h48,
+.dot-net-pow-flags.en-ug.h48,
+.dot-net-pow-flags.lg-ug.h48,
+.dot-net-pow-flags.nyn-ug.h48,
+.dot-net-pow-flags.sw-ug.h48,
+.dot-net-pow-flags.teo-ug.h48,
+.dot-net-pow-flags.xog-ug.h48
+{
+	background-image: url(images/h48/ug.png);
+	background-size: 72px 48px;
+	width: 72px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.ua,
+.dot-net-pow-flags.ukraine,
+.dot-net-pow-flags.ru-ua,
+.dot-net-pow-flags.uk-ua
+{
+	background-image: url(images/h20/ua.png);
+	background-size: 30px 20px;
+	width: 30px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.ua.h24,
+.dot-net-pow-flags.ukraine.h24,
+.dot-net-pow-flags.ru-ua.h24,
+.dot-net-pow-flags.uk-ua.h24
+{
+	background-image: url(images/h24/ua.png);
+	background-size: 36px 24px;
+	width: 36px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.ua.h48,
+.dot-net-pow-flags.ukraine.h48,
+.dot-net-pow-flags.ru-ua.h48,
+.dot-net-pow-flags.uk-ua.h48
+{
+	background-image: url(images/h48/ua.png);
+	background-size: 72px 48px;
+	width: 72px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.ae,
+.dot-net-pow-flags.united-arab-emirates,
+.dot-net-pow-flags.ar-ae
+{
+	background-image: url(images/h20/ae.png);
+	background-size: 40px 20px;
+	width: 40px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.ae.h24,
+.dot-net-pow-flags.united-arab-emirates.h24,
+.dot-net-pow-flags.ar-ae.h24
+{
+	background-image: url(images/h24/ae.png);
+	background-size: 48px 24px;
+	width: 48px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.ae.h48,
+.dot-net-pow-flags.united-arab-emirates.h48,
+.dot-net-pow-flags.ar-ae.h48
+{
+	background-image: url(images/h48/ae.png);
+	background-size: 96px 48px;
+	width: 96px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.gb,
+.dot-net-pow-flags.united-kingdom,
+.dot-net-pow-flags.cy-gb,
+.dot-net-pow-flags.en-gb,
+.dot-net-pow-flags.gd-gb,
+.dot-net-pow-flags.kw-gb
+{
+	background-image: url(images/h20/gb.png);
+	background-size: 40px 20px;
+	width: 40px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.gb.h24,
+.dot-net-pow-flags.united-kingdom.h24,
+.dot-net-pow-flags.cy-gb.h24,
+.dot-net-pow-flags.en-gb.h24,
+.dot-net-pow-flags.gd-gb.h24,
+.dot-net-pow-flags.kw-gb.h24
+{
+	background-image: url(images/h24/gb.png);
+	background-size: 48px 24px;
+	width: 48px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.gb.h48,
+.dot-net-pow-flags.united-kingdom.h48,
+.dot-net-pow-flags.cy-gb.h48,
+.dot-net-pow-flags.en-gb.h48,
+.dot-net-pow-flags.gd-gb.h48,
+.dot-net-pow-flags.kw-gb.h48
+{
+	background-image: url(images/h48/gb.png);
+	background-size: 96px 48px;
+	width: 96px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.us,
+.dot-net-pow-flags.united-states,
+.dot-net-pow-flags.chr-us,
+.dot-net-pow-flags.en-us,
+.dot-net-pow-flags.es-us,
+.dot-net-pow-flags.haw-us,
+.dot-net-pow-flags.lkt-us
+{
+	background-image: url(images/h20/us.png);
+	background-size: 38px 20px;
+	width: 38px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.us.h24,
+.dot-net-pow-flags.united-states.h24,
+.dot-net-pow-flags.chr-us.h24,
+.dot-net-pow-flags.en-us.h24,
+.dot-net-pow-flags.es-us.h24,
+.dot-net-pow-flags.haw-us.h24,
+.dot-net-pow-flags.lkt-us.h24
+{
+	background-image: url(images/h24/us.png);
+	background-size: 46px 24px;
+	width: 46px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.us.h48,
+.dot-net-pow-flags.united-states.h48,
+.dot-net-pow-flags.chr-us.h48,
+.dot-net-pow-flags.en-us.h48,
+.dot-net-pow-flags.es-us.h48,
+.dot-net-pow-flags.haw-us.h48,
+.dot-net-pow-flags.lkt-us.h48
+{
+	background-image: url(images/h48/us.png);
+	background-size: 91px 48px;
+	width: 91px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.uy,
+.dot-net-pow-flags.uruguay,
+.dot-net-pow-flags.es-uy
+{
+	background-image: url(images/h20/uy.png);
+	background-size: 30px 20px;
+	width: 30px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.uy.h24,
+.dot-net-pow-flags.uruguay.h24,
+.dot-net-pow-flags.es-uy.h24
+{
+	background-image: url(images/h24/uy.png);
+	background-size: 36px 24px;
+	width: 36px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.uy.h48,
+.dot-net-pow-flags.uruguay.h48,
+.dot-net-pow-flags.es-uy.h48
+{
+	background-image: url(images/h48/uy.png);
+	background-size: 72px 48px;
+	width: 72px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.uz,
+.dot-net-pow-flags.uzbekistan,
+.dot-net-pow-flags.uz-cyrl-uz,
+.dot-net-pow-flags.uz-latn-uz
+{
+	background-image: url(images/h20/uz.png);
+	background-size: 40px 20px;
+	width: 40px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.uz.h24,
+.dot-net-pow-flags.uzbekistan.h24,
+.dot-net-pow-flags.uz-cyrl-uz.h24,
+.dot-net-pow-flags.uz-latn-uz.h24
+{
+	background-image: url(images/h24/uz.png);
+	background-size: 48px 24px;
+	width: 48px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.uz.h48,
+.dot-net-pow-flags.uzbekistan.h48,
+.dot-net-pow-flags.uz-cyrl-uz.h48,
+.dot-net-pow-flags.uz-latn-uz.h48
+{
+	background-image: url(images/h48/uz.png);
+	background-size: 96px 48px;
+	width: 96px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.vu,
+.dot-net-pow-flags.vanuatu,
+.dot-net-pow-flags.en-vu,
+.dot-net-pow-flags.fr-vu
+{
+	background-image: url(images/h20/vu.png);
+	background-size: 33px 20px;
+	width: 33px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.vu.h24,
+.dot-net-pow-flags.vanuatu.h24,
+.dot-net-pow-flags.en-vu.h24,
+.dot-net-pow-flags.fr-vu.h24
+{
+	background-image: url(images/h24/vu.png);
+	background-size: 40px 24px;
+	width: 40px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.vu.h48,
+.dot-net-pow-flags.vanuatu.h48,
+.dot-net-pow-flags.en-vu.h48,
+.dot-net-pow-flags.fr-vu.h48
+{
+	background-image: url(images/h48/vu.png);
+	background-size: 80px 48px;
+	width: 80px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.va,
+.dot-net-pow-flags.vatican,
+.dot-net-pow-flags.it-va
+{
+	background-image: url(images/h20/va.png);
+	background-size: 20px 20px;
+	width: 20px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.va.h24,
+.dot-net-pow-flags.vatican.h24,
+.dot-net-pow-flags.it-va.h24
+{
+	background-image: url(images/h24/va.png);
+	background-size: 24px 24px;
+	width: 24px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.va.h48,
+.dot-net-pow-flags.vatican.h48,
+.dot-net-pow-flags.it-va.h48
+{
+	background-image: url(images/h48/va.png);
+	background-size: 48px 48px;
+	width: 48px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.ve,
+.dot-net-pow-flags.venezuela,
+.dot-net-pow-flags.es-ve
+{
+	background-image: url(images/h20/ve.png);
+	background-size: 30px 20px;
+	width: 30px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.ve.h24,
+.dot-net-pow-flags.venezuela.h24,
+.dot-net-pow-flags.es-ve.h24
+{
+	background-image: url(images/h24/ve.png);
+	background-size: 36px 24px;
+	width: 36px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.ve.h48,
+.dot-net-pow-flags.venezuela.h48,
+.dot-net-pow-flags.es-ve.h48
+{
+	background-image: url(images/h48/ve.png);
+	background-size: 72px 48px;
+	width: 72px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.vn,
+.dot-net-pow-flags.vietnam,
+.dot-net-pow-flags.vi-vn
+{
+	background-image: url(images/h20/vn.png);
+	background-size: 30px 20px;
+	width: 30px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.vn.h24,
+.dot-net-pow-flags.vietnam.h24,
+.dot-net-pow-flags.vi-vn.h24
+{
+	background-image: url(images/h24/vn.png);
+	background-size: 36px 24px;
+	width: 36px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.vn.h48,
+.dot-net-pow-flags.vietnam.h48,
+.dot-net-pow-flags.vi-vn.h48
+{
+	background-image: url(images/h48/vn.png);
+	background-size: 72px 48px;
+	width: 72px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.wf,
+.dot-net-pow-flags.wallis-and-futuna,
+.dot-net-pow-flags.fr-wf
+{
+	background-image: url(images/h20/wf.png);
+	background-size: 30px 20px;
+	width: 30px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.wf.h24,
+.dot-net-pow-flags.wallis-and-futuna.h24,
+.dot-net-pow-flags.fr-wf.h24
+{
+	background-image: url(images/h24/wf.png);
+	background-size: 36px 24px;
+	width: 36px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.wf.h48,
+.dot-net-pow-flags.wallis-and-futuna.h48,
+.dot-net-pow-flags.fr-wf.h48
+{
+	background-image: url(images/h48/wf.png);
+	background-size: 72px 48px;
+	width: 72px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.eh,
+.dot-net-pow-flags.western-sahara
+{
+	background-image: url(images/h20/eh.png);
+	background-size: 40px 20px;
+	width: 40px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.eh.h24,
+.dot-net-pow-flags.western-sahara.h24
+{
+	background-image: url(images/h24/eh.png);
+	background-size: 48px 24px;
+	width: 48px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.eh.h48,
+.dot-net-pow-flags.western-sahara.h48
+{
+	background-image: url(images/h48/eh.png);
+	background-size: 96px 48px;
+	width: 96px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.ye,
+.dot-net-pow-flags.yemen,
+.dot-net-pow-flags.ar-ye
+{
+	background-image: url(images/h20/ye.png);
+	background-size: 30px 20px;
+	width: 30px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.ye.h24,
+.dot-net-pow-flags.yemen.h24,
+.dot-net-pow-flags.ar-ye.h24
+{
+	background-image: url(images/h24/ye.png);
+	background-size: 36px 24px;
+	width: 36px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.ye.h48,
+.dot-net-pow-flags.yemen.h48,
+.dot-net-pow-flags.ar-ye.h48
+{
+	background-image: url(images/h48/ye.png);
+	background-size: 72px 48px;
+	width: 72px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.zm,
+.dot-net-pow-flags.zambia,
+.dot-net-pow-flags.bem-zm,
+.dot-net-pow-flags.en-zm
+{
+	background-image: url(images/h20/zm.png);
+	background-size: 30px 20px;
+	width: 30px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.zm.h24,
+.dot-net-pow-flags.zambia.h24,
+.dot-net-pow-flags.bem-zm.h24,
+.dot-net-pow-flags.en-zm.h24
+{
+	background-image: url(images/h24/zm.png);
+	background-size: 36px 24px;
+	width: 36px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.zm.h48,
+.dot-net-pow-flags.zambia.h48,
+.dot-net-pow-flags.bem-zm.h48,
+.dot-net-pow-flags.en-zm.h48
+{
+	background-image: url(images/h48/zm.png);
+	background-size: 72px 48px;
+	width: 72px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.zw,
+.dot-net-pow-flags.zimbabwe,
+.dot-net-pow-flags.en-zw,
+.dot-net-pow-flags.nd-zw,
+.dot-net-pow-flags.sn-zw
+{
+	background-image: url(images/h20/zw.png);
+	background-size: 40px 20px;
+	width: 40px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.zw.h24,
+.dot-net-pow-flags.zimbabwe.h24,
+.dot-net-pow-flags.en-zw.h24,
+.dot-net-pow-flags.nd-zw.h24,
+.dot-net-pow-flags.sn-zw.h24
+{
+	background-image: url(images/h24/zw.png);
+	background-size: 48px 24px;
+	width: 48px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.zw.h48,
+.dot-net-pow-flags.zimbabwe.h48,
+.dot-net-pow-flags.en-zw.h48,
+.dot-net-pow-flags.nd-zw.h48,
+.dot-net-pow-flags.sn-zw.h48
+{
+	background-image: url(images/h48/zw.png);
+	background-size: 96px 48px;
+	width: 96px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.bv,
+.dot-net-pow-flags.bouvet-island
+{
+	background-image: url(images/h20/bv.png);
+	background-size: 28px 20px;
+	width: 28px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.bv.h24,
+.dot-net-pow-flags.bouvet-island.h24
+{
+	background-image: url(images/h24/bv.png);
+	background-size: 33px 24px;
+	width: 33px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.bv.h48,
+.dot-net-pow-flags.bouvet-island.h48
+{
+	background-image: url(images/h48/bv.png);
+	background-size: 66px 48px;
+	width: 66px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.bq,
+.dot-net-pow-flags.caribbean-netherlands
+{
+	background-image: url(images/h20/bq.png);
+	background-size: 30px 20px;
+	width: 30px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.bq.h24,
+.dot-net-pow-flags.caribbean-netherlands.h24
+{
+	background-image: url(images/h24/bq.png);
+	background-size: 36px 24px;
+	width: 36px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.bq.h48,
+.dot-net-pow-flags.caribbean-netherlands.h48
+{
+	background-image: url(images/h48/bq.png);
+	background-size: 72px 48px;
+	width: 72px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.tf,
+.dot-net-pow-flags.french-southern-antarctic-lands
+{
+	background-image: url(images/h20/tf.png);
+	background-size: 30px 20px;
+	width: 30px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.tf.h24,
+.dot-net-pow-flags.french-southern-antarctic-lands.h24
+{
+	background-image: url(images/h24/tf.png);
+	background-size: 36px 24px;
+	width: 36px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.tf.h48,
+.dot-net-pow-flags.french-southern-antarctic-lands.h48
+{
+	background-image: url(images/h48/tf.png);
+	background-size: 72px 48px;
+	width: 72px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.hm,
+.dot-net-pow-flags.heard-island-and-mcdonald-islands
+{
+	background-image: url(images/h20/hm.png);
+	background-size: 40px 20px;
+	width: 40px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.hm.h24,
+.dot-net-pow-flags.heard-island-and-mcdonald-islands.h24
+{
+	background-image: url(images/h24/hm.png);
+	background-size: 48px 24px;
+	width: 48px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.hm.h48,
+.dot-net-pow-flags.heard-island-and-mcdonald-islands.h48
+{
+	background-image: url(images/h48/hm.png);
+	background-size: 96px 48px;
+	width: 96px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.gs,
+.dot-net-pow-flags.south-georgia-and-the-south-sandwich-islands
+{
+	background-image: url(images/h20/gs.png);
+	background-size: 40px 20px;
+	width: 40px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.gs.h24,
+.dot-net-pow-flags.south-georgia-and-the-south-sandwich-islands.h24
+{
+	background-image: url(images/h24/gs.png);
+	background-size: 48px 24px;
+	width: 48px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.gs.h48,
+.dot-net-pow-flags.south-georgia-and-the-south-sandwich-islands.h48
+{
+	background-image: url(images/h48/gs.png);
+	background-size: 96px 48px;
+	width: 96px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.nf,
+.dot-net-pow-flags.territory-of-norfolk-island
+{
+	background-image: url(images/h20/nf.png);
+	background-size: 40px 20px;
+	width: 40px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.nf.h24,
+.dot-net-pow-flags.territory-of-norfolk-island.h24
+{
+	background-image: url(images/h24/nf.png);
+	background-size: 48px 24px;
+	width: 48px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.nf.h48,
+.dot-net-pow-flags.territory-of-norfolk-island.h48
+{
+	background-image: url(images/h48/nf.png);
+	background-size: 96px 48px;
+	width: 96px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.gb-sct,
+.dot-net-pow-flags.scotland,
+.dot-net-pow-flags.gb-gd
+{
+	background-image: url(images/h20/gb-sct.png);
+	background-size: 33px 20px;
+	width: 33px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.gb-sct.h24,
+.dot-net-pow-flags.scotland.h24,
+.dot-net-pow-flags.gb-gd.h24
+{
+	background-image: url(images/h24/gb-sct.png);
+	background-size: 40px 24px;
+	width: 40px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.gb-sct.h48,
+.dot-net-pow-flags.scotland.h48,
+.dot-net-pow-flags.gb-gd.h48
+{
+	background-image: url(images/h48/gb-sct.png);
+	background-size: 80px 48px;
+	width: 80px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.gb-nir,
+.dot-net-pow-flags.northern-ireland
+{
+	background-image: url(images/h20/gb-nir.png);
+	background-size: 40px 20px;
+	width: 40px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.gb-nir.h24,
+.dot-net-pow-flags.northern-ireland.h24
+{
+	background-image: url(images/h24/gb-nir.png);
+	background-size: 48px 24px;
+	width: 48px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.gb-nir.h48,
+.dot-net-pow-flags.northern-ireland.h48
+{
+	background-image: url(images/h48/gb-nir.png);
+	background-size: 96px 48px;
+	width: 96px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.gb-eng,
+.dot-net-pow-flags.england
+{
+	background-image: url(images/h20/gb-eng.png);
+	background-size: 33px 20px;
+	width: 33px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.gb-eng.h24,
+.dot-net-pow-flags.england.h24
+{
+	background-image: url(images/h24/gb-eng.png);
+	background-size: 40px 24px;
+	width: 40px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.gb-eng.h48,
+.dot-net-pow-flags.england.h48
+{
+	background-image: url(images/h48/gb-eng.png);
+	background-size: 80px 48px;
+	width: 80px;
+	height: 48px;
+}
+
+.dot-net-pow-flags.gb-wls,
+.dot-net-pow-flags.wales
+{
+	background-image: url(images/h20/gb-wls.png);
+	background-size: 33px 20px;
+	width: 33px;
+	height: 20px;
+}
+
+.dot-net-pow-flags.gb-wls.h24,
+.dot-net-pow-flags.wales.h24
+{
+	background-image: url(images/h24/gb-wls.png);
+	background-size: 40px 24px;
+	width: 40px;
+	height: 24px;
+}
+
+.dot-net-pow-flags.gb-wls.h48,
+.dot-net-pow-flags.wales.h48
+{
+	background-image: url(images/h48/gb-wls.png);
+	background-size: 80px 48px;
+	width: 80px;
+	height: 48px;
+}
+
+.flag-border-1 {
+	border: 1px solid rgba(51,51,51, .6);
+}
+
+.flag-border-2 {
+	border: 2px solid rgba(51,51,51, .6);
+}
+
+.flag-border-1-rounded-2 {
+	border: 1px solid rgba(51,51,51, .6);
+	border-radius: 2px;
+}
+
+.flag-border-1-rounded-4 {
+	border: 1px solid rgba(51,51,51, .6);
+	border-radius: 4px;
+}
+
+.flag-border-2-rounded-2 {
+	border: 1px solid rgba(51,51,51, .6);
+	border-radius: 2px;
+}
+
+.flag-border-2-rounded-4 {
+	border: 1px solid rgba(51,51,51, .6);
+	border-radius: 4px;
+}
+
