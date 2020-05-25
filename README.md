@@ -22,7 +22,22 @@ If this has helped you or your organization out any contributions are greatly ap
 </form>
 
 <br>
+
+## Not Just Flags
+Included in the DotNetPow.Web.Icons project is the library for **Material Design Icons**.
+
 <br>
+
+## Examples and Source for Generating Your Own CSS Flag Library
+In the **src** directory is the **DotNetPow.Web.Icons** project and a sample project for generating your own CSS libraries. 
+
+#### You Can Generate
+- Custom Images Sizes
+- Individual CSS Files per Size
+- Use Multiple Image Directories to Avoid Image Scaling **(largest size included is 2560w)
+- Change CSS Prefix
+- Add Additional Border Options
+
 
 ## Images
 

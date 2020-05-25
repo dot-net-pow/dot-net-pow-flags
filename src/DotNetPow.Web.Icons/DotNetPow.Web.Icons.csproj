@@ -3,6 +3,21 @@
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
     <ApplicationIcon>favicon.ico</ApplicationIcon>
+    <Version>1.0.2</Version>
+    <Authors>.Net Pow!</Authors>
+    <Company>.Net Pow!</Company>
+    <Product>.Net Pow! Web Icons</Product>
+    <PackageId>DotNetPow.Web.Icons</PackageId>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageIcon>net-pow-logo.png</PackageIcon>
+    <RepositoryType>git</RepositoryType>
+    <RepositoryUrl>https://github.com/dot-net-pow/dot-net-pow-flags</RepositoryUrl>
+    <PackageTags>flags, icons, iso2 country flags, flag images, c# flag css library, c# flag icon generator</PackageTags>
+    <PackageProjectUrl>https://dot-net-pow.github.io/dot-net-pow-flags/</PackageProjectUrl>
+    <PackageLicenseFile>README.md</PackageLicenseFile>
+    <Copyright>.Net Pow!</Copyright>
+    <Description>.Net Pow! Flags country flag icons/images css library and css flag library generation project. Generate your own flag library based on your projects needs using Iso country codes, Iso language codes, country names with sizes to suite your needs. Includes our Material Design Icons c# library we use for web and desktop application.</Description>
+    <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
   </PropertyGroup>
 
   <ItemGroup>
@@ -52,6 +67,14 @@
 
   <ItemGroup>
     <None Remove="favicon.ico" />
+    <None Include="..\..\..\..\..\AAA_DotNetPow\DotNetPow\src\DotNetPow.Web.Mvc.jQuery\wwwroot\assets\dot-net-pow\images\net-pow-logo.png">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
+    <None Include="..\..\README.md">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
   </ItemGroup>
 
   <ItemGroup>
