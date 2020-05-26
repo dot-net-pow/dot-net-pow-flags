@@ -1,0 +1,1862 @@
+﻿.fat-cow {
+    background-position-x: center;
+    background-position-y: center;
+    background-repeat: no-repeat;
+    display: inline-block;
+}
+
+    .fat-cow.green-accept-button {
+        background-image: url(images/green/accept_button.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-account-balances {
+        background-image: url(images/green/account_balances.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-account-menu {
+        background-image: url(images/green/account_menu.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-add {
+        background-image: url(images/green/add.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-addon-domains {
+        background-image: url(images/green/addon_domains.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-address-bar-green {
+        background-image: url(images/green/address_bar_green.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-android {
+        background-image: url(images/green/android.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-arrow-branch {
+        background-image: url(images/green/arrow_branch.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-arrow-divide {
+        background-image: url(images/green/arrow_divide.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-arrow-down {
+        background-image: url(images/green/arrow_down.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-arrow-in {
+        background-image: url(images/green/arrow_in.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-arrow-inout {
+        background-image: url(images/green/arrow_inout.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-arrow-join {
+        background-image: url(images/green/arrow_join.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-arrow-left {
+        background-image: url(images/green/arrow_left.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-arrow-merge {
+        background-image: url(images/green/arrow_merge.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-arrow-out {
+        background-image: url(images/green/arrow_out.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-arrow-redo {
+        background-image: url(images/green/arrow_redo.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-arrow-refresh {
+        background-image: url(images/green/arrow_refresh.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-arrow-refresh-small {
+        background-image: url(images/green/arrow_refresh_small.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-arrow-repeat {
+        background-image: url(images/green/arrow_repeat.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-arrow-repeat-once {
+        background-image: url(images/green/arrow_repeat_once.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-arrow-right {
+        background-image: url(images/green/arrow_right.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-arrow-rotate-anticlockwise {
+        background-image: url(images/green/arrow_rotate_anticlockwise.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-arrow-rotate-clockwise {
+        background-image: url(images/green/arrow_rotate_clockwise.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-arrow-switch {
+        background-image: url(images/green/arrow_switch.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-arrow-turn-left {
+        background-image: url(images/green/arrow_turn_left.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-arrow-turn-right {
+        background-image: url(images/green/arrow_turn_right.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-arrow-undo {
+        background-image: url(images/green/arrow_undo.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-arrow-up {
+        background-image: url(images/green/arrow_up.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-awstats {
+        background-image: url(images/green/awstats.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-ballon-green {
+        background-image: url(images/green/ballon_green.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-ballon-green-empty {
+        background-image: url(images/green/ballon_green_empty.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-bamboo {
+        background-image: url(images/green/bamboo.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-bamboos {
+        background-image: url(images/green/bamboos.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-battery-charge {
+        background-image: url(images/green/battery_charge.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-battery-full {
+        background-image: url(images/green/battery_full.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-battery-plug {
+        background-image: url(images/green/battery_plug.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-billboard-picture {
+        background-image: url(images/green/billboard_picture.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-billiard-marker {
+        background-image: url(images/green/billiard_marker.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-blackboard-steps {
+        background-image: url(images/green/blackboard_steps.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-blackboard-sum {
+        background-image: url(images/green/blackboard_sum.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-bullet-add {
+        background-image: url(images/green/bullet_add.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-bullet-back {
+        background-image: url(images/green/bullet_back.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-bullet-down {
+        background-image: url(images/green/bullet_down.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-bullet-excel {
+        background-image: url(images/green/bullet_excel.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-bullet-go {
+        background-image: url(images/green/bullet_go.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-bullet-green {
+        background-image: url(images/green/bullet_green.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-bullet-picture {
+        background-image: url(images/green/bullet_picture.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-bullet-up {
+        background-image: url(images/green/bullet_up.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-bullet-valid {
+        background-image: url(images/green/bullet_valid.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-bullet-world {
+        background-image: url(images/green/bullet_world.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-button-picture {
+        background-image: url(images/green/button_picture.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-cactus {
+        background-image: url(images/green/cactus.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-calendar-add {
+        background-image: url(images/green/calendar_add.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-calendar-view-day {
+        background-image: url(images/green/calendar_view_day.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-card-amex-green {
+        background-image: url(images/green/card_amex_green.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-card-discover-novus {
+        background-image: url(images/green/card_discover_novus.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-card-echeck {
+        background-image: url(images/green/card_echeck.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-card-ipod {
+        background-image: url(images/green/card_ipod.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-card-money {
+        background-image: url(images/green/card_money.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-cash-stack {
+        background-image: url(images/green/cash_stack.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-chameleon {
+        background-image: url(images/green/chameleon.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-chart-up-color {
+        background-image: url(images/green/chart_up_color.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-check-box {
+        background-image: url(images/green/check_box.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-christmas-tree {
+        background-image: url(images/green/christmas_tree.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-color-adjustment-green {
+        background-image: url(images/green/color_adjustment_green.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-company-generosity {
+        background-image: url(images/green/company_generosity.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-compile {
+        background-image: url(images/green/compile.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-convert-gray-to-color {
+        background-image: url(images/green/convert_gray_to_color.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-credit {
+        background-image: url(images/green/credit.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-cross-promotion-selling {
+        background-image: url(images/green/cross_promotion_selling.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-database-green {
+        background-image: url(images/green/database_green.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-ddr-memory {
+        background-image: url(images/green/ddr_memory.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-document-green {
+        background-image: url(images/green/document_green.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-document-shapes {
+        background-image: url(images/green/document_shapes.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-elements {
+        background-image: url(images/green/elements.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-emotion-flower-dead {
+        background-image: url(images/green/emotion_flower_dead.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-emotion-grad-green {
+        background-image: url(images/green/emotion_grad_green.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-emotion-patient {
+        background-image: url(images/green/emotion_patient.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-emotion-sick {
+        background-image: url(images/green/emotion_sick.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-emotion-struggle {
+        background-image: url(images/green/emotion_struggle.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-emotion-watermelon {
+        background-image: url(images/green/emotion_watermelon.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-emotion-zingy {
+        background-image: url(images/green/emotion_zingy.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-evernote {
+        background-image: url(images/green/evernote.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-file-extension-cdr {
+        background-image: url(images/green/file_extension_cdr.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-file-extension-dat {
+        background-image: url(images/green/file_extension_dat.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-file-extension-gif {
+        background-image: url(images/green/file_extension_gif.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-file-extension-jpg {
+        background-image: url(images/green/file_extension_jpg.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-file-extension-m4v {
+        background-image: url(images/green/file_extension_m4v.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-file-extension-mp2 {
+        background-image: url(images/green/file_extension_mp2.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-file-extension-qbw {
+        background-image: url(images/green/file_extension_qbw.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-file-extension-qxd {
+        background-image: url(images/green/file_extension_qxd.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-file-extension-ss {
+        background-image: url(images/green/file_extension_ss.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-file-extension-torrent {
+        background-image: url(images/green/file_extension_torrent.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-file-extension-xls {
+        background-image: url(images/green/file_extension_xls.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-finance {
+        background-image: url(images/green/finance.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-financial-functions {
+        background-image: url(images/green/financial_functions.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-flag-bangladesh {
+        background-image: url(images/green/flag_bangladesh.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-flag-brazil {
+        background-image: url(images/green/flag_brazil.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-flag-dominica {
+        background-image: url(images/green/flag_dominica.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-flag-flyaway-green {
+        background-image: url(images/green/flag_flyaway_green.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-flag-green {
+        background-image: url(images/green/flag_green.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-flag-libya {
+        background-image: url(images/green/flag_libya.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-flag-macau {
+        background-image: url(images/green/flag_macau.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-flag-mauretania {
+        background-image: url(images/green/flag_mauretania.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-flag-nigeria {
+        background-image: url(images/green/flag_nigeria.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-flag-norfolk-islands {
+        background-image: url(images/green/flag_norfolk_islands.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-flag-pakistan {
+        background-image: url(images/green/flag_pakistan.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-flag-saudi-arabia {
+        background-image: url(images/green/flag_saudi_arabia.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-flag-turkmenistan {
+        background-image: url(images/green/flag_turkmenistan.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-flag-zambia {
+        background-image: url(images/green/flag_zambia.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-flask {
+        background-image: url(images/green/flask.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-folder-green {
+        background-image: url(images/green/folder_green.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-forrst {
+        background-image: url(images/green/forrst.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-fruit-lime {
+        background-image: url(images/green/fruit_lime.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-globe-africa {
+        background-image: url(images/green/globe_africa.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-globe-model {
+        background-image: url(images/green/globe_model.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-globe-network {
+        background-image: url(images/green/globe_network.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-globe-place {
+        background-image: url(images/green/globe_place.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-google-map {
+        background-image: url(images/green/google_map.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-grass {
+        background-image: url(images/green/grass.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-green {
+        background-image: url(images/green/green.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-green-wormhole {
+        background-image: url(images/green/green_wormhole.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-green-yellow {
+        background-image: url(images/green/green_yellow.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-grenade {
+        background-image: url(images/green/grenade.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-hard-hat-military {
+        background-image: url(images/green/hard_hat_military.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-highlighter {
+        background-image: url(images/green/highlighter.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-highlighter-text {
+        background-image: url(images/green/highlighter_text.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-http-status-ok-success {
+        background-image: url(images/green/http_status_ok_success.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-im-messenger {
+        background-image: url(images/green/im_messenger.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-leaf-plant {
+        background-image: url(images/green/leaf_plant.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-led {
+        background-image: url(images/green/led.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-light-circle-green {
+        background-image: url(images/green/light_circle_green.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-linux-mint {
+        background-image: url(images/green/linux_mint.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-mail-green {
+        background-image: url(images/green/mail_green.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-map {
+        background-image: url(images/green/map.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-map-add {
+        background-image: url(images/green/map_add.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-map-delete {
+        background-image: url(images/green/map_delete.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-map-edit {
+        background-image: url(images/green/map_edit.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-map-go {
+        background-image: url(images/green/map_go.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-map-magnify {
+        background-image: url(images/green/map_magnify.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-map-torn {
+        background-image: url(images/green/map_torn.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-marketwatch {
+        background-image: url(images/green/marketwatch.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-math-functions {
+        background-image: url(images/green/math_functions.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-microformats {
+        background-image: url(images/green/microformats.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-money {
+        background-image: url(images/green/money.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-money-add {
+        background-image: url(images/green/money_add.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-money-delete {
+        background-image: url(images/green/money_delete.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-money-dollar {
+        background-image: url(images/green/money_dollar.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-money-yen {
+        background-image: url(images/green/money_yen.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-netvibes {
+        background-image: url(images/green/netvibes.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-networking-green {
+        background-image: url(images/green/networking_green.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-network-adapter {
+        background-image: url(images/green/network_adapter.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-network-tools {
+        background-image: url(images/green/network_tools.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-newsvine {
+        background-image: url(images/green/newsvine.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-object-insert {
+        background-image: url(images/green/object_insert.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-office-apps {
+        background-image: url(images/green/office_apps.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-oms-customize-layout {
+        background-image: url(images/green/oms_customize_layout.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-oms-delete {
+        background-image: url(images/green/oms_delete.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-oms-slide-insert {
+        background-image: url(images/green/oms_slide_insert.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-open-share {
+        background-image: url(images/green/open_share.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-open-source {
+        background-image: url(images/green/open_source.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-open-suse {
+        background-image: url(images/green/open_suse.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-outlook-calendar-month {
+        background-image: url(images/green/outlook_calendar_month.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-parrot {
+        background-image: url(images/green/parrot.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-photo {
+        background-image: url(images/green/photo.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-photo-add {
+        background-image: url(images/green/photo_add.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-photo-link {
+        background-image: url(images/green/photo_link.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-picture {
+        background-image: url(images/green/picture.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-pictures {
+        background-image: url(images/green/pictures.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-picture-add {
+        background-image: url(images/green/picture_add.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-picture-delete {
+        background-image: url(images/green/picture_delete.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-picture-edit {
+        background-image: url(images/green/picture_edit.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-picture-error {
+        background-image: url(images/green/picture_error.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-picture-go {
+        background-image: url(images/green/picture_go.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-picture-insert-from-web {
+        background-image: url(images/green/picture_insert_from_web.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-picture-key {
+        background-image: url(images/green/picture_key.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-picture-link {
+        background-image: url(images/green/picture_link.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-picture-save {
+        background-image: url(images/green/picture_save.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-plant {
+        background-image: url(images/green/plant.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-plus {
+        background-image: url(images/green/plus.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-plus-button {
+        background-image: url(images/green/plus_button.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-plus-circle-frame {
+        background-image: url(images/green/plus_circle_frame.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-plus-octagon {
+        background-image: url(images/green/plus_octagon.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-plus-octagon-frame {
+        background-image: url(images/green/plus_octagon_frame.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-plus-shield {
+        background-image: url(images/green/plus_shield.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-price-alert {
+        background-image: url(images/green/price_alert.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-process-marked-headers {
+        background-image: url(images/green/process_marked_headers.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-qik {
+        background-image: url(images/green/qik.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-qip-angry {
+        background-image: url(images/green/qip_angry.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-qip-at-home {
+        background-image: url(images/green/qip_at_home.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-qip-away {
+        background-image: url(images/green/qip_away.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-qip-bad-mood {
+        background-image: url(images/green/qip_bad_mood.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-qip-dnd {
+        background-image: url(images/green/qip_dnd.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-qip-free-for-chat {
+        background-image: url(images/green/qip_free_for_chat.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-qip-invisible {
+        background-image: url(images/green/qip_invisible.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-qip-not-available {
+        background-image: url(images/green/qip_not_available.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-qip-occupied {
+        background-image: url(images/green/qip_occupied.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-qip-online {
+        background-image: url(images/green/qip_online.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-radar-chart {
+        background-image: url(images/green/radar_chart.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-radiolocator {
+        background-image: url(images/green/radiolocator.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-readernaut {
+        background-image: url(images/green/readernaut.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-recycle {
+        background-image: url(images/green/recycle.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-redirects {
+        background-image: url(images/green/redirects.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-regex-grep {
+        background-image: url(images/green/regex_grep.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-report-design {
+        background-image: url(images/green/report_design.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-report-green {
+        background-image: url(images/green/report_green.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-report-wizard {
+        background-image: url(images/green/report_wizard.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-routing-around {
+        background-image: url(images/green/routing_around.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-routing-turning-right {
+        background-image: url(images/green/routing_turning_right.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-screwdriver {
+        background-image: url(images/green/screwdriver.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-script-green {
+        background-image: url(images/green/script_green.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-server-components {
+        background-image: url(images/green/server_components.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-share {
+        background-image: url(images/green/share.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-shareaholic {
+        background-image: url(images/green/shareaholic.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-sharpen {
+        background-image: url(images/green/sharpen.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-shirt-polo {
+        background-image: url(images/green/shirt_polo.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-shorts {
+        background-image: url(images/green/shorts.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-sitemap-image {
+        background-image: url(images/green/sitemap_image.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-slideshow {
+        background-image: url(images/green/slideshow.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-slideshow-full-screen {
+        background-image: url(images/green/slideshow_full_screen.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-slideshow-next {
+        background-image: url(images/green/slideshow_next.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-slideshow-previous {
+        background-image: url(images/green/slideshow_previous.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-small-car {
+        background-image: url(images/green/small_car.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-smart-art {
+        background-image: url(images/green/smart_art.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-soil-layers {
+        background-image: url(images/green/soil_layers.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-sport-tennis {
+        background-image: url(images/green/sport_tennis.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-status-away {
+        background-image: url(images/green/status_away.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-status-busy {
+        background-image: url(images/green/status_busy.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-status-online {
+        background-image: url(images/green/status_online.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-stumble-upon {
+        background-image: url(images/green/stumble_upon.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-subdomains {
+        background-image: url(images/green/subdomains.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-swf-loader {
+        background-image: url(images/green/swf_loader.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-tag-green {
+        background-image: url(images/green/tag_green.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-technorati {
+        background-image: url(images/green/technorati.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-textfield-password-green {
+        background-image: url(images/green/textfield_password_green.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-tick {
+        background-image: url(images/green/tick.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-tick-button {
+        background-image: url(images/green/tick_button.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-tick-circle-frame {
+        background-image: url(images/green/tick_circle_frame.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-tick-octagon {
+        background-image: url(images/green/tick_octagon.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-tick-octagon-frame {
+        background-image: url(images/green/tick_octagon_frame.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-tick-shield {
+        background-image: url(images/green/tick_shield.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-token-atomic-group {
+        background-image: url(images/green/token_atomic_group.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-token-group {
+        background-image: url(images/green/token_group.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-token-lookaround {
+        background-image: url(images/green/token_lookaround.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-total-plan-cost {
+        background-image: url(images/green/total_plan_cost.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-tree {
+        background-image: url(images/green/tree.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-user-green {
+        background-image: url(images/green/user_green.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-user-halk {
+        background-image: url(images/green/user_halk.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-user-leprechaun {
+        background-image: url(images/green/user_leprechaun.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-user-officer {
+        background-image: url(images/green/user_officer.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-user-officer-black {
+        background-image: url(images/green/user_officer_black.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-user-plankton {
+        background-image: url(images/green/user_plankton.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-user-soldier {
+        background-image: url(images/green/user_soldier.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-validation-valid {
+        background-image: url(images/green/validation_valid.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-validation-valid-document {
+        background-image: url(images/green/validation_valid_document.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-world {
+        background-image: url(images/green/world.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-world-add {
+        background-image: url(images/green/world_add.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-world-delete {
+        background-image: url(images/green/world_delete.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-world-edit {
+        background-image: url(images/green/world_edit.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-world-go {
+        background-image: url(images/green/world_go.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-world-link {
+        background-image: url(images/green/world_link.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-www-page {
+        background-image: url(images/green/www_page.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-zoom-refresh {
+        background-image: url(images/green/zoom_refresh.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.green-zootool {
+        background-image: url(images/green/zootool.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+

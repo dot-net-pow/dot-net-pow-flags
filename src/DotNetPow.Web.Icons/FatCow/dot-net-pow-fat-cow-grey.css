@@ -1,0 +1,4654 @@
+﻿.fat-cow {
+    background-position-x: center;
+    background-position-y: center;
+    background-repeat: no-repeat;
+    display: inline-block;
+}
+
+    .fat-cow.grey-accordion {
+        background-image: url(images/grey/accordion.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-active-sessions {
+        background-image: url(images/grey/active_sessions.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-address-bar {
+        background-image: url(images/grey/address_bar.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-address-bar-lock {
+        background-image: url(images/grey/address_bar_lock.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-align-compact {
+        background-image: url(images/grey/align_compact.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-anchor {
+        background-image: url(images/grey/anchor.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-application-control-bar {
+        background-image: url(images/grey/application_control_bar.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-application-form {
+        background-image: url(images/grey/application_form.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-application-osx {
+        background-image: url(images/grey/application_osx.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-application-view-columns {
+        background-image: url(images/grey/application_view_columns.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-application-view-detail {
+        background-image: url(images/grey/application_view_detail.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-application-view-list {
+        background-image: url(images/grey/application_view_list.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-application-xp {
+        background-image: url(images/grey/application_xp.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-apply-to-all {
+        background-image: url(images/grey/apply_to_all.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-atm {
+        background-image: url(images/grey/atm.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-attach {
+        background-image: url(images/grey/attach.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-attribution {
+        background-image: url(images/grey/attribution.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-autoarchieve-settings {
+        background-image: url(images/grey/autoarchieve_settings.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-award-star-silver-blue {
+        background-image: url(images/grey/award_star_silver_blue.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-award-star-silver-green {
+        background-image: url(images/grey/award_star_silver_green.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-ax {
+        background-image: url(images/grey/ax.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-baby-bottle {
+        background-image: url(images/grey/baby_bottle.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-backslash {
+        background-image: url(images/grey/backslash.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-backup-manager {
+        background-image: url(images/grey/backup_manager.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-bandwith {
+        background-image: url(images/grey/bandwith.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-barcode {
+        background-image: url(images/grey/barcode.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-barcode-2d {
+        background-image: url(images/grey/barcode_2d.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-basket {
+        background-image: url(images/grey/basket.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-basket-add {
+        background-image: url(images/grey/basket_add.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-basket-delete {
+        background-image: url(images/grey/basket_delete.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-basket-edit {
+        background-image: url(images/grey/basket_edit.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-basket-error {
+        background-image: url(images/grey/basket_error.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-basket-full {
+        background-image: url(images/grey/basket_full.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-basket-go {
+        background-image: url(images/grey/basket_go.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-basket-put {
+        background-image: url(images/grey/basket_put.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-basket-remove {
+        background-image: url(images/grey/basket_remove.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-basket-shopping {
+        background-image: url(images/grey/basket_shopping.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-beaker-empty {
+        background-image: url(images/grey/beaker_empty.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-billboard-empty {
+        background-image: url(images/grey/billboard_empty.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-bin {
+        background-image: url(images/grey/bin.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-bin-closed {
+        background-image: url(images/grey/bin_closed.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-bin-empty {
+        background-image: url(images/grey/bin_empty.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-bin-recycle {
+        background-image: url(images/grey/bin_recycle.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-blackberry-protect {
+        background-image: url(images/grey/blackberry_protect.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-blackberry-white {
+        background-image: url(images/grey/blackberry_white.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-blank-report {
+        background-image: url(images/grey/blank_report.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-border-1 {
+        background-image: url(images/grey/border_1.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-border-1d-around {
+        background-image: url(images/grey/border_1d_around.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-border-1d-bottom {
+        background-image: url(images/grey/border_1d_bottom.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-border-1d-left {
+        background-image: url(images/grey/border_1d_left.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-border-1d-right {
+        background-image: url(images/grey/border_1d_right.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-border-1d-top {
+        background-image: url(images/grey/border_1d_top.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-border-1-bottom {
+        background-image: url(images/grey/border_1_bottom.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-border-1-hor {
+        background-image: url(images/grey/border_1_hor.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-border-1-left {
+        background-image: url(images/grey/border_1_left.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-border-1-middle {
+        background-image: url(images/grey/border_1_middle.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-border-1-none {
+        background-image: url(images/grey/border_1_none.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-border-1-outer {
+        background-image: url(images/grey/border_1_outer.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-border-1-right {
+        background-image: url(images/grey/border_1_right.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-border-1-top {
+        background-image: url(images/grey/border_1_top.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-border-1-ver {
+        background-image: url(images/grey/border_1_ver.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-border-2-bottom {
+        background-image: url(images/grey/border_2_bottom.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-border-2-left {
+        background-image: url(images/grey/border_2_left.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-border-2-outer {
+        background-image: url(images/grey/border_2_outer.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-border-2-right {
+        background-image: url(images/grey/border_2_right.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-border-2-top {
+        background-image: url(images/grey/border_2_top.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-breadcrumb {
+        background-image: url(images/grey/breadcrumb.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-breadcrumb-select {
+        background-image: url(images/grey/breadcrumb_select.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-breadcrumb-select-current {
+        background-image: url(images/grey/breadcrumb_select_current.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-breadcrumb-select-perrent {
+        background-image: url(images/grey/breadcrumb_select_perrent.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-broadcast-slide-show {
+        background-image: url(images/grey/broadcast_slide_show.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-bucket-truck {
+        background-image: url(images/grey/bucket_truck.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-bug-fixing {
+        background-image: url(images/grey/bug_fixing.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-building {
+        background-image: url(images/grey/building.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-building-add {
+        background-image: url(images/grey/building_add.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-building-delete {
+        background-image: url(images/grey/building_delete.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-building-edit {
+        background-image: url(images/grey/building_edit.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-building-error {
+        background-image: url(images/grey/building_error.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-building-go {
+        background-image: url(images/grey/building_go.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-building-key {
+        background-image: url(images/grey/building_key.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-building-link {
+        background-image: url(images/grey/building_link.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-bullet-archive {
+        background-image: url(images/grey/bullet_archive.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-bullet-arrow-bottom {
+        background-image: url(images/grey/bullet_arrow_bottom.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-bullet-arrow-down {
+        background-image: url(images/grey/bullet_arrow_down.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-bullet-arrow-left {
+        background-image: url(images/grey/bullet_arrow_left.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-bullet-arrow-left-2 {
+        background-image: url(images/grey/bullet_arrow_left_2.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-bullet-arrow-right {
+        background-image: url(images/grey/bullet_arrow_right.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-bullet-arrow-right-2 {
+        background-image: url(images/grey/bullet_arrow_right_2.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-bullet-arrow-top {
+        background-image: url(images/grey/bullet_arrow_top.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-bullet-arrow-up {
+        background-image: url(images/grey/bullet_arrow_up.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-bullet-attach {
+        background-image: url(images/grey/bullet_attach.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-bullet-black {
+        background-image: url(images/grey/bullet_black.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-bullet-camera {
+        background-image: url(images/grey/bullet_camera.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-bullet-database {
+        background-image: url(images/grey/bullet_database.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-bullet-document {
+        background-image: url(images/grey/bullet_document.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-bullet-find {
+        background-image: url(images/grey/bullet_find.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-bullet-gear {
+        background-image: url(images/grey/bullet_gear.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-bullet-link {
+        background-image: url(images/grey/bullet_link.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-bullet-toggle-minus {
+        background-image: url(images/grey/bullet_toggle_minus.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-bullet-toggle-plus {
+        background-image: url(images/grey/bullet_toggle_plus.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-bullet-vector {
+        background-image: url(images/grey/bullet_vector.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-bullet-white {
+        background-image: url(images/grey/bullet_white.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-bullet-wrench {
+        background-image: url(images/grey/bullet_wrench.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-calculator-edit {
+        background-image: url(images/grey/calculator_edit.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-calculator-error {
+        background-image: url(images/grey/calculator_error.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-calculator-link {
+        background-image: url(images/grey/calculator_link.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-calendar-copy {
+        background-image: url(images/grey/calendar_copy.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-camcorder {
+        background-image: url(images/grey/camcorder.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-camera {
+        background-image: url(images/grey/camera.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-camera-add {
+        background-image: url(images/grey/camera_add.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-camera-delete {
+        background-image: url(images/grey/camera_delete.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-camera-edit {
+        background-image: url(images/grey/camera_edit.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-camera-error {
+        background-image: url(images/grey/camera_error.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-camera-go {
+        background-image: url(images/grey/camera_go.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-camera-link {
+        background-image: url(images/grey/camera_link.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-camera-small {
+        background-image: url(images/grey/camera_small.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-canvas {
+        background-image: url(images/grey/canvas.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-cards-binds {
+        background-image: url(images/grey/cards_binds.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-cards-bind-address {
+        background-image: url(images/grey/cards_bind_address.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-card-back {
+        background-image: url(images/grey/card_back.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-card-bank {
+        background-image: url(images/grey/card_bank.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-card-chip-silver {
+        background-image: url(images/grey/card_chip_silver.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-card-debit {
+        background-image: url(images/grey/card_debit.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-card-save {
+        background-image: url(images/grey/card_save.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-cart {
+        background-image: url(images/grey/cart.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-cart-add {
+        background-image: url(images/grey/cart_add.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-cart-delete {
+        background-image: url(images/grey/cart_delete.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-cart-edit {
+        background-image: url(images/grey/cart_edit.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-cart-error {
+        background-image: url(images/grey/cart_error.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-cart-full {
+        background-image: url(images/grey/cart_full.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-cart-go {
+        background-image: url(images/grey/cart_go.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-cart-put {
+        background-image: url(images/grey/cart_put.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-cart-remove {
+        background-image: url(images/grey/cart_remove.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-car-add {
+        background-image: url(images/grey/car_add.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-car-delete {
+        background-image: url(images/grey/car_delete.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-cash-register-left {
+        background-image: url(images/grey/cash_register_left.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-cash-register-right {
+        background-image: url(images/grey/cash_register_right.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-cash-terminal {
+        background-image: url(images/grey/cash_terminal.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-catalog-pages {
+        background-image: url(images/grey/catalog_pages.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-cctv-camera {
+        background-image: url(images/grey/cctv_camera.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-cd-case {
+        background-image: url(images/grey/cd_case.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-chart-curve {
+        background-image: url(images/grey/chart_curve.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-chart-curve-add {
+        background-image: url(images/grey/chart_curve_add.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-chart-curve-edit {
+        background-image: url(images/grey/chart_curve_edit.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-chart-curve-error {
+        background-image: url(images/grey/chart_curve_error.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-chart-curve-go {
+        background-image: url(images/grey/chart_curve_go.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-chart-curve-link {
+        background-image: url(images/grey/chart_curve_link.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-chart-line {
+        background-image: url(images/grey/chart_line.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-chart-line-add {
+        background-image: url(images/grey/chart_line_add.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-chart-line-edit {
+        background-image: url(images/grey/chart_line_edit.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-chart-line-error {
+        background-image: url(images/grey/chart_line_error.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-chart-line-link {
+        background-image: url(images/grey/chart_line_link.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-check-box-list {
+        background-image: url(images/grey/check_box_list.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-chinese-noodles {
+        background-image: url(images/grey/chinese_noodles.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-choose-log-programs {
+        background-image: url(images/grey/choose_log_programs.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-clock-history-frame {
+        background-image: url(images/grey/clock_history_frame.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-co2 {
+        background-image: url(images/grey/co2.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-code {
+        background-image: url(images/grey/code.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-cog {
+        background-image: url(images/grey/cog.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-cog-add {
+        background-image: url(images/grey/cog_add.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-cog-delete {
+        background-image: url(images/grey/cog_delete.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-cog-edit {
+        background-image: url(images/grey/cog_edit.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-cog-error {
+        background-image: url(images/grey/cog_error.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-cog-go {
+        background-image: url(images/grey/cog_go.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-coin-single-silver {
+        background-image: url(images/grey/coin_single_silver.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-color-gradient {
+        background-image: url(images/grey/color_gradient.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-column-double {
+        background-image: url(images/grey/column_double.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-column-four {
+        background-image: url(images/grey/column_four.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-column-left {
+        background-image: url(images/grey/column_left.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-column-one {
+        background-image: url(images/grey/column_one.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-column-right {
+        background-image: url(images/grey/column_right.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-column-single {
+        background-image: url(images/grey/column_single.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-column-tree {
+        background-image: url(images/grey/column_tree.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-column-two {
+        background-image: url(images/grey/column_two.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-column-wight {
+        background-image: url(images/grey/column_wight.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-combo-box {
+        background-image: url(images/grey/combo_box.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-combo-boxes {
+        background-image: url(images/grey/combo_boxes.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-combo-box-calendar {
+        background-image: url(images/grey/combo_box_calendar.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-combo-box-edit {
+        background-image: url(images/grey/combo_box_edit.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-combo-box-light-blue {
+        background-image: url(images/grey/combo_box_light_blue.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-configure-cluster {
+        background-image: url(images/grey/configure_cluster.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-configure-customer-contacts {
+        background-image: url(images/grey/configure_customer_contacts.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-connections {
+        background-image: url(images/grey/connections.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-controlbar {
+        background-image: url(images/grey/controlbar.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-controller {
+        background-image: url(images/grey/controller.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-controller-add {
+        background-image: url(images/grey/controller_add.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-controller-delete {
+        background-image: url(images/grey/controller_delete.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-controller-error {
+        background-image: url(images/grey/controller_error.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-control-cursor {
+        background-image: url(images/grey/control_cursor.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-control-eject {
+        background-image: url(images/grey/control_eject.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-control-end {
+        background-image: url(images/grey/control_end.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-control-equalizer {
+        background-image: url(images/grey/control_equalizer.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-control-fastforward {
+        background-image: url(images/grey/control_fastforward.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-control-panel {
+        background-image: url(images/grey/control_panel.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-control-pause {
+        background-image: url(images/grey/control_pause.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-control-play {
+        background-image: url(images/grey/control_play.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-control-power {
+        background-image: url(images/grey/control_power.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-control-repeat {
+        background-image: url(images/grey/control_repeat.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-control-rewind {
+        background-image: url(images/grey/control_rewind.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-control-start {
+        background-image: url(images/grey/control_start.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-control-stop {
+        background-image: url(images/grey/control_stop.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-copying-and-distribution {
+        background-image: url(images/grey/copying_and_distribution.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-copyleft {
+        background-image: url(images/grey/copyleft.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-creative-commons {
+        background-image: url(images/grey/creative_commons.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-crown-silver {
+        background-image: url(images/grey/crown_silver.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-cup {
+        background-image: url(images/grey/cup.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-cup-add {
+        background-image: url(images/grey/cup_add.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-cup-delete {
+        background-image: url(images/grey/cup_delete.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-cup-edit {
+        background-image: url(images/grey/cup_edit.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-cup-error {
+        background-image: url(images/grey/cup_error.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-cup-go {
+        background-image: url(images/grey/cup_go.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-cup-key {
+        background-image: url(images/grey/cup_key.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-cup-link {
+        background-image: url(images/grey/cup_link.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-cup-silver {
+        background-image: url(images/grey/cup_silver.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-cursor {
+        background-image: url(images/grey/cursor.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-cursor-lifebuoy {
+        background-image: url(images/grey/cursor_lifebuoy.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-database {
+        background-image: url(images/grey/database.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-database-access {
+        background-image: url(images/grey/database_access.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-database-add {
+        background-image: url(images/grey/database_add.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-database-cleanup {
+        background-image: url(images/grey/database_cleanup.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-database-connect {
+        background-image: url(images/grey/database_connect.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-database-delete {
+        background-image: url(images/grey/database_delete.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-database-edit {
+        background-image: url(images/grey/database_edit.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-database-error {
+        background-image: url(images/grey/database_error.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-database-gear {
+        background-image: url(images/grey/database_gear.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-database-go {
+        background-image: url(images/grey/database_go.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-database-key {
+        background-image: url(images/grey/database_key.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-database-lightning {
+        background-image: url(images/grey/database_lightning.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-database-link {
+        background-image: url(images/grey/database_link.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-database-mysql-php {
+        background-image: url(images/grey/database_mysql_php.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-database-refresh {
+        background-image: url(images/grey/database_refresh.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-database-save {
+        background-image: url(images/grey/database_save.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-database-server {
+        background-image: url(images/grey/database_server.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-data-grid {
+        background-image: url(images/grey/data_grid.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-debugging {
+        background-image: url(images/grey/debugging.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-derivatives {
+        background-image: url(images/grey/derivatives.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-devianart {
+        background-image: url(images/grey/devianart.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-documents-email {
+        background-image: url(images/grey/documents_email.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-document-back {
+        background-image: url(images/grey/document_back.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-document-check-compatibility {
+        background-image: url(images/grey/document_check_compatibility.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-document-comments {
+        background-image: url(images/grey/document_comments.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-document-comment-above {
+        background-image: url(images/grey/document_comment_above.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-document-comment-behind {
+        background-image: url(images/grey/document_comment_behind.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-document-comment-below {
+        background-image: url(images/grey/document_comment_below.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-document-editing {
+        background-image: url(images/grey/document_editing.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-document-image {
+        background-image: url(images/grey/document_image.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-document-image-hor {
+        background-image: url(images/grey/document_image_hor.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-document-image-ver {
+        background-image: url(images/grey/document_image_ver.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-document-index {
+        background-image: url(images/grey/document_index.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-document-insert {
+        background-image: url(images/grey/document_insert.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-document-inspect {
+        background-image: url(images/grey/document_inspect.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-document-inspector {
+        background-image: url(images/grey/document_inspector.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-document-mark-as-final {
+        background-image: url(images/grey/document_mark_as_final.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-document-move {
+        background-image: url(images/grey/document_move.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-document-next {
+        background-image: url(images/grey/document_next.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-document-notes {
+        background-image: url(images/grey/document_notes.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-document-plus {
+        background-image: url(images/grey/document_plus.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-document-quote {
+        background-image: url(images/grey/document_quote.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-document-valid {
+        background-image: url(images/grey/document_valid.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-domain-buying-selling {
+        background-image: url(images/grey/domain_buying_selling.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-download-cloud {
+        background-image: url(images/grey/download_cloud.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-draft {
+        background-image: url(images/grey/draft.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-draw-airbrush {
+        background-image: url(images/grey/draw_airbrush.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-draw-eraser {
+        background-image: url(images/grey/draw_eraser.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-draw-points {
+        background-image: url(images/grey/draw_points.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-drive {
+        background-image: url(images/grey/drive.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-drive-add {
+        background-image: url(images/grey/drive_add.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-drive-burn {
+        background-image: url(images/grey/drive_burn.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-drive-cd {
+        background-image: url(images/grey/drive_cd.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-drive-cd-empty {
+        background-image: url(images/grey/drive_cd_empty.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-drive-delete {
+        background-image: url(images/grey/drive_delete.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-drive-disk {
+        background-image: url(images/grey/drive_disk.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-drive-edit {
+        background-image: url(images/grey/drive_edit.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-drive-error {
+        background-image: url(images/grey/drive_error.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-drive-go {
+        background-image: url(images/grey/drive_go.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-drive-key {
+        background-image: url(images/grey/drive_key.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-drive-link {
+        background-image: url(images/grey/drive_link.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-drive-magnify {
+        background-image: url(images/grey/drive_magnify.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-drive-network {
+        background-image: url(images/grey/drive_network.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-drive-rename {
+        background-image: url(images/grey/drive_rename.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-drive-user {
+        background-image: url(images/grey/drive_user.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-drive-web {
+        background-image: url(images/grey/drive_web.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-electric-socket-120 {
+        background-image: url(images/grey/electric_socket_120.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-electric-socket-220 {
+        background-image: url(images/grey/electric_socket_220.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-emotion-alien {
+        background-image: url(images/grey/emotion_alien.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-emotion-boo {
+        background-image: url(images/grey/emotion_boo.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-emotion-brains {
+        background-image: url(images/grey/emotion_brains.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-emotion-face-panda {
+        background-image: url(images/grey/emotion_face_panda.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-emotion-franken {
+        background-image: url(images/grey/emotion_franken.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-emotion-gear {
+        background-image: url(images/grey/emotion_gear.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-emotion-ghost {
+        background-image: url(images/grey/emotion_ghost.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-emotion-jason {
+        background-image: url(images/grey/emotion_jason.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-emotion-knight {
+        background-image: url(images/grey/emotion_knight.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-emotion-mummy {
+        background-image: url(images/grey/emotion_mummy.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-emotion-skull {
+        background-image: url(images/grey/emotion_skull.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-emotion-vampire {
+        background-image: url(images/grey/emotion_vampire.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-events {
+        background-image: url(images/grey/events.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-e-book-reader-white {
+        background-image: url(images/grey/e_book_reader_white.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-fax {
+        background-image: url(images/grey/fax.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-field-size {
+        background-image: url(images/grey/field_size.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-file-extension-dll {
+        background-image: url(images/grey/file_extension_dll.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-file-extension-dss {
+        background-image: url(images/grey/file_extension_dss.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-file-extension-hqx {
+        background-image: url(images/grey/file_extension_hqx.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-file-extension-log {
+        background-image: url(images/grey/file_extension_log.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-file-extension-m4a {
+        background-image: url(images/grey/file_extension_m4a.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-file-extension-mcd {
+        background-image: url(images/grey/file_extension_mcd.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-file-extension-ses {
+        background-image: url(images/grey/file_extension_ses.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-file-extension-tmp {
+        background-image: url(images/grey/file_extension_tmp.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-file-extension-txt {
+        background-image: url(images/grey/file_extension_txt.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-file-extension-wma {
+        background-image: url(images/grey/file_extension_wma.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-file-extension-wmv {
+        background-image: url(images/grey/file_extension_wmv.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-file-manager {
+        background-image: url(images/grey/file_manager.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-fishfinder {
+        background-image: url(images/grey/fishfinder.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-fog {
+        background-image: url(images/grey/fog.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-folding-fan {
+        background-image: url(images/grey/folding_fan.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-formheading {
+        background-image: url(images/grey/formheading.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-form-photo {
+        background-image: url(images/grey/form_photo.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-form-region-menu {
+        background-image: url(images/grey/form_region_menu.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-from-beginning {
+        background-image: url(images/grey/from_beginning.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-from-current-slide {
+        background-image: url(images/grey/from_current_slide.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-from-web {
+        background-image: url(images/grey/from_web.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-frontpage {
+        background-image: url(images/grey/frontpage.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-gas {
+        background-image: url(images/grey/gas.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-gear-in {
+        background-image: url(images/grey/gear_in.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-georectify {
+        background-image: url(images/grey/georectify.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-glass-of-wine-empty {
+        background-image: url(images/grey/glass_of_wine_empty.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-hbox {
+        background-image: url(images/grey/hbox.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-highlight-merge-fields {
+        background-image: url(images/grey/highlight_merge_fields.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-hlocchart {
+        background-image: url(images/grey/hlocchart.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-horizontal-line-insert {
+        background-image: url(images/grey/horizontal_line_insert.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-horizontal-list {
+        background-image: url(images/grey/horizontal_list.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-hrule {
+        background-image: url(images/grey/hrule.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-hslider {
+        background-image: url(images/grey/hslider.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-ip {
+        background-image: url(images/grey/ip.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-ip-class {
+        background-image: url(images/grey/ip_class.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-ip-telephone {
+        background-image: url(images/grey/ip_telephone.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-jason-mask {
+        background-image: url(images/grey/jason_mask.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-keyboard {
+        background-image: url(images/grey/keyboard.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-keyboard-add {
+        background-image: url(images/grey/keyboard_add.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-keyboard-delete {
+        background-image: url(images/grey/keyboard_delete.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-keyboard-magnify {
+        background-image: url(images/grey/keyboard_magnify.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-labels-page {
+        background-image: url(images/grey/labels_page.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-layouts-body-3-col {
+        background-image: url(images/grey/layouts_body_3_col.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-layouts-header-3-col {
+        background-image: url(images/grey/layouts_header_3_col.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-layouts-header-body {
+        background-image: url(images/grey/layouts_header_body.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-layouts-header-footer-2-col {
+        background-image: url(images/grey/layouts_header_footer_2_col.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-layouts-header-footer-3-col {
+        background-image: url(images/grey/layouts_header_footer_3_col.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-layouts-header-select {
+        background-image: url(images/grey/layouts_header_select.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-layouts-join {
+        background-image: url(images/grey/layouts_join.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-layouts-join-vertical {
+        background-image: url(images/grey/layouts_join_vertical.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-layouts-mixed {
+        background-image: url(images/grey/layouts_mixed.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-layouts-mixed-equal {
+        background-image: url(images/grey/layouts_mixed_equal.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-layouts-select-select {
+        background-image: url(images/grey/layouts_select_select.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-layouts-sidebar {
+        background-image: url(images/grey/layouts_sidebar.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-layouts-six-grid {
+        background-image: url(images/grey/layouts_six_grid.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-layouts-split {
+        background-image: url(images/grey/layouts_split.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-layouts-split-vertical {
+        background-image: url(images/grey/layouts_split_vertical.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-layouts-three-grid {
+        background-image: url(images/grey/layouts_three_grid.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-layouts-three-mix {
+        background-image: url(images/grey/layouts_three_mix.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-layouts-top-body {
+        background-image: url(images/grey/layouts_top_body.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-layout-header {
+        background-image: url(images/grey/layout_header.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-layout-panel {
+        background-image: url(images/grey/layout_panel.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-layout-sidebar {
+        background-image: url(images/grey/layout_sidebar.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-license-management {
+        background-image: url(images/grey/license_management.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-limit-bandwidth-usage {
+        background-image: url(images/grey/limit_bandwidth_usage.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-link {
+        background-image: url(images/grey/link.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-link-add {
+        background-image: url(images/grey/link_add.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-link-break {
+        background-image: url(images/grey/link_break.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-link-delete {
+        background-image: url(images/grey/link_delete.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-link-edit {
+        background-image: url(images/grey/link_edit.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-link-go {
+        background-image: url(images/grey/link_go.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-link-unchain {
+        background-image: url(images/grey/link_unchain.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-macro-arguments {
+        background-image: url(images/grey/macro_arguments.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-mail-box {
+        background-image: url(images/grey/mail_box.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-medal-award-silver {
+        background-image: url(images/grey/medal_award_silver.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-medal-silver-blue {
+        background-image: url(images/grey/medal_silver_blue.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-medal-silver-green {
+        background-image: url(images/grey/medal_silver_green.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-medal-silver-red {
+        background-image: url(images/grey/medal_silver_red.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-menu {
+        background-image: url(images/grey/menu.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-menu-item {
+        background-image: url(images/grey/menu_item.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-microphone {
+        background-image: url(images/grey/microphone.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-microscope {
+        background-image: url(images/grey/microscope.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-microwave {
+        background-image: url(images/grey/microwave.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-mixer {
+        background-image: url(images/grey/mixer.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-money-bookers {
+        background-image: url(images/grey/money_bookers.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-mouse {
+        background-image: url(images/grey/mouse.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-mouse-add {
+        background-image: url(images/grey/mouse_add.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-mouse-delete {
+        background-image: url(images/grey/mouse_delete.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-mouse-error {
+        background-image: url(images/grey/mouse_error.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-mouse-pc {
+        background-image: url(images/grey/mouse_pc.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-mouse-select-left {
+        background-image: url(images/grey/mouse_select_left.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-mouse-select-right {
+        background-image: url(images/grey/mouse_select_right.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-mouse-select-scroll {
+        background-image: url(images/grey/mouse_select_scroll.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-mx-entry {
+        background-image: url(images/grey/mx_entry.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-mysql-wizard {
+        background-image: url(images/grey/mysql_wizard.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-navigation-panel {
+        background-image: url(images/grey/navigation_panel.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-network-cloud {
+        background-image: url(images/grey/network_cloud.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-network-clouds {
+        background-image: url(images/grey/network_clouds.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-network-hub {
+        background-image: url(images/grey/network_hub.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-network-ip {
+        background-image: url(images/grey/network_ip.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-newspaper {
+        background-image: url(images/grey/newspaper.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-newspaper-add {
+        background-image: url(images/grey/newspaper_add.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-newspaper-delete {
+        background-image: url(images/grey/newspaper_delete.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-newspaper-go {
+        background-image: url(images/grey/newspaper_go.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-newspaper-link {
+        background-image: url(images/grey/newspaper_link.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-new-slide {
+        background-image: url(images/grey/new_slide.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-next-footnote {
+        background-image: url(images/grey/next_footnote.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-node {
+        background-image: url(images/grey/node.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-node-design {
+        background-image: url(images/grey/node_design.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-non-derivative {
+        background-image: url(images/grey/non_derivative.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-notes-pages {
+        background-image: url(images/grey/notes_pages.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-notes-styles {
+        background-image: url(images/grey/notes_styles.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-numeric-stepper {
+        background-image: url(images/grey/numeric_stepper.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-open-calendar {
+        background-image: url(images/grey/open_calendar.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-origami {
+        background-image: url(images/grey/origami.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-other-phone {
+        background-image: url(images/grey/other_phone.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-outline-wight-gallery {
+        background-image: url(images/grey/outline_wight_gallery.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-outlook-change-view {
+        background-image: url(images/grey/outlook_change_view.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-outlook-reset-view {
+        background-image: url(images/grey/outlook_reset_view.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-outlook-view-setting {
+        background-image: url(images/grey/outlook_view_setting.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-paint-tube {
+        background-image: url(images/grey/paint_tube.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-panel {
+        background-image: url(images/grey/panel.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-panel-blank {
+        background-image: url(images/grey/panel_blank.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-paper-lantern {
+        background-image: url(images/grey/paper_lantern.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-paragraph-spacing {
+        background-image: url(images/grey/paragraph_spacing.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-paypal-fulllogo {
+        background-image: url(images/grey/paypal_fulllogo.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-paypal-logo {
+        background-image: url(images/grey/paypal_logo.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-phone {
+        background-image: url(images/grey/phone.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-phone-add {
+        background-image: url(images/grey/phone_add.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-phone-delete {
+        background-image: url(images/grey/phone_delete.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-phone-sound {
+        background-image: url(images/grey/phone_sound.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-plane {
+        background-image: url(images/grey/plane.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-playing-cards {
+        background-image: url(images/grey/playing_cards.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-plugin-disabled {
+        background-image: url(images/grey/plugin_disabled.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-point-silver {
+        background-image: url(images/grey/point_silver.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-port {
+        background-image: url(images/grey/port.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-power-supply {
+        background-image: url(images/grey/power_supply.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-previous-footnote {
+        background-image: url(images/grey/previous_footnote.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-printer {
+        background-image: url(images/grey/printer.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-printer-add {
+        background-image: url(images/grey/printer_add.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-printer-color {
+        background-image: url(images/grey/printer_color.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-printer-delete {
+        background-image: url(images/grey/printer_delete.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-printer-empty {
+        background-image: url(images/grey/printer_empty.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-printer-error {
+        background-image: url(images/grey/printer_error.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-printer-network {
+        background-image: url(images/grey/printer_network.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-printscreen-insert {
+        background-image: url(images/grey/printscreen_insert.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-production-copyleft {
+        background-image: url(images/grey/production_copyleft.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-rabbit {
+        background-image: url(images/grey/rabbit.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-radioactivity-drum {
+        background-image: url(images/grey/radioactivity_drum.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-record-slide-show {
+        background-image: url(images/grey/record_slide_show.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-recover-deleted-items {
+        background-image: url(images/grey/recover_deleted_items.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-remote {
+        background-image: url(images/grey/remote.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-reset-slide {
+        background-image: url(images/grey/reset_slide.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-restart-services {
+        background-image: url(images/grey/restart_services.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-rip {
+        background-image: url(images/grey/rip.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-robot {
+        background-image: url(images/grey/robot.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-rocket {
+        background-image: url(images/grey/rocket.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-salver {
+        background-image: url(images/grey/salver.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-satellite-dish {
+        background-image: url(images/grey/satellite_dish.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-scalpel {
+        background-image: url(images/grey/scalpel.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-scanner {
+        background-image: url(images/grey/scanner.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-scanner-working {
+        background-image: url(images/grey/scanner_working.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-scroller-bar {
+        background-image: url(images/grey/scroller_bar.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-scroll-bar {
+        background-image: url(images/grey/scroll_bar.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-scroll-bar-horizontal {
+        background-image: url(images/grey/scroll_bar_horizontal.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-scroll-pane {
+        background-image: url(images/grey/scroll_pane.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-scroll-pane-blog {
+        background-image: url(images/grey/scroll_pane_blog.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-scroll-pane-both {
+        background-image: url(images/grey/scroll_pane_both.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-scroll-pane-detail {
+        background-image: url(images/grey/scroll_pane_detail.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-scroll-pane-form {
+        background-image: url(images/grey/scroll_pane_form.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-scroll-pane-horizontal {
+        background-image: url(images/grey/scroll_pane_horizontal.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-scroll-pane-icon {
+        background-image: url(images/grey/scroll_pane_icon.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-scroll-pane-image {
+        background-image: url(images/grey/scroll_pane_image.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-scroll-pane-list {
+        background-image: url(images/grey/scroll_pane_list.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-scroll-pane-table {
+        background-image: url(images/grey/scroll_pane_table.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-scroll-pane-text {
+        background-image: url(images/grey/scroll_pane_text.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-scroll-pane-text-image {
+        background-image: url(images/grey/scroll_pane_text_image.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-scroll-pane-tree {
+        background-image: url(images/grey/scroll_pane_tree.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-scull {
+        background-image: url(images/grey/scull.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-search-field {
+        background-image: url(images/grey/search_field.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-seek-bar {
+        background-image: url(images/grey/seek_bar.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-seek-bar-050 {
+        background-image: url(images/grey/seek_bar_050.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-seek-bar-100 {
+        background-image: url(images/grey/seek_bar_100.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-select {
+        background-image: url(images/grey/select.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-selection-pane {
+        background-image: url(images/grey/selection_pane.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-selection-slide {
+        background-image: url(images/grey/selection_slide.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-select-by-intersection {
+        background-image: url(images/grey/select_by_intersection.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-select-continuous-area {
+        background-image: url(images/grey/select_continuous_area.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-select-ellipse {
+        background-image: url(images/grey/select_ellipse.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-select-invert {
+        background-image: url(images/grey/select_invert.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-select-lasso {
+        background-image: url(images/grey/select_lasso.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-select-restangular {
+        background-image: url(images/grey/select_restangular.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-separator {
+        background-image: url(images/grey/separator.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-separator-label {
+        background-image: url(images/grey/separator_label.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-server {
+        background-image: url(images/grey/server.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-servers {
+        background-image: url(images/grey/servers.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-servers-network {
+        background-image: url(images/grey/servers_network.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-server-add {
+        background-image: url(images/grey/server_add.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-server-compress {
+        background-image: url(images/grey/server_compress.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-server-configuration {
+        background-image: url(images/grey/server_configuration.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-server-database {
+        background-image: url(images/grey/server_database.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-server-delete {
+        background-image: url(images/grey/server_delete.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-server-edit {
+        background-image: url(images/grey/server_edit.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-server-error {
+        background-image: url(images/grey/server_error.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-server-go {
+        background-image: url(images/grey/server_go.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-server-key {
+        background-image: url(images/grey/server_key.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-server-lightning {
+        background-image: url(images/grey/server_lightning.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-server-link {
+        background-image: url(images/grey/server_link.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-server-stanchion {
+        background-image: url(images/grey/server_stanchion.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-server-uncompress {
+        background-image: url(images/grey/server_uncompress.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-service-status {
+        background-image: url(images/grey/service_status.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-shopping-cart-reset {
+        background-image: url(images/grey/shopping_cart_reset.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-showel {
+        background-image: url(images/grey/showel.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-show-detail {
+        background-image: url(images/grey/show_detail.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-show-source-documents {
+        background-image: url(images/grey/show_source_documents.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-site-backup-and-restore {
+        background-image: url(images/grey/site_backup_and_restore.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-slide-layout {
+        background-image: url(images/grey/slide_layout.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-slide-master {
+        background-image: url(images/grey/slide_master.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-slide-normal-view {
+        background-image: url(images/grey/slide_normal_view.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-slide-notes-master {
+        background-image: url(images/grey/slide_notes_master.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-slide-number {
+        background-image: url(images/grey/slide_number.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-slide-sorter {
+        background-image: url(images/grey/slide_sorter.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-smartart-insert-bullet-rtl {
+        background-image: url(images/grey/smartart_insert_bullet_rtl.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-smartart-organization-chart-both {
+        background-image: url(images/grey/smartart_organization_chart_both.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-smartart-organization-chart-lh {
+        background-image: url(images/grey/smartart_organization_chart_lh.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-smartart-organization-chart-rh {
+        background-image: url(images/grey/smartart_organization_chart_rh.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-smartart-organization-chart-stand {
+        background-image: url(images/grey/smartart_organization_chart_stand.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-soup {
+        background-image: url(images/grey/soup.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-source-code {
+        background-image: url(images/grey/source_code.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-spacer {
+        background-image: url(images/grey/spacer.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-spam-folder {
+        background-image: url(images/grey/spam_folder.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-spider-web {
+        background-image: url(images/grey/spider_web.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-spin {
+        background-image: url(images/grey/spin.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-spray {
+        background-image: url(images/grey/spray.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-spring {
+        background-image: url(images/grey/spring.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-sql-join {
+        background-image: url(images/grey/sql_join.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-sql-join-inner {
+        background-image: url(images/grey/sql_join_inner.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-sql-trigger-insert {
+        background-image: url(images/grey/sql_trigger_insert.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-sql-view-create {
+        background-image: url(images/grey/sql_view_create.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-status-bar {
+        background-image: url(images/grey/status_bar.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-status-offline {
+        background-image: url(images/grey/status_offline.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-stopwatch-finish {
+        background-image: url(images/grey/stopwatch_finish.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-stopwatch-pause {
+        background-image: url(images/grey/stopwatch_pause.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-stopwatch-start {
+        background-image: url(images/grey/stopwatch_start.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-storage {
+        background-image: url(images/grey/storage.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-sum {
+        background-image: url(images/grey/sum.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-switch {
+        background-image: url(images/grey/switch.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-switch-windows {
+        background-image: url(images/grey/switch_windows.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-sword {
+        background-image: url(images/grey/sword.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-system-time {
+        background-image: url(images/grey/system_time.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-tabbar {
+        background-image: url(images/grey/tabbar.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-table-layout-grand-totals {
+        background-image: url(images/grey/table_layout_grand_totals.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-table-layout-subtotals {
+        background-image: url(images/grey/table_layout_subtotals.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-tabnavigator {
+        background-image: url(images/grey/tabnavigator.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-tags-cloud {
+        background-image: url(images/grey/tags_cloud.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-tag-hash {
+        background-image: url(images/grey/tag_hash.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-tea-cup {
+        background-image: url(images/grey/tea_cup.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-telephone {
+        background-image: url(images/grey/telephone.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-telephone-add {
+        background-image: url(images/grey/telephone_add.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-telephone-edit {
+        background-image: url(images/grey/telephone_edit.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-telephone-error {
+        background-image: url(images/grey/telephone_error.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-telephone-go {
+        background-image: url(images/grey/telephone_go.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-telephone-key {
+        background-image: url(images/grey/telephone_key.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-telephone-link {
+        background-image: url(images/grey/telephone_link.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-telephone-off {
+        background-image: url(images/grey/telephone_off.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-text {
+        background-image: url(images/grey/text.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-textfield-suggestion {
+        background-image: url(images/grey/textfield_suggestion.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-text-align-center {
+        background-image: url(images/grey/text_align_center.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-text-align-justity {
+        background-image: url(images/grey/text_align_justity.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-text-align-left {
+        background-image: url(images/grey/text_align_left.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-text-align-right {
+        background-image: url(images/grey/text_align_right.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-text-allcaps {
+        background-image: url(images/grey/text_allcaps.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-text-area {
+        background-image: url(images/grey/text_area.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-text-bold {
+        background-image: url(images/grey/text_bold.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-text-columns {
+        background-image: url(images/grey/text_columns.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-text-document {
+        background-image: url(images/grey/text_document.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-text-document-wrap {
+        background-image: url(images/grey/text_document_wrap.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-text-drama {
+        background-image: url(images/grey/text_drama.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-text-dropcaps {
+        background-image: url(images/grey/text_dropcaps.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-text-edit {
+        background-image: url(images/grey/text_edit.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-text-heading-1 {
+        background-image: url(images/grey/text_heading_1.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-text-heading-2 {
+        background-image: url(images/grey/text_heading_2.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-text-heading-3 {
+        background-image: url(images/grey/text_heading_3.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-text-heading-4 {
+        background-image: url(images/grey/text_heading_4.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-text-heading-5 {
+        background-image: url(images/grey/text_heading_5.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-text-heading-6 {
+        background-image: url(images/grey/text_heading_6.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-text-horizontalrule {
+        background-image: url(images/grey/text_horizontalrule.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-text-indent {
+        background-image: url(images/grey/text_indent.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-text-indent-remove {
+        background-image: url(images/grey/text_indent_remove.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-text-italic {
+        background-image: url(images/grey/text_italic.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-text-kerning {
+        background-image: url(images/grey/text_kerning.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-text-large-cap {
+        background-image: url(images/grey/text_large_cap.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-text-letterspacing {
+        background-image: url(images/grey/text_letterspacing.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-text-linespacing {
+        background-image: url(images/grey/text_linespacing.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-text-list-bullets {
+        background-image: url(images/grey/text_list_bullets.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-text-list-numbers {
+        background-image: url(images/grey/text_list_numbers.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-text-padding-bottom {
+        background-image: url(images/grey/text_padding_bottom.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-text-padding-left {
+        background-image: url(images/grey/text_padding_left.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-text-padding-right {
+        background-image: url(images/grey/text_padding_right.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-text-padding-top {
+        background-image: url(images/grey/text_padding_top.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-text-pagination-100 {
+        background-image: url(images/grey/text_pagination_100.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-text-position-slide {
+        background-image: url(images/grey/text_position_slide.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-text-prose {
+        background-image: url(images/grey/text_prose.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-text-rotate {
+        background-image: url(images/grey/text_rotate.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-text-smallcaps {
+        background-image: url(images/grey/text_smallcaps.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-text-strikethroungh {
+        background-image: url(images/grey/text_strikethroungh.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-text-subscript {
+        background-image: url(images/grey/text_subscript.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-text-superscript {
+        background-image: url(images/grey/text_superscript.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-text-underline {
+        background-image: url(images/grey/text_underline.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-timeline {
+        background-image: url(images/grey/timeline.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-timeline-marker {
+        background-image: url(images/grey/timeline_marker.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-title-window {
+        background-image: url(images/grey/title_window.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-toster {
+        background-image: url(images/grey/toster.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-toxic {
+        background-image: url(images/grey/toxic.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-traffic-usage {
+        background-image: url(images/grey/traffic_usage.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-train-metro {
+        background-image: url(images/grey/train_metro.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-tree-list {
+        background-image: url(images/grey/tree_list.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-t-shirt-print {
+        background-image: url(images/grey/t_shirt_print.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-ufo {
+        background-image: url(images/grey/ufo.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-understanding {
+        background-image: url(images/grey/understanding.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-uninstall-frontpage-extensions {
+        background-image: url(images/grey/uninstall_frontpage_extensions.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-update-contact-info {
+        background-image: url(images/grey/update_contact_info.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-upload-for-cloud {
+        background-image: url(images/grey/upload_for_cloud.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-upload-for-linux {
+        background-image: url(images/grey/upload_for_linux.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-user-astronaut {
+        background-image: url(images/grey/user_astronaut.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-user-bender {
+        background-image: url(images/grey/user_bender.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-user-detective-gray {
+        background-image: url(images/grey/user_detective_gray.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-user-gray {
+        background-image: url(images/grey/user_gray.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-user-imprisoned {
+        background-image: url(images/grey/user_imprisoned.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-user-imprisoned-female {
+        background-image: url(images/grey/user_imprisoned_female.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-user-knight {
+        background-image: url(images/grey/user_knight.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-user-maid {
+        background-image: url(images/grey/user_maid.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-user-oldman-black {
+        background-image: url(images/grey/user_oldman_black.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-user-r2d2 {
+        background-image: url(images/grey/user_r2d2.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-user-robocop {
+        background-image: url(images/grey/user_robocop.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-user-squidward {
+        background-image: url(images/grey/user_squidward.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-user-suit {
+        background-image: url(images/grey/user_suit.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-user-yoda {
+        background-image: url(images/grey/user_yoda.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-use-in-formula {
+        background-image: url(images/grey/use_in_formula.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-vbox {
+        background-image: url(images/grey/vbox.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-viewstack {
+        background-image: url(images/grey/viewstack.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-vrule {
+        background-image: url(images/grey/vrule.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-vslider {
+        background-image: url(images/grey/vslider.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-wall {
+        background-image: url(images/grey/wall.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-wall-breack {
+        background-image: url(images/grey/wall_breack.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-wand {
+        background-image: url(images/grey/wand.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-webcam {
+        background-image: url(images/grey/webcam.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-webcam-add {
+        background-image: url(images/grey/webcam_add.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-webcam-delete {
+        background-image: url(images/grey/webcam_delete.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-webcam-error {
+        background-image: url(images/grey/webcam_error.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-web-disk {
+        background-image: url(images/grey/web_disk.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-weighing-mashine {
+        background-image: url(images/grey/weighing_mashine.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-weight {
+        background-image: url(images/grey/weight.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-wordpress-blog {
+        background-image: url(images/grey/wordpress_blog.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-word-count {
+        background-image: url(images/grey/word_count.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-word-wrap {
+        background-image: url(images/grey/word_wrap.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-wrapping-behind {
+        background-image: url(images/grey/wrapping_behind.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-wrapping-between {
+        background-image: url(images/grey/wrapping_between.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-wrapping-edit {
+        background-image: url(images/grey/wrapping_edit.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-wrapping-inline {
+        background-image: url(images/grey/wrapping_inline.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-wrapping-in-front {
+        background-image: url(images/grey/wrapping_in_front.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-wrapping-magazine {
+        background-image: url(images/grey/wrapping_magazine.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-wrapping-square {
+        background-image: url(images/grey/wrapping_square.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.grey-wrapping-tight {
+        background-image: url(images/grey/wrapping_tight.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }

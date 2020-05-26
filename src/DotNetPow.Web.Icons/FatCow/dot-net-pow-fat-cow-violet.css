@@ -1,0 +1,440 @@
+﻿.fat-cow {
+    background-position-x: center;
+    background-position-y: center;
+    background-repeat: no-repeat;
+    display: inline-block;
+}
+
+    .fat-cow.violet-apache-handlers {
+        background-image: url(images/violet/apache_handlers.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.violet-backup-wizard {
+        background-image: url(images/violet/backup_wizard.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.violet-bullet-pink {
+        background-image: url(images/violet/bullet_pink.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.violet-bullet-purple {
+        background-image: url(images/violet/bullet_purple.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.violet-candle-2 {
+        background-image: url(images/violet/candle_2.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.violet-card-solo {
+        background-image: url(images/violet/card_solo.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.violet-clear-formatting {
+        background-image: url(images/violet/clear_formatting.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.violet-clock {
+        background-image: url(images/violet/clock.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.violet-clock-15 {
+        background-image: url(images/violet/clock_15.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.violet-clock-45 {
+        background-image: url(images/violet/clock_45.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.violet-clock-add {
+        background-image: url(images/violet/clock_add.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.violet-clock-delete {
+        background-image: url(images/violet/clock_delete.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.violet-clock-edit {
+        background-image: url(images/violet/clock_edit.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.violet-clock-error {
+        background-image: url(images/violet/clock_error.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.violet-clock-go {
+        background-image: url(images/violet/clock_go.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.violet-clock-link {
+        background-image: url(images/violet/clock_link.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.violet-clock-moon-phase {
+        background-image: url(images/violet/clock_moon_phase.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.violet-clock-pause {
+        background-image: url(images/violet/clock_pause.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.violet-clock-play {
+        background-image: url(images/violet/clock_play.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.violet-clock-stop {
+        background-image: url(images/violet/clock_stop.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.violet-color-adjustment-blue {
+        background-image: url(images/violet/color_adjustment_blue.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.violet-debian {
+        background-image: url(images/violet/debian.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.violet-digital-signature-pen {
+        background-image: url(images/violet/digital_signature_pen.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.violet-distribution-partnerships {
+        background-image: url(images/violet/distribution_partnerships.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.violet-female {
+        background-image: url(images/violet/female.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.violet-file-extension-7z {
+        background-image: url(images/violet/file_extension_7z.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.violet-file-extension-aif {
+        background-image: url(images/violet/file_extension_aif.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.violet-file-extension-aiff {
+        background-image: url(images/violet/file_extension_aiff.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.violet-file-extension-amr {
+        background-image: url(images/violet/file_extension_amr.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.violet-file-extension-gz {
+        background-image: url(images/violet/file_extension_gz.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.violet-file-extension-indd {
+        background-image: url(images/violet/file_extension_indd.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.violet-fill-color {
+        background-image: url(images/violet/fill_color.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.violet-flag-flyaway-purple {
+        background-image: url(images/violet/flag_flyaway_purple.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.violet-flower {
+        background-image: url(images/violet/flower.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.violet-from-access {
+        background-image: url(images/violet/from_access.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.violet-fruit-grape {
+        background-image: url(images/violet/fruit_grape.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.violet-gentoo-linux {
+        background-image: url(images/violet/gentoo_linux.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.violet-handbag {
+        background-image: url(images/violet/handbag.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.violet-http-server-apache {
+        background-image: url(images/violet/http_server_apache.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.violet-infocard {
+        background-image: url(images/violet/infocard.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.violet-languange {
+        background-image: url(images/violet/languange.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.violet-more-form {
+        background-image: url(images/violet/more_form.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.violet-navigation {
+        background-image: url(images/violet/navigation.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.violet-orkut {
+        background-image: url(images/violet/orkut.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.violet-pandora {
+        background-image: url(images/violet/pandora.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.violet-personal-finance {
+        background-image: url(images/violet/personal_finance.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.violet-php {
+        background-image: url(images/violet/php.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.violet-php-configuration {
+        background-image: url(images/violet/php_configuration.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.violet-ribbon-aids {
+        background-image: url(images/violet/ribbon_aids.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.violet-select-php-version {
+        background-image: url(images/violet/select_php_version.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.violet-shopping {
+        background-image: url(images/violet/shopping.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.violet-slackware {
+        background-image: url(images/violet/slackware.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.violet-soap {
+        background-image: url(images/violet/soap.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.violet-tag-purple {
+        background-image: url(images/violet/tag_purple.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.violet-token-mode-modifier {
+        background-image: url(images/violet/token_mode_modifier.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.violet-torchere {
+        background-image: url(images/violet/torchere.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.violet-users-men-women {
+        background-image: url(images/violet/users_men_women.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.violet-user-blondy {
+        background-image: url(images/violet/user_blondy.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.violet-user-emo {
+        background-image: url(images/violet/user_emo.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.violet-user-female {
+        background-image: url(images/violet/user_female.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.violet-user-oldwoman {
+        background-image: url(images/violet/user_oldwoman.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .fat-cow.violet-user-oldwoman-black {
+        background-image: url(images/violet/user_oldwoman_black.png);
+        background-size: 32px 32px;
+        width: 32px;
+        height: 32px;
+    }

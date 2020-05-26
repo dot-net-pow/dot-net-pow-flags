@@ -1,0 +1,1700 @@
+﻿.fat-cow {
+    background-position-x: center;
+    background-position-y: center;
+    background-repeat: no-repeat;
+    display: inline-block;
+}
+
+.fat-cow.brown-acorn {
+    background-image: url(images/brown/acorn.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-acoustic-guitar {
+    background-image: url(images/brown/acoustic_guitar.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-add-package {
+    background-image: url(images/brown/add_package.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-advanced-data-grid {
+    background-image: url(images/brown/advanced_data_grid.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-angel {
+    background-image: url(images/brown/angel.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-artwork {
+    background-image: url(images/brown/artwork.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-auction-hammer-gavel {
+    background-image: url(images/brown/auction_hammer_gavel.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-baggage-cart-box {
+    background-image: url(images/brown/baggage_cart_box.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-balance {
+    background-image: url(images/brown/balance.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-balance-unbalance {
+    background-image: url(images/brown/balance_unbalance.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-bandaid {
+    background-image: url(images/brown/bandaid.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-bank {
+    background-image: url(images/brown/bank.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-basic-cpanel-wmh-setup {
+    background-image: url(images/brown/basic_cpanel_wmh_setup.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-bean {
+    background-image: url(images/brown/bean.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-beer {
+    background-image: url(images/brown/beer.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-board-game {
+    background-image: url(images/brown/board_game.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-bookshelf {
+    background-image: url(images/brown/bookshelf.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-book-addresses {
+    background-image: url(images/brown/book_addresses.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-book-keeping {
+    background-image: url(images/brown/book_keeping.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-book-next {
+    background-image: url(images/brown/book_next.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-book-open {
+    background-image: url(images/brown/book_open.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-book-picture {
+    background-image: url(images/brown/book_picture.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-book-previous {
+    background-image: url(images/brown/book_previous.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-book-spelling {
+    background-image: url(images/brown/book_spelling.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-boomerang {
+    background-image: url(images/brown/boomerang.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-bow {
+    background-image: url(images/brown/bow.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-box {
+    background-image: url(images/brown/box.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-box-closed {
+    background-image: url(images/brown/box_closed.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-box-down {
+    background-image: url(images/brown/box_down.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-box-front {
+    background-image: url(images/brown/box_front.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-box-front-open {
+    background-image: url(images/brown/box_front_open.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-box-open {
+    background-image: url(images/brown/box_open.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-box-resize {
+    background-image: url(images/brown/box_resize.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-box-resize-actual {
+    background-image: url(images/brown/box_resize_actual.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-box-search {
+    background-image: url(images/brown/box_search.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-brain {
+    background-image: url(images/brown/brain.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-brain-trainer {
+    background-image: url(images/brown/brain_trainer.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-bread {
+    background-image: url(images/brown/bread.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-briefcase {
+    background-image: url(images/brown/briefcase.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-broom {
+    background-image: url(images/brown/broom.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-bug {
+    background-image: url(images/brown/bug.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-bug-add {
+    background-image: url(images/brown/bug_add.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-bug-delete {
+    background-image: url(images/brown/bug_delete.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-bug-edit {
+    background-image: url(images/brown/bug_edit.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-bug-error {
+    background-image: url(images/brown/bug_error.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-bug-go {
+    background-image: url(images/brown/bug_go.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-bug-link {
+    background-image: url(images/brown/bug_link.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-bullet-palette {
+    background-image: url(images/brown/bullet_palette.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-bullet-powerpoint {
+    background-image: url(images/brown/bullet_powerpoint.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-burro {
+    background-image: url(images/brown/burro.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-card-chip-gold {
+    background-image: url(images/brown/card_chip_gold.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-card-credit {
+    background-image: url(images/brown/card_credit.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-card-gold {
+    background-image: url(images/brown/card_gold.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-cat {
+    background-image: url(images/brown/cat.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-celsius {
+    background-image: url(images/brown/celsius.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-cgi-center {
+    background-image: url(images/brown/cgi_center.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-cheque {
+    background-image: url(images/brown/cheque.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-chess-bishop-white {
+    background-image: url(images/brown/chess_bishop_white.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-chess-horse-white {
+    background-image: url(images/brown/chess_horse_white.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-chess-king-white {
+    background-image: url(images/brown/chess_king_white.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-chess-pawn-white {
+    background-image: url(images/brown/chess_pawn_white.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-chess-queen-white {
+    background-image: url(images/brown/chess_queen_white.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-chess-tower-white {
+    background-image: url(images/brown/chess_tower_white.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-chiken-leg {
+    background-image: url(images/brown/chiken_leg.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-cinema-ticket {
+    background-image: url(images/brown/cinema_ticket.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-clipboard-empty {
+    background-image: url(images/brown/clipboard_empty.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-clipboard-invoice {
+    background-image: url(images/brown/clipboard_invoice.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-clipboard-sign {
+    background-image: url(images/brown/clipboard_sign.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-clipboard-sign-out {
+    background-image: url(images/brown/clipboard_sign_out.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-coin-single-cooper {
+    background-image: url(images/brown/coin_single_cooper.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-cookies {
+    background-image: url(images/brown/cookies.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-cookie-chocolate {
+    background-image: url(images/brown/cookie_chocolate.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-delay-delivery-outlook {
+    background-image: url(images/brown/delay_delivery_outlook.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-delete-package {
+    background-image: url(images/brown/delete_package.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-diagnostic-chart {
+    background-image: url(images/brown/diagnostic_chart.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-direction {
+    background-image: url(images/brown/direction.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-dog {
+    background-image: url(images/brown/dog.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-donut {
+    background-image: url(images/brown/donut.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-door {
+    background-image: url(images/brown/door.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-drawer {
+    background-image: url(images/brown/drawer.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-drawer-open {
+    background-image: url(images/brown/drawer_open.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-draw-clone {
+    background-image: url(images/brown/draw_clone.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-ear-listen {
+    background-image: url(images/brown/ear_listen.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-edit-package {
+    background-image: url(images/brown/edit_package.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-emotion-face-monkey {
+    background-image: url(images/brown/emotion_face_monkey.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-emotion-kiddy {
+    background-image: url(images/brown/emotion_kiddy.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-emotion-rap {
+    background-image: url(images/brown/emotion_rap.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-entity {
+    background-image: url(images/brown/entity.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-eye-close {
+    background-image: url(images/brown/eye_close.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-file-extension-tgz {
+    background-image: url(images/brown/file_extension_tgz.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-file-extension-tif {
+    background-image: url(images/brown/file_extension_tif.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-file-extension-zip {
+    background-image: url(images/brown/file_extension_zip.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-firewall {
+    background-image: url(images/brown/firewall.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-firewall-burn {
+    background-image: url(images/brown/firewall_burn.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-format-painter {
+    background-image: url(images/brown/format_painter.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-generate-ssl-certificate {
+    background-image: url(images/brown/generate_ssl_certificate.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-gingerbread-man {
+    background-image: url(images/brown/gingerbread_man.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-gingerbread-man-chocolate {
+    background-image: url(images/brown/gingerbread_man_chocolate.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-hamburger {
+    background-image: url(images/brown/hamburger.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-hostname-tld {
+    background-image: url(images/brown/hostname_tld.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-hotjobs {
+    background-image: url(images/brown/hotjobs.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-hourglass {
+    background-image: url(images/brown/hourglass.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-hourglass-add {
+    background-image: url(images/brown/hourglass_add.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-hourglass-delete {
+    background-image: url(images/brown/hourglass_delete.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-hourglass-go {
+    background-image: url(images/brown/hourglass_go.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-hourglass-link {
+    background-image: url(images/brown/hourglass_link.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-house {
+    background-image: url(images/brown/house.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-house-go {
+    background-image: url(images/brown/house_go.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-house-link {
+    background-image: url(images/brown/house_link.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-house-one {
+    background-image: url(images/brown/house_one.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-house-two {
+    background-image: url(images/brown/house_two.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-icecream {
+    background-image: url(images/brown/icecream.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-import-email-accounts {
+    background-image: url(images/brown/import_email_accounts.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-inbox-document {
+    background-image: url(images/brown/inbox_document.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-inbox-document-music {
+    background-image: url(images/brown/inbox_document_music.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-inbox-document-text {
+    background-image: url(images/brown/inbox_document_text.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-inbox-download {
+    background-image: url(images/brown/inbox_download.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-inbox-empty {
+    background-image: url(images/brown/inbox_empty.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-inbox-film {
+    background-image: url(images/brown/inbox_film.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-inbox-images {
+    background-image: url(images/brown/inbox_images.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-inbox-slide {
+    background-image: url(images/brown/inbox_slide.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-inbox-table {
+    background-image: url(images/brown/inbox_table.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-inbox-upload {
+    background-image: url(images/brown/inbox_upload.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-installer-box {
+    background-image: url(images/brown/installer_box.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-install-ssl-certificate {
+    background-image: url(images/brown/install_ssl_certificate.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-knot {
+    background-image: url(images/brown/knot.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-lighthouse-closed {
+    background-image: url(images/brown/lighthouse_closed.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-lock {
+    background-image: url(images/brown/lock.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-lock-add {
+    background-image: url(images/brown/lock_add.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-lock-break {
+    background-image: url(images/brown/lock_break.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-lock-delete {
+    background-image: url(images/brown/lock_delete.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-lock-edit {
+    background-image: url(images/brown/lock_edit.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-lock-go {
+    background-image: url(images/brown/lock_go.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-lock-open {
+    background-image: url(images/brown/lock_open.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-lorry {
+    background-image: url(images/brown/lorry.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-lorry-add {
+    background-image: url(images/brown/lorry_add.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-lorry-box {
+    background-image: url(images/brown/lorry_box.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-lorry-delete {
+    background-image: url(images/brown/lorry_delete.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-lorry-error {
+    background-image: url(images/brown/lorry_error.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-lorry-flatbed {
+    background-image: url(images/brown/lorry_flatbed.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-lorry-go {
+    background-image: url(images/brown/lorry_go.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-lorry-link {
+    background-image: url(images/brown/lorry_link.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-luggage-brown {
+    background-image: url(images/brown/luggage_brown.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-luggage-brown-tag {
+    background-image: url(images/brown/luggage_brown_tag.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-manage-sources {
+    background-image: url(images/brown/manage_sources.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-manage-ssl-hosts {
+    background-image: url(images/brown/manage_ssl_hosts.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-medical-record {
+    background-image: url(images/brown/medical_record.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-meeting-workspace {
+    background-image: url(images/brown/meeting_workspace.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-metronome {
+    background-image: url(images/brown/metronome.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-mixture {
+    background-image: url(images/brown/mixture.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-moneybox {
+    background-image: url(images/brown/moneybox.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-money-bag {
+    background-image: url(images/brown/money_bag.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-moon {
+    background-image: url(images/brown/moon.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-motherboard {
+    background-image: url(images/brown/motherboard.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-mushroom {
+    background-image: url(images/brown/mushroom.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-mustache {
+    background-image: url(images/brown/mustache.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-name-manager {
+    background-image: url(images/brown/name_manager.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-network-firewall {
+    background-image: url(images/brown/network_firewall.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-no-image {
+    background-image: url(images/brown/no_image.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-page-magnifier {
+    background-image: url(images/brown/page_magnifier.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-page-paste {
+    background-image: url(images/brown/page_paste.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-page-white-paste {
+    background-image: url(images/brown/page_white_paste.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-paintbrush {
+    background-image: url(images/brown/paintbrush.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-palette {
+    background-image: url(images/brown/palette.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-paste-plain {
+    background-image: url(images/brown/paste_plain.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-paste-word {
+    background-image: url(images/brown/paste_word.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-photos {
+    background-image: url(images/brown/photos.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-photo-album {
+    background-image: url(images/brown/photo_album.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-picture-frame {
+    background-image: url(images/brown/picture_frame.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-picture-sunset {
+    background-image: url(images/brown/picture_sunset.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-piece-of-cake {
+    background-image: url(images/brown/piece_of_cake.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-pint {
+    background-image: url(images/brown/pint.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-pipette {
+    background-image: url(images/brown/pipette.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-poo {
+    background-image: url(images/brown/poo.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-purchase-install-ssl-certificate {
+    background-image: url(images/brown/purchase_install_ssl_certificate.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-purse {
+    background-image: url(images/brown/purse.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-qip-eating {
+    background-image: url(images/brown/qip_eating.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-radio-oldschool {
+    background-image: url(images/brown/radio_oldschool.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-real-estate {
+    background-image: url(images/brown/real_estate.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-recycle-bag {
+    background-image: url(images/brown/recycle_bag.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-reseller-account {
+    background-image: url(images/brown/reseller_account.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-reseller-account-template {
+    background-image: url(images/brown/reseller_account_template.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-reseller-programm {
+    background-image: url(images/brown/reseller_programm.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-restaurant-menu {
+    background-image: url(images/brown/restaurant_menu.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-rocking-chair {
+    background-image: url(images/brown/rocking_chair.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-sheduled-task {
+    background-image: url(images/brown/sheduled_task.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-shoe {
+    background-image: url(images/brown/shoe.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-skate {
+    background-image: url(images/brown/skate.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-skull-old {
+    background-image: url(images/brown/skull_old.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-snail {
+    background-image: url(images/brown/snail.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-sofa {
+    background-image: url(images/brown/sofa.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-speakers {
+    background-image: url(images/brown/speakers.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-speaker-network {
+    background-image: url(images/brown/speaker_network.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-sport {
+    background-image: url(images/brown/sport.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-sport-football {
+    background-image: url(images/brown/sport_football.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-ssl-certificates {
+    background-image: url(images/brown/ssl_certificates.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-ssl-tls-manager {
+    background-image: url(images/brown/ssl_tls_manager.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-stairs {
+    background-image: url(images/brown/stairs.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-stamp-pattern {
+    background-image: url(images/brown/stamp_pattern.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-steering-wheel {
+    background-image: url(images/brown/steering_wheel.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-stethoscope-vintage {
+    background-image: url(images/brown/stethoscope_vintage.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-subwoofer {
+    background-image: url(images/brown/subwoofer.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-teddy-bear {
+    background-image: url(images/brown/teddy_bear.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-ticket-stub {
+    background-image: url(images/brown/ticket_stub.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-tower {
+    background-image: url(images/brown/tower.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-travel {
+    background-image: url(images/brown/travel.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-tree-bare {
+    background-image: url(images/brown/tree_bare.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-tree-yellow {
+    background-image: url(images/brown/tree_yellow.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-trojan-horse {
+    background-image: url(images/brown/trojan_horse.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-tub {
+    background-image: url(images/brown/tub.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-unicorn {
+    background-image: url(images/brown/unicorn.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-users-3 {
+    background-image: url(images/brown/users_3.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-users-4 {
+    background-image: url(images/brown/users_4.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-users-5 {
+    background-image: url(images/brown/users_5.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-user-buddhist {
+    background-image: url(images/brown/user_buddhist.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-user-c3po {
+    background-image: url(images/brown/user_c3po.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-user-cowboy {
+    background-image: url(images/brown/user_cowboy.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-user-cowboy-female {
+    background-image: url(images/brown/user_cowboy_female.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-user-eskimo {
+    background-image: url(images/brown/user_eskimo.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-user-eskimo-female {
+    background-image: url(images/brown/user_eskimo_female.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-user-freddy {
+    background-image: url(images/brown/user_freddy.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-user-jawa {
+    background-image: url(images/brown/user_jawa.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-user-level-filtering {
+    background-image: url(images/brown/user_level_filtering.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-user-mexican {
+    background-image: url(images/brown/user_mexican.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-user-nude {
+    background-image: url(images/brown/user_nude.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-user-nude-black {
+    background-image: url(images/brown/user_nude_black.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-user-nude-female {
+    background-image: url(images/brown/user_nude_female.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-user-nude-female-black {
+    background-image: url(images/brown/user_nude_female_black.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-user-swimmer {
+    background-image: url(images/brown/user_swimmer.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-user-swimmer-black {
+    background-image: url(images/brown/user_swimmer_black.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-user-viking {
+    background-image: url(images/brown/user_viking.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-user-viking-female {
+    background-image: url(images/brown/user_viking_female.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-user-wicket {
+    background-image: url(images/brown/user_wicket.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-vase {
+    background-image: url(images/brown/vase.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-wallet {
+    background-image: url(images/brown/wallet.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-weather-moon-fog {
+    background-image: url(images/brown/weather_moon_fog.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-weather-moon-half {
+    background-image: url(images/brown/weather_moon_half.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-wishlist-add {
+    background-image: url(images/brown/wishlist_add.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-zone {
+    background-image: url(images/brown/zone.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-zone-money {
+    background-image: url(images/brown/zone_money.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-zone-resize {
+    background-image: url(images/brown/zone_resize.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fat-cow.brown-zone-resize-actual {
+    background-image: url(images/brown/zone_resize_actual.png);
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+}
